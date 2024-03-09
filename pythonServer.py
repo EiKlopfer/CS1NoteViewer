@@ -4,7 +4,7 @@ import json  # Import the json module
 import re  # Import the regex module for Markdown processing
 
 PORT = 8000
-text_file_path = 'CS1Notes.md'
+text_file_path = 'CS1Notes.txt'
 
 def markdown_to_html(markdown_text):
     # Convert Markdown headings (levels 1-6)
