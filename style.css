@@ -1,0 +1,57 @@
+:root {
+    --text-color-base: #ffffff; /* Pure white base color */
+    --text-opacity-high: 0.87;
+    --text-opacity-medium: 0.6;
+    --text-opacity-disabled: 0.38;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #1A1A1A; /* Ensures the entire page has the dark theme background */
+  color: #ffffff; /* Default text color for better contrast */
+}
+
+body {
+  display: flex;
+  flex-direction: column; /* Stacks children vertically */
+  justify-content: center; /* Center children vertically */
+  align-items: stretch; /* Stretch children to fill the width */
+}
+
+#textContent {
+  width: 95%;
+  height: 95%;
+  margin: auto;
+  overflow: hidden;
+  white-space: pre-wrap;
+  outline: none;
+  text-align: left; /* Align text to the left */
+  color: rgba(255, 255, 255, var(--text-opacity-medium)); /* Medium emphasis for default text */
+  font-family: 'Roboto Mono', monospace;
+  background-color: #121212;
+  border-radius: 8px; /* Optional: Adds rounded corners for a softer look */
+  padding: 20px; /* Add some padding around the text */
+}
+
+strong, h1, h2, h3, h4, h5, h6 {
+    color: rgba(255, 255, 255, var(--text-opacity-high)); /* High emphasis */
+}
+
+/* Adjust margins for heading elements */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: bold; /* Makes headings more prominent */
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    line-height: 1.2; /* Tighten the line height for headings */
+}
+
+strong {
+  font-weight: bold; /* Ensures bold text is sufficiently emphasized */
+}
+
+em {
+  font-style: italic; /* For emphasized text */
+}
