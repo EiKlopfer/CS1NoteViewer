@@ -31,6 +31,7 @@ Rean: Falco
 Space Rean Gaius front, Ellliot bottom left, Jusis one right from mid 3
 Grind to five, try to get multi kills for XP boost.
 -- Anyone but Rean gets triple advantage on beetle fights
+-- Rean craft and Jusis art to go for multi kill on beetles
 
 ### Garg Fight
 - Arts for phase one, open with Beat to keep HP high
@@ -52,7 +53,7 @@ Quartz: Forte and Tear
 Pawn -> Upgrade tear (hoping we got a UMat from mini grind)
 Le Sage -> armor for Rean and Elliot
 
-FT to Courtyard to fish -> with crab need 2 fish, no crab need 4
+FT to Courtyard to fish -> with crab need 2 fish, no crab need 4 -> Sword on Gaius
 FT to Old Schoolhouse
 
 [PAGE]
@@ -61,7 +62,7 @@ FT to Old Schoolhouse
 **Setup**
 - Trigger tutorial on links before menu
 Rean: Poison, Tear for HP
-Elliot: Forte
+_Elliot: Forte
 Formation: Rean one in from left top, Gaius back left, **link** with Gaius, Elliot back right
 
 - Tutorial Fight - motivate once, spam crafts with RG and E attack
@@ -74,7 +75,7 @@ Equip: Rean Glasses
 ### Demon Fight
 -- Motivate, Beat, Gaius craft to open
 -- Gaius attack once to close in, switch back to craft
--- Keep Str and Def up, weave in Tears after Beat
+-- Keep Str and Def up, weave in arts after Beat
 -- Rean Attack, Gaius Craft
 
 [PAGE]
@@ -89,7 +90,7 @@ Elliot: Soulblur
 -- Motivate x2 and Beat
 -- Elliot Soulblur when regen up
 -- Rean keep StrUp and attack, only Craft to stop cast
--- Gaius craft twice then start attack
+-- Gaius craft twice then start attack (less delay)
 
 [PAGE]
 
@@ -104,15 +105,15 @@ Slot: NONE
 Quartz: Needle Shot x2, HP1, Soulblur
 Weapons: Rean and Laura
 Rean: Force, Poison -> Needle shot, Soulblur if no Tear
-Alisa: Needle Shot
-Elliot: Falco, Forte -> Soulblur
-Laura: HP1
-Formation: Move everyone behind Elliot
+_Alisa: Needle Shot
+__Elliot: Falco
+___Laura: HP1
+Formation: Rean and Laura to back line, get everyone behind Elliot
 ### Quests
 - Church start - Market, West Gate
 - West area: Wolf Fight, farm house, lamp, **chests by lamp**
 -- Wolves Fight: Let all wolves move once so more grouped for SBreak
-- Return to town and turn in both quests, then **East gate**
+- Return to town and turn in both quests. **If Elliot died** then Inn.
 - East area: Proxy zone 1, Stop at farmhouse, Dino Fight then all chests on way out
 -- Dino Fight, Needle for petrify and then smash
 - Return to town and scene in Market
@@ -132,7 +133,7 @@ Buy: Citrus Bottle for Elliot
 Side Quest Boss Fight
 - Walk to west gate, drunk
 - Fight Bird - petrify spam again
-- Get chest and return to town, Inn x1 and Mayor
+- Get chest and return to town to turn in quest, Inn x1 if didn't Inn yesterday
 - **Upgrade** Laura's weapon
 
 ### Main Quest
@@ -150,17 +151,17 @@ Formation: Elliot one away from front. Rean, Laura back left. Alisa back right.
 
 **Boss Fight 1 - Jeagers**
 - Rean motivate just once, then start to delay once they are grouped. Stopping attacks more important
-- Elliot beat twice then attack or arts
-- Alisa moves next to Elliot to avoid being super focused, switch to arts or self heal after
-- Laura just attack all fight
+- Elliot beat once then attack or arts
+- Alisa heal self if taking too much damage, otherwise arts. Watch for arts cast time to get beat heal
+- Laura art to open to let enemies move in then switch to attack
 
 **Boss Fight 2 - Monkeys**
 - Arts for Laura and Alisa on boss, Motivate and Beat to open
 - Let boss and adds close in so all on top of Elliot, SBreak with double Str up Laura to kill
 - Elliot move slightly behind monkey once adds down
-- Elliot keeps regen on Rean and Laura, heals as needed else Soulblur
-- Alisa Blessed Arrows to heal as needed, otherwise pass
-- Rean and Laura item heal if needed
+- Elliot keeps regen on Rean and Laura, else Soulblur
+- Alisa Blessed Arrows to heal as needed, otherwise pass. Only BA for heals, not just for CP
+- Rean and Laura item heal eachother if needed
 - Rean motivate or soulblur, Luara attack
 - SBreak as available
 
@@ -188,12 +189,12 @@ FT to Oldschool house
 ## Old Schoolhouse
 - Chests: 3 - right after first ladder, on way after second ladder, on way to exit
 **Shopping** pre boss
-Slot: Gaius 4-1, Laura 2-1
+Slot: Laura 2-1, Gaius 4-1
 Quartz: HP1, Impede1
 Rean: Impede1
-Elliot: Scepter
-Laura: Attack2
-Gaius: Falco, Evade1, HP1                                 RL.
+__Elliot: Scepter
+___Laura: Attack2
+____Gaius: Falco, Evade1, HP1                             RL.
 Equip: Gaius: Dodge armor from E, **Floral**, Alisa armor     .E.
 Formation: Everyone on left, Gaius in back:               ..A
 Start with **no** Alisa                                       ..G
@@ -214,6 +215,7 @@ Art side quest with double Inn rest then end at dorm, Exam Fight
 
 ## Exam Fight x2
 Formation: Gaius mid front, RL back left, Alisa back right
+- Link Gaius w/ Laura
 - Gaius will craft, Rean motivates, RL will spam SBreaks when StrUp, Alisa heal
 - Watch for art, is shield so don't SBreak after
 **Sara Fight**
@@ -225,21 +227,19 @@ Just group up and lose
 REMOVE ALL QUARTZ, Inn for CP, Train
 
 ### Day 1
-Jewel quest, Shopping, Fate Fight, Long walk
 Jewel quest - art street, north highway - sap and chest, art street
 **Shopping** - Galleria then Orb
 Sell: Weapons, Needle Shots, Sept Vein, Move 2, Luck, Golden
 Buy: Eggs x21, Milk x11, Salt x21
 Weapons: Rean, Fie, Jusis
--- Orb shopping:
 **Upgrade**: Fie
-Slots: Fie 1-2, 2-1, 2-2, Rean 2-2
+Slots: Rean 2-2, Fie 1-2, 2-1, 2-2
 Quartz: Soulblur
 Rean: Falco, Soulblur
-Emma: Scepter, HP1
-Fie: Brave, Attack1/2, HP1, Soulblur
-Jusis: Force, HP1, Soulblur
-Mach: Raven, HP1, Soulbur
+_Emma: Scepter, HP1
+__Fie: Brave, Attack1/2, HP1, Soulblur
+___Jusis: Force, HP1, Soulblur
+____Mach: Raven, HP1, Soulblur
 
 Equip: Rean Coral to Floral, Fie Fort and Cozy Socks, Jusis Sword, Citrus
 Formation: Rean mid front, Jusis and Fie flank row 4
@@ -252,8 +252,7 @@ Rean motivate for SBreaks
 Spam Soulblur to faint fish
 SBreak when faint for Critical
 
-Run down path and then back to town
-Hotel to end day
+Run down path and then back to town, Hotel to end day
 
 [PAGE]
 
@@ -265,21 +264,20 @@ Equip: Rean Floral -> White Glasses
 Formation: Rean top right, everyone else bottom left w/ **Fie lower right**
 
 **Flower Fight**
-Motivate or Fie soup self, SBreak for adds
-Soulbur for faints, both def and off
-Watch for chance for Mach to Def down before SBreak again
-- once faint and both Rean and Fie can SBreak kill
-- Pizza can get Fie CP if needed
+Motivate and/or soup Fie to Strx2, SBreak the adds
+Soulblur for faints, both def and off
+If Emma heals Rean then Soup for 200CP Sbreak
+- **Pizza** can get Fie CP if needed
 
 Return to town, Inn for CP, Station for sewer
 Zone 1 - 1 chest on way
 Zone 2 - Ladder after Jusis, MobBox
-- Motivate, don't move and let group up, Fie Sbreak
+- Fie SBreak immediately to kill all but one, arts the last one
 
 **Setup**
 Rean: Impede -> Speed quartz
-Fie: Brave, Attack1 -> Invigorate
-Jusis: Raven, Soulblur -> Impede1
+__Fie: Brave, Attack1 -> Invigorate
+___Jusis: Raven, Soulblur -> Impede1
 Formation, everyone back left in line
 Spam attack for CP200
 
@@ -287,7 +285,7 @@ Zone 3 - Ladder at T
 
 [PAGE]
 
-**Guards** - Motivate or Soup Fie, SBreak
+**Guards** - Motivate or Soup Fie, SBreak when hit both
 
 **Setup**
 Build CP160ish
@@ -299,6 +297,7 @@ Fish for faint on back/gold dog and triple SBreak with Double Str
 Jusis Delay spam remaining dog
 Fie/Mach Impassion Jusis then everyone else
 Rean Motivate/Soulbreak
+Link attack back dog if Fainted
 
 [PAGE]
 
@@ -321,14 +320,14 @@ Zone 1 - second switch chest,
 Zone 2 - only hit one switch, avoid chests
 **Shopping/Setup**
 **Laura tank to group up the demons, HP and Cooling**
-Slots: Rean 1-2, Elliot 1-2, 1-3, Laura 1-2, Fie 1-3, Gaius 2-1
+Slots: Rean 1-2, Laura 1-2, Fie 1-3, Elliot 1-2, 1-3, Gaius 2-1
 Quartz: HP1, Attack1, Dark Matter
--Rean: Raven
--Alisa: HP1
--Elliot: Scepter
--Laura: Falco, HP1/2, Attack1
--Fie: Force, Attack1, Evade1?
--Jusis: Brave, Impede -> Hare
+Rean: Raven
+_Alisa: HP1
+__Laura: Falco, HP1/2, Attack1
+___Fie: Force, Attack1, Evade1?
+____Elliot: Scepter
+_____Jusis: Brave, Impede -> Hare
 Equip: Laura Cooling Belt
 Formation: Laura mid front, 3rd row Jusia space Rean space Fie
 
@@ -336,7 +335,7 @@ Formation: Laura mid front, 3rd row Jusia space Rean space Fie
 Motivate x2 with Rean
 Jusis Breath everyone
 Laura heal self or pass, don't move!
-Once all on top of Laura then SBreak
+Once all on top of Laura then SBreak all but Rean to win
 
 [PAGE]
 
@@ -347,16 +346,18 @@ Once all on top of Laura then SBreak
 ## Exam fight
 **Setup**
 REMOVE QUARTZ from Alisa, Fie, Laura and Jusis
--Rean: Raven, Attack2, Impede, Demon/Action2
--Gaius: Brave, Attack1, Invigorate, Evade1
--Elliot: Falco, Dark Matter, Silver Thorn, HP2
--Mach: Scepter, Forte
+Rean: Raven, Attack2, **Impede**, Demon/Action2
+_Elliot: Falco, Dark Matter, Silver Thorn, HP2
+__Mach: Scepter, Forte
+___Gaius: Brave, Attack1, Invigorate, Evade1
 Equip: Rean White Glasses to Headband
 Formation: Elliot bottom left, **Link** Rean and Gaius
+
+**Patrick is a jerk**
 Dark Matter to group - NO Turbo
 Delay spam, use link attacks
 Forte from Mach and Gaius to Rean
-Mach keeps Forte/Impassion
+Mach keeps Forte on Rean/Gaius, soup if too slow on cast
 Sbreak to end is ok, make sure Pat low enough
 
 If bad turn order then watch for movement before DM goes off
@@ -376,11 +377,11 @@ Sell: Weapons, Quartz - all earth, Move1, Spark Arrow, Hit2, All Mirage
 Weapons: Rean, Jusis, Gaius
 Slot: Gaius 1-2
 Quartz: Attack2
--Rean: Raven, Impede->Speed quartz
--Alisa: Falco, HP1/2
--Emma: Scepter, HP1, Hare
--Gaius: Brave, Attack2, HP1
--Jusis: Force, Attack1, HP1
+Rean: Raven, Impede->Speed quartz
+_Alisa: Falco, HP1/2
+__Emma: Scepter, HP1, Hare
+___Gaius: Brave, Attack1->Attack2, HP1
+____Jusis: Force, Attack1, HP1
 Equip: Rean Headband -> Coral Brac, Alisa Coral Swordtail, Gaius Headband Fort, Jusis Citrus 
 Formation: Bottom right corner, Jusis and Gaius in front
 Emma out, Emma heal
@@ -416,9 +417,9 @@ South - off horse and fight, Impassion and Blessed arrow to 200CP on fighters, 1
 Heal after fight then Camp -> North -> Ruins
 **Ruins Fight1** - Double buff Jusis and SBreak (or steal Deathblow)
 **Setup**
--Gaius: Falco
--Alisa: Angel
-Formation: Gaius mid front, Mil one back right, _A_R_ back row
+__Alisa: Angel
+___Gaius: Falco
+Formation: Gaius mid front, R__M row 2, Alisa back left corner
 Zone1 - 2 Chests, both on the way
 
 [PAGE]
@@ -433,6 +434,7 @@ Alisa blessed arrow for CP
 Motivate, Impassion Mil, Earth Pulse Gaius
 Motivate again and start to SBreak
 SBreak while keeping Str up
+Mainly arts for RMG, position is good so try not to move
 
 [PAGE]
 
@@ -455,32 +457,32 @@ Zone 2 - 2, Right after switch and down stairs, MobBox up ladder
 - Laura SBreak if things get off rails
 **SHOPPING**
 **Fie tank to build CP for SBreak spam, HP and Floral**
-Slot: Fie 1-4, Gaius 1-3, Laura 2-2
+Slot: Laura 2-2, Gaius 1-3, Fie 1-4
 Quartz: LaForte, Attack2
--Rean: Need Soulblur for next fight, put it over lowest speed quartz
--Alisa: Angel, Impassion
--Laura: Force
--Jusis: Mist, Scent
--Fie: Brave, Evade1/2, HP1/2, Attack1/2, VoiceB, SpeedB
--Gaius: Scepter
+Rean: Need Soulblur for next fight, put it over lowest speed quartz
+_Alisa: Angel, Impassion
+__Laura: Force
+___Jusis: Mist, Scent
+____Gaius: Scepter
+_____Fie: Brave, Evade1/2, HP1/2, Attack1/2, VoiceB, SpeedB
 Equip: Rean Coral -> Marble Brac, Fie Headband, **Floral**
-Formation: Alisa, Rean, Jusis in mid front, Fie row 3 mid
+Formation: **Alisa, Rean, Jusis** in mid front, Fie row 3 mid
 
 **Boss Gate 2**
-Motivate or Soup Fie, Impassion on Fie if Alisa fast
+Motivate or Soup Fie, if Alisa first turn then Impassion on Fie 
 Fie SBreaks, Jusis Grand Press
 Rean can motivate again for CP or swap in Laura to heal Fie
-BA Fie and setup 3 SBreaks to win, Laura/Jusis SBreak last enemy if needed
+BA Fie and setup 3 SBreaks to win, Laura/Jusis SBreak last enemy
 
 [PAGE]
 ## Post Schoolhouse 4
 **CAT** on roof
 FT to gate to start Elise hunt
 FT to Union, Gym, Field, Gate
-**Giant** fight -> Motivate/Soup, SoulBlur and SBreak on faint
+**Giant** fight -> Motivate then Soup, SoulBlur x3 and SBreak on before Str up drops
 **Giant w/ Crow**
 Motivate x2 and Crow Soulblur
-Soulblur till Faint or someone gets hits, then SBreak both
+Soulblur till Faint or if Rean is hit first round then SBreak after second motivate
 
 
 **Fie and Laura**
@@ -508,14 +510,14 @@ Vain - News, Mall for two quotes
 Sell: Weapons, Ad Shield, Thel, Ingenuity, Scent, Cast2, Dark Matter
 Armor: Fie Red Jacket AND Shoes
 Weapons: Rean Laura Fie
-Upgrade: Fie
+Upgrade: Fie, (Laura then Rean if have extra UMats)
 Slot: Rean 1-3
-Quartz: HP2 x2, Shining, Fortuna
--Rean: Raven, Impede->Fortuna, HP1/2, Speed everywhere else
--Elliot: Falco, HP2, CMirror, Shining, Heatwave
--Fie: Force, HP1->LaForte, Voice->DragonVision
--Laura: Brave, Chrono Drive, Attack1/2, Impassion
--Mach: Scepter
+Quartz: HP2 x2, Shining
+Rean: Falco, HP2, Soulblur, Speed everywhere else
+_Fie: Force, HP1->LaForte, Voice->DragonVision
+__Elliot: Raven, HP2, CMirror, Shining, Heatwave
+___Mach: Scepter
+____Laura: Brave, Chrono Drive, Attack1/2, Impassion
 Equip: Rean Marble->Cozy, Fie Evergreen, Headband, Elliot Disc Swordtail, Laura Holy Fort
 Formation: Top left box, Fie Laura front
 **Exchange**: 1k Mirage, all Earth and Wind
@@ -530,9 +532,9 @@ Zone1 -> Gate and right chest
 **Boss Slime**
 - Motivate and LaForte -> unless small slimes doing cast, then Fie SBreak
 - Fie SBreaks to kill slimes, Force gives CP
-- Cresent Mirror to reflect main attacks, beat otherwise
-- Laura/Fie each Firebolt then SBreak
-- Rean SBreak after if already burned
+- Cresent Mirror to reflect big arts attacks, beat otherwise
+- Laura/Fie each Firebolt then SBreak, Rean Soulblur
+- Rean SBreak after slime turn if already burned
 
 **Shopping**
 Sell: Weapons, Move3
@@ -555,10 +557,11 @@ Zone1 -> chest 2 - first right chest, left after bridge chest
 Zone2 - nothing
 **Boss Croc n Fish**
 - Motivate and LaForte, Shining, Impassion
-- SBreak on Fie, Drive on Fie
-- SBreak with rest at 200CP, attack
+- Let adds move in then Fie SBreak
+- Fie attack, others arts to let her evade tank
+- SBreak as available
 
-After fight, get Seph to right after hidden
+After fight, get Seph to right after hidden door
 
 ## Post Sewer
 Jewelery -> Plaza, Park (OJ then in), Alto then in, Port crane and bus
@@ -578,7 +581,7 @@ Towa after cutscene
 **Boss 1 Crocs**
 Motivate and LaForte, Impassion Fie, Chrono Drive
 Fie/Laura SBreak on 200CP
-Motivate from Rean, Impassion from Laura, Shining/Impassion from Elliot. 
+Motivate from Rean, Impassion from Laura, Shining/Heatwave from Elliot. 
 
 **Setup**
 OJ Fie 90, Laura 90, Rean 30
@@ -593,15 +596,18 @@ Rean spells until second Demon turn, then everyone just attack away
 
 **Setup**
 **Elliot** in and **REST** for EP
-Rean: Force
-Elliot: Heatwave->HP1
-Fie: LaForte->Heatwave
+Rean: Raven
+Elliot: Force, Heatwave->HP1
+Fie: Falco, LaForte->Heatwave
+Formation: Corners - Fie TL, Elliot TR, Rean BL, Laura BR
 
 **Boss 3 Dragon**
-Elliot Mirror, Rean Fortuna, everyone else fire magic
-Elliot Holy Song if hit, else Beat/Mirror up
+Elliot Mirror to open
+Elliot keep mirror up, EP2 charge if not scoring any faints
+Fie Shining self when only one charge of Insight left
+Everyone keep throwing out cheap offensive arts
 Once down to about 60% have Rean start to Motivate
-Launch SBreaks around 40%
+Launch SBreaks around 40%, need Rean, Laura and Fie to have 100CP
 
 **C Fight**
 Die
@@ -627,10 +633,9 @@ Zone 1: Switch 1 chest
 Zone 2: Switches 2, 2 chests on way
 **Setup**
 Rean: Raven
-Crow: Brave, Attack1/2
-Laura: Scepter
+__Crow: Brave
+____Laura: Scepter
 Formation: Corners Fie TL, Crow TR, Rean BL, Mil BR
-Equip: Mil Glad, Laura Vigor/Str?
 
 **Boss Ice Dragon**
 Motivate, Soup and LaForte everyone to 2 Str
@@ -652,7 +657,7 @@ Mil SBreak
 [PAGE]
 ## Field Trip 5
 UNEQUIP QUARTZ
-Equip: Red gear from Fie to Gaius, Evergreen and Swordtail
+Equip: Red gear from Fie to Gaius, Evergreen and Swordtail, Mil Glad HB, Vigor
 **CAT** Park
 
 ## Day1
@@ -660,15 +665,15 @@ Inn for CP
 **Shopping**
 Slot: Rean 1-4, 1-5. Laura: 3-2.
 Quartz: Attack3 x2, Chrono Burst x2, Mind3
-- Rean: Chrono Burst, Grim Butterfly
-- Laura: Brave, Chrono Drive->Attack1, Attack3
-- Mil: Force, Attack1/3, DragonV, VoiceB, Intimidation
-- Gaius: Falco, Attack2/3, Chrono Burst, Evade1/2
-- Jusis: Aegis
-- Emma: Scepter, Hare, Mind3
-Sell: Weapons, Armor, Def3, Freeze, LaForte, Volcan, Moves, all Mirage except EP1/2, [Soulblur to Chrono Drive]
+Rean: Chrono Burst, Grim Butterfly
+_Laura: Brave, Chrono Drive->Attack1, Attack3
+__Mil: Force, Attack1/3, DragonV, VoiceB, Intimidation
+___Jusis: Aegis
+____Emma: Scepter, Hare, Mind3
+_____Gaius: Falco, Attack2/3, Chrono Burst, Evade1/2
+Sell: Weapons, Armor, Def3, Freeze, LaForte, Volcan, Moves, all Mirage except EP1/2
 Weapons: Rean, Laura, Gaius, Mil
-Armor: Gold Boots on Rean (sell old weapons)
+Armor: Gold Boots on Rean (sell old weapons if needed)
 Formation: Gaius mid 3, Laura, Rean, Mil mid on 4
 
 Guild -> Manor back School
@@ -709,8 +714,8 @@ Mansion to advance story
 
 Skip fish side quest
 **Setup**
-- Rean: Remove Chrono Burst
-- Jusis: Chrono Burst, Action 2, Cross Crusade
+Rean: Remove Chrono Burst
+__Jusis: Chrono Burst, Action 2, Cross Crusade
 Equip: Jusis Abyss Shadow and Disc
 Formation: Gaius mid top, Jusis mid 3, Laura and Mil flanking 4
 Jusis, Mil, Laura, Gaius
@@ -761,8 +766,8 @@ Zone 2 - 2 chests. Alcove on left, left at 4 way
 **Setup**
 Emma heal after fight w/ Hare
 Rean: Chrono Burst (from Gaius), Action 3 over lowest speed
-Sara: Invigorate, Grand Press if have
-Emma: Scepter
+_Sara: Invigorate, Grand Press if have
+__Emma: Scepter
 Formation: Top left Rean/Jusis,Sara/Mil and **links vert**
 
 **Fight 2 Robots**
@@ -770,14 +775,17 @@ Rean Chrono Burst move to Arc Slash both. Chrono Burst Arc x2
 Jusis Burst Commandx2. Sara/Mil Impassion Rean or self and then SBreak w/ str
 Rean Arc x3 till one left then attack, everyone else Arts spam
 Jusis can SBreak to end
+OR if didn't Zerum Ice Dragon
+--Rean or Jusis StrUpx2, SBreak Sara twice then Mil to end
 
 [PAGE]
 ## Fortress 2
 **Setup**
 EP Charge 2 Rean to full
 OJ away, get Mega next chapter
+- OJ Rean to 90CP (probably already there)
 - OJ Mil to 100CP
-- OJ Sara if can get to 60 or 160 breakpoint
+- OJ Sara to 60 or 160 breakpoint
 Equip: Mil Orange Cape
 
 Zone 1, 2 - right immediate for right chest and mobs, before exit
@@ -808,22 +816,22 @@ Gate to dorm
 Gym - Angelica - just lose and **CONTINUE**
 **Shopping**
 Slot: Alisa ALL
-Quartz: EP Cut2, EP1, EP2 as needed
-Exchage: 1000 Mirage Earth, Wind, Space, Mirage
+Quartz: Action2, EP Cut 1/2, EP2 as needed
+Exchage: 1000 Space, Mirage
 Sell: Weapons, [Shield3 - Heal], [Wind start - Recur], [Wind Bell - Wrath], Chrono Drive
 Buy: Megalith
 
 [PAGE]
 ## Old Schoolhouse 6
-Party: Fie Mil Crow Alisa Elliot
+Party: Alisa Mil Crow Fie Elliot
 
 **Setup**
 Rean: Mega
-Alisa: Scepter
-Fie: Brave
-Mil: Force
-Crow: Raven
-Elliot: Falco
+_Alisa: Scepter
+__Mil: Force
+___Crow: Raven
+____Fie: Brave
+_____Elliot: Falco
 
 Zone 1 - MobBox on way out, 4 switches
 Zone 2 - MobBox behind pillars, 2 switches
@@ -839,19 +847,19 @@ Crow/Mil SBreak, done
 **Setup**
 Get Rean 200CP through Mega
 Unequip Laura, Mil, Jusis, Gaius
-Rean: Raven, Attack2->3
-Crow: Mega, Auto, Raks to bottom slot, Qilin, Attack2, Dragon Vision
-Fie: Brave, Auto, Attack1/2, Voice/Speed Break
-Alisa: Force, LaForte, Chrono Burst, EPCut1/2, EP1/2, Action 3
-Mach: Scepter
+Rean: Raven, Attack3 in red slot, speed everywhere else
+_Alisa: Force, Chrono Burst, EPCut1/2, EP2, Action 2/3
+___Crow: Mega, Auto, Raks in space slot, Qilin in other section, Dragon Vision, Attack2
+____Fie: Brave, Auto, Attack1/2, Voice/Speed Break
+______Mach: Scepter
 
 F2 comp room to advance
 
 **Practical Exam**
 Bring Laura, Crow
-Rean Burst Motivate x2
+Rean Motivate (one is enough 90% of the time)
 Laura SBreak to avoid voice line
-Crow SBreak
+Crow SBreak, Rean SBreak if still need more damage
 
 FT to field for **Flying**
 - Talk to Captain
@@ -891,20 +899,20 @@ Formation: Rean mid row 2, Alisa, Fie, Crow on mid 3
 **Boss fight**
 Rean Burst Motivate x2
 Alisa Burst Heaven
-SBreak x3
+If Crow can hit all 3 then have Rean and Fie only SBreak once, else SBreak spam
 Alisa Burst Blessed chain
 
 Rean needs 100CP
 Crow and Fie want 180ish CP
-Alisa: Mega (this gets her enough EP too)
 Rean: Raven
-Fie: Brave
-Crow: Force
+_Alisa: Mega (this gets her enough EP too)
+__Fie: Brave
+___Crow: Force
 
 **Boss Fight**
 Rean Burst Motivate x2
 Alisa Burst Heaven
-SBreak x3
+SBreak away!
 Alisa Burst Blessed chain
 
 [PAGE]
@@ -913,22 +921,21 @@ Walk to mine to advance
 HQ for Inn for CP then back to HQ
 HQ Front Desk -> 23 Floor, Opt 2,2 for elevator
 
-Tunnel walk - Zone 1 chest on left for safety
+Tunnel walk - Zone 1 chest on left for safety EP charge
 
 **Fight 1**
 Rean Burst Motivate x2
 Alisa Burst Heaven
 Crow/Fie SBreak
 Alisa Burst Blessed chain
-Fie SBreak other target, Crow kill
+Crow SBreak, should kill one and Fie kills other
 
 **Setup**
 Let Crow leave
-Angelica: Auto, Attack2/3, Raks, Qilin, Attack1
-Fie: Mega (for Mob chest and then back to Alisa)
+____Fie: Mega (for Mob chest and then back to Alisa)
+_____Angelica: Auto, Attack2/3, Raks, Qilin, Attack1
 Rean: Fill EP2
-Party: Alisa, Fie, Ange
-Formation: Angie mid top
+Party: Alisa, Fie, Mach
 
 
 Save Miners -> Chest next room
@@ -966,10 +973,9 @@ IF only Rean have turn, double Burst so can move directly in front of C
 Inn for CP -> General -> 1F for Nurse to finish -> Student Union for buy
 
 **Shopping**
-Sell: Sepith, weapons if less than 30k
-Buy: Rean Mil Laura weapons
+Sell: Sepith, weapons until 30k
+Buy: Rean Laura Fie weapons
 Slot: Laura all
-Quartz: Action2
 
 Eng -> Go Alone
 
@@ -977,17 +983,16 @@ Festival -> 1F and just spam tea
 
 [PAGE]
 ## Oldschool 7
-Alisa Laura Mil Crow Fie
+Alisa Laura Fie Mil Crow
 
 **Setup**
-Remove quarts from Fie
-Rean: Raven, Speed over dumb stuff
-Alisa: Falco, EP1->Action2
-Laura: Mega, Attack2/3, **Domination**, DragonV, Qilin, Raks, 
-Mil: Force, Attack2/3, SpeedBreak, VoiceBreak, CrossCrusade (rare str)
-Emma: Scepter
-Fie: Brave
-Formation: Rean mid 2, Alisa Laura Mil mid 3
+Rean: Falco, Speed over dumb stuff
+_Emma: Scepter
+__Alisa: Raven
+___Laura: Mega, Attack2/3, **Domination**, DragonV, Qilin, Raks, 
+____Fie: Force
+_____Mil: Brave
+Formation: Rean mid 2, Alisa Laura Fie mid 3
 
 **Level 1**
 Zone 1-3 - nothing
@@ -995,10 +1000,10 @@ Zone 4 - right chest by switch
 Zone 5 - right red chest on way to door
 Laura - Passion Rogue, Vigor
 Zone 6 - MobBox on left
--- **Mil** SBreak
+-- **Fie** SBreak, Laura clean up and hit last add
 
 **Level 2**
-**Right** area first and Fie over Rean
+**Right** area first
 Zone 1 - Go left to start, re-enter after finished for crystal
 Zone 2 - Just switches
 
@@ -1019,22 +1024,22 @@ Loa gives no XP, hit 66 before boss
 
 **Setup**
 Everyone to 200CP, Rean full EP
-Rean: Raven
-Alisa: Mega
-Laura: Falco
-Mil: Brave
+Rean: Falco
+_Alisa: Raven
+__Fie: Force
+___Laura: Brave
 
 **Fight**
-Mil SBreak w/ Brave Str and clear adds
+Laura SBreak w/ Brave Str and clear some adds
 Rean Burst Motivate x2
-Fie/Mil Soup if get turn/Art to delay after Alisa
+Fie/Laura Soup if get turn/Art to delay after Alisa
 Alisa Burst Heaven
 SBreak whenever can
 Alisa Burst Blessed chain
 If **BURNED** will die at 21k
 
 NOTE: Don't need any items for Mech fight, spam it all freely to end here
-Should only need one EP and one Capsule to kill if ideal
+Should only need two EP and one Capsule to kill if ideal setup
 
 [PAGE]
 ## Festival Part 2
@@ -1045,15 +1050,17 @@ Union -> Eng -> Old SH -> Gate
 **Inn x2** for CP -> Dorm -> Crow's room -> Gate
 
 **Mech fight**
-Alisa Laura Mil whoever...
+Alisa Laura Fie whoever...
+Laura SBreak w/ Brave
 Rean Burst Motivate x2
-Fie/Mil Soup if get turn/Art to delay after Alisa
+Fie/Laura Soup if get turn to delay after Alisa
 Alisa Burst Heaven
 SBreak whenever can
 Alisa Burst Blessed chain
+NOTE: Shouldn't need to EPCharge Alisa here but if still not dead on Alisa last turn then should have one powder left to SBreak Laura again for win
 
 [PAGE]
-** S fight**
+**S fight**
 Spam attack
 
 **S Robot fight**
@@ -1066,7 +1073,7 @@ Charging stance, back - head
 Charging stance, sword up - arms
 
 [PAGE]
-** C Final Fight**
+**C Final Fight**
 Attack x2
 Str Up
 Attack -> Heal
@@ -1098,7 +1105,8 @@ YOU DID IT!!!!!
 Things to think about:
 
 --TODO: Left over quarts? Can sell more in Chap4? Open fewer chests?
+--TODO: Force is often super close to level before Flower fight in Chap2, that level up makes the fight much easier and faster. Way to get it consistently to level up?
+--TODO: Klaus fight still seems a bit iffy sometimes. Maybe have Rean run back w/ another Burst turn?
 --TODO: Too much Zerum, can skip cat somewhere? Can make a fight faster by using?
---TODO: Laura and Fie for Chapter 7? Need to do a little bit of extra targeting work but Fie is already setup from Chapter 6
----- Won't be able to clear all adds in Loa fight with single opening SBreak, that might add some risk
----- Laura w/ Brave could clear at least 2 at fight start without any downside, might be enough even if some are fast? Fie can kill the other adds without any Str boost, just lose damage on Loa
+---- Likely could skip Cat in chap5, that is the one with Emma event so extra slow. If fights are good then have 2 extra by end of Chap5. Could use one in Robot fight and skip cat to not have extras.
+--TODO: Chapter 7 party? Using Laura for fast SCraft that can Overkill during grind. Leave Fie in cause she is setup from Chap6. Mil is stronger but don't think setup is worth it.
