@@ -1,5 +1,5 @@
 # CS1NoteViewer
-A simple webapp to view the included notes for CS1 speedrun. The tool is fairly generic though so if you place your own notes in the CS1Notes.txt it can be used for viewing your own notes too.  
+A simple webapp to view the included notes for CS1 speedrun. The tool is fairly generic though so if you place your own notes in the CS1Notes.txt it can be used for viewing your own notes too (or change the notes file that is used on line 7 of pythonServer.py)  
 Notes are in a markdown like format, using headings and bold syntax. That was all I needed but would be easy to have this support full markdown if there is a use for it.
 
 This tool is made up of two main python scripts:
