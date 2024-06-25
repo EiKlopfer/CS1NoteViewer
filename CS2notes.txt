@@ -1,0 +1,941 @@
+# My CS2 Nightmare Notes
+
+Step 1: Try not to die a lot
+Step 2: Die a lot
+
+[PAGE]
+## Mountain Tutorial
+First chest in each zone
+
+First fight - spam attack, item heal after
+Second fight - arts then heal station after
+Third fight - fish for back attack, double Gale
+
+### Magic Knight fight
+Motivate/SBreak or 200CP SBreak
+Attack and item heal when around 2k
+Motivate before next SBreak, aim to end with this SBreak
+Ends at 15k
+
+[PAGE]
+## Prologue Part 2
+Mom and Dad in house
+Elise, Annabelle, Alfin, Toval
+**Inn** for CP
+Hot Springs - Chef then front desk
+
+### Moutains
+Link fight - Rean attack, ET arts
+Chests - UMats and Sepith chests
+
+**Setup**
+Formation all in back
+
+[PAGE]
+## Prologue Final Boss
+
+### Magic Knight Redo
+Arts open to let him close in
+Rean motivate, Elise heal, Toval crafts
+Get to under **20k** and triple SBreak to kill
+He can heal so watch when close to 20k just before his turn
+
+### Magic Knight Mech
+Head for reg, arms for special
+Spam attack until 90CP, dodge special move
+
+**Zerum powder** chest on the way back
+
+[PAGE]
+## Act 1
+**Shopping**
+Smoke Grenades x11
+Megalith
+
+### Nature Park
+Zone 1 and 3 - Right chest, Right chest
+
+**Shopping**
+Quartz: Heatwave x2, Fortuna
+Rean: Mega, auto equip
+_Toval: auto equip
+
+### Ape boss
+Overdrive - Rean Fort x2, Tov Heatwave
+Spam arts
+10k to SBreak kill, do w/ no str up
+Tov's final ArtsUp on SBreak (it magic)
+
+[PAGE]
+## Celdic
+No chests on way to town
+House, **Inn x2**, Market, Market again, East Gate
+Chest before Farmhouse, meet Mach, back to Mayor
+
+**Shopping**
+Weapons: Rean
+Quartz: HP1, Action1, EP1
+Upgrade: Rean
+Rean: Auto Equip
+_Mach: Force, Tear from Rean over Hit1
+
+## Celdic Quest
+Church, Market, Park - talk to guy outside
+**Scepter** chest for XP, Mach can SBreak trash, RT for chest
+-- MobChest: BattleScope x2 if have time, else RT SBreak x2
+**HP1** chest before flower back to town
+Windmill to advance (also heals 100CP)
+
+Zone 2 - Chests near Scary Dino ledge
+Zone 3 - Chest on left, Mach SBreak enemy in front of it
+Get Fie and Elliot
+
+[PAGE]
+## Twin Dragon Bridge
+Get Fie and Elliot
+Right path for chests, Elliot SBreak mob in front of chest
+**Setup**
+Formation: Fie front, Rean mid 3, T and M flank him on 4
+Mob chest - battle scope, Fie SBreak then T
+If SBreak left: Axebeak before bridge (maybe UMat drop)
+**Innx2** at bridge
+
+**Setup**
+Rean: Boots
+_Fie: Glad Head, Auto Quartz
+
+### After Bridge
+Mach and Rean SBreak big birds, else arts. Fie Scud everything. Toval arts.
+Zone 1 - Sepith chest and end chest
+Zone 2 - Monster chest down long road, birds and bees on the way
+-- chest: Scope, Toval SBreak, clean up w/ crafts or arts
+Keep fighting on way to end to reach lvl46
+
+**Setup**
+Fie, Toval, Elliot, Mach
+
+[PAGE]
+## Leo and Xeno
+Fie and Toval Chrono Drive
+Elliot Beat, Mach Accel
+Run everyone to different corners.
+Cast arts to waste time
+
+## Mech fight 1
+Body for reg, head for special
+Dodge special when have CP
+**Double attack** is possible, check before dodging
+
+## Mech fight 2
+Sword: Body, head for special
+Gun: Head, body for special
+Fie speed boost x3, heal
+Fie can move to attack after charge
+
+[PAGE]
+## Military Camp
+Just run to Val
+
+## Act 1 Part 1 End
+Tavern -> Snowboard unlock -> Inn x1
+Back to bed
+
+[PAGE]
+## Act 1 Part 2 Start
+Bring Mach, Fie, Claire
+
+Gate for **Shopping**
+Weapons: Rean, Fie
+Items: Grains x31, Salt x31
+**Upgrade** Rean weapons
+Quartz: La Forte x2, Impassion
+Rean: Impassion, Hit1 (from Claire)
+__Fie: LaForte over Att1
+___Claire: LaForte, Attack1
+
+**Fie cook** tough soup
+
+[PAGE]
+**Settlement** ambush fight:
+Soup x1 on Claire, SBreak
+
+**Setup**
+_Fie: Falco
+
+**Shrine** area fight:
+La Forte, Alisa -> Claire for other Str up
+-- LaForte from Claire if have time, else Accel
+3-4 attacks in before quad SBreak
+
+**Setup**
+Foration: Fie front, Rean mid 3, Mil and Claire flank on 4
+
+Zone 1 - Sepith chest ahead after first right
+**Mob chest** - LaForte, Motivate, Mil SBreak, attack clean up
+Alisa: Glad Belt
+
+Zone 2 - mob chest by entrance
+**Mob Chest** - LaForte, Motivate, Clair SBreak
+
+Random fight to 200CP on Mil, Claire, Rean, **Fie**
+
+**Setup**
+Party: Rean, Fie, Gaius, Mach
+Rean: Body armor
+
+[PAGE]
+## Tower
+
+**Fight 1**
+StrUp x1, Gaius SBreak
+
+**Fight 2**
+StrUp x2 Fie (or Motivate x1 if only Rean turn)
+Fie and Mach SBreak
+
+**Fight 3**
+Claire and Mil SBreak immediately
+If missing C or M, StrUp x2 after bringing them in
+
+**Setup**
+Rean: LaForte (from Claire)
+Mil: Impassion (from Rean)
+Claire: Raven
+Formation: Alt ladder with _ Fie. Mil, Rean, Claire
+Grind up to 100CP on FMC
+
+[PAGE]
+## Final Fight
+La Forte x2 everyone. Claire pass turn/item/shoot off reflect
+Mil Impassion Claire
+Triple SBreak
+Claire Accel, Fie->Alisa to BA
+Claire SBreak (can be before BA, check for 100 or 200CP)
+Rean OD -> Arc Slash to trigger BP5
+Alisa BA, Rean Motivate (to get Mil to 100CP)
+Rean/Claire SBreak
+Mil use Zerum on Claire
+Mil/Claire SBreak to win
+
+[PAGE]
+## Mech Fight
+Sword: Body, head for special
+Gun: Head, body for special
+Officier: Always body
+
+Fie: Speed until 400, heal
+Build BP on Sword, at 5BP hit Gun when he is doing special
+Dodge Airship attack, it hurts a lot
+
+[PAGE]
+## Act 1 Part 2 End
+**Remove quartz** from Mil, Gaius, Claire
+Back to bed
+
+[PAGE]
+## Act 1 Part 3
+Bring Alisa, Fie, Sharon
+
+### Highway
+Run to town
+
+**Shopping**
+**Inn x1**
+Item: Another 10 smokes
+Weapon: Rean
+Quartz: Action2
+Rean: Action2, Impassion over Heatwave
+
+Boat to castle
+**Dragon fight**
+LaForte x2, Emma->Sharon
+Get in 2-3 attacks then Quad SBreak
+
+[PAGE]
+### Legram
+Just leave, we're not doing quests
+
+### Highways
+Zone 1 - Ape fight (UMat fishing)
+Zone 3 - left path then sepith chest
+Zone 4 - Right 1 and Right 4
+**Mob chest** - Emma SBreak, thanks Emma!
+
+**Setup**
+Laura: Tauros
+
+Clear mobs on way to Bareahard for Tauros xp
+
+[PAGE]
+### Bareahard
+**Shopping**
+Sell: Items between Soup and Smoke, Weapons, high cost Quartz
+Tailor: Shirt for Rean/Fie
+-- Sandles for Rean/Fie. 3 Sandles for Alisa
+
+**Inn** for CP
+North highway. Umat chest and clear enemies in loop for Tauros3
+**Rean** gets Tauros after this
+
+Art -> Colette, Nobel, Gal -> **Tricorne** -> Theresia
+Anywhere, Central -> Restaurant, Airport
+
+**Duel**, better have Tauros on
+Str up item, SBreak
+
+[PAGE]
+### Final fight
+Haha, McBurn.
+Group up for AoE cast
+
+### Mech fight
+Attack tank, dodge specials as have CP
+Switch to Laura, StrUp then heal twice
+Buff Mech: Head, Body for special
+Laura: After charge, heal then switch to StrUp
+BP5 when Str x2
+
+[PAGE]
+### Ymir
+Sharon at hot spring
+Back to bed immediately
+
+**Rufus**
+Bring anyone but Alisa and Fie
+Group up for AoE
+Just die
+
+**Mech**
+Yup, just die again
+
+[PAGE]
+## Intermission
+Ground level rooms -> Upstairs -> Vent
+**Setup** Rean: True Glad Headband
+Formation: Hide behind Alfin 
+
+First fight -> SBreak
+Triple Advantage fight to get 100CP
+Room on left for Orange Cape, equip
+Second fight -> Yup, SBreak
+Third fight -> Guess what? SBreak
+
+**Crow Fight**
+Impassion then SBreak
+If healthy then just swing until 100CP and SBreak around 33k
+
+Run to back of arena if things look bad
+Arcane Gale to ends to kill him
+Item heal while he is walking to you
+
+[PAGE]
+## Act 2 Part 1
+Party: Fie, Mil, Sara, Laura
+Rean: Mega
+__Sara: Tauros
+Rean: Black Virtue
+Sara: Shoes, True Glad, Orange Cape
+Mil: Shoes
+Formation: Fie mid 3, Sara, Rean, Mil, Laura behind
+Don't forget Laura in the back too!
+
+### Ship Tour
+4F Alfin, 3F, 2F, 1F George and Val
+Shopping: Mura by selling 1k earth/wind
+**UMat check** Want to have **15**, if have less grab outside Aria
+Mil: Mura
+
+Bridge -> Skip Flight Anim -> Lake Lacrima
+
+[PAGE]
+Cabin -> Shopping -> Highlands -> Magic Knight
+**Shopping**
+Weapons: Fie, Mil
+Items: Smokes x11, Imperial Chronicle
+
+Party: Rean, Fie, Mil, Sara
+**Magic Knight fight**
+La Forte x2 ASAP
+Let him attack twice while getting StrUp and attacks in.
+Want around 92k HP then all SBreak
+
+Return ship -> Legram -> **Inn x2**
+Mansion -> Training (talk x2) -> Church
+
+[PAGE]
+Return Ship -> Lake Lacrima -> Highlands -> FT to Quarry
+
+Zone 1: 2 chests, mob chest then UMats
+-- Mil SBreak chest
+
+**Setup**
+Party: Laura over Mil
+
+**Spider Fight**
+Always let spider have one turn, gives XP
+LaForte x2
+Sara SBreak, everyone else SBreak
+
+Return ship -> Watchtower -> Mint
+1F right and vent, 2F both rooms
+3F by stairs, 4F first room, roof
+
+Return ship -> Proving Grounds -> **Inn x2** -> Item shop
+
+[PAGE]
+**Setup**
+Quartz: Tearal, Attack2
+Val: HP3, Power2, Power1
+
+### Bridge Mission
+Bridge -> Report Quests -> Towa
+
+Party: Alisa, Fie, Mil
+
+### Mech Fight
+Club: Always arms
+Buff Mech: Head, Body for special
+Sword officier: Always body
+Laura: StrUp x1, Heal, StrUp x2
+Work on Club till almost dead/5BP
+Dodge when mechs have StrUp
+Aim to kill Club and Buff around same time
+
+[PAGE]
+### Fort
+Zone 3: In back for Sepith
+
+**Setup**
+Party: Fie and Mil in, wreck em
+
+### Return of the Dogs
+La Forte x2, attack until dog turn.
+SBreak all but Rean
+Rean OD w/ Sara -> BP5 attack, attack
+Rean SBreak, Sara SBreak again if needed
+
+[PAGE]
+### Rest Day
+Inn x1
+Sara Event
+East Highway to advance
+
+[PAGE]
+## Act 2 Part 2
+Party: Alisa, Fie, Sara, Emma
+
+### Twin Dragon Bridge
+Fight Neithardt -> Just lose, ally EP Charge -> **Continue**
+
+### Monster Hunt
+**Holy Chain** behind hunt
+Garrelia Fortress -> Highway -> Third Left
+Fight -> StrUp x2 (motivate is fine), SBreak spam
+
+[PAGE]
+## Roer Infiltration
+Party: Fie, Mil, Sara, Emma
+Take random fights on way in, have rest coming up
+
+**Shopping**
+Weapons: Rean, Sara
+People: Hugo, Linde
+
+Airport -> Anywhere -> **Inn x1** -> Church 
+  -> Mint -> Lower Level -> Diner
+
+**Setup**
+Mil: Tauros
+Emma: Juggler
+Formation: Fie mid 1, Sara right flank 2, Rean mid 3, Emma, Alisa, Angie left flank 4
+Party: Rean, Alisa, Fie, Angie
+
+### Mine/Train
+Zone 2: Left at exit
+
+[PAGE]
+### Train Gauntlet
+NOTE: Switch Tauros onto whoever does SBreak before each fight
+
+**Fight 1 - Rean, Alisa, Fie, Angie**
+LaForte x2, Dark Matter, Alisa Heatwave, Angie SBreak
+
+**Fight 2 - Rean, Alisa, Fie, Mil**
+StrUp x1, Mil SBreak
+
+**Fight 3**
+StrUp x1, Fie SBreak
+
+**Fight 4**
+StrUp x1, Rean SBreak
+
+**Fight 5**
+Fortuna x1, Alisa SBreak
+
+**Fight 6**
+Sara SBreak, Emma SBreak if no Sara
+Pull in Sara ASAP and StrUp x1 -> SBreak
+
+**Fight 7**
+Mil SBreak
+
+[PAGE]
+### RF Building
+Zone 1: 2 chests, last door and left at exit
+Zone 2: Nothing
+Zone 3: Immediate right door
+
+**Setup**
+Party: Sara over Mil
+Quarts: Impede1 x2, Action2
+Rean: Mega, Impede1
+_Alisa: Angel, Action2
+__Fie: Falco, Impede1
+___Sara: Tauros
+_____Mil: Mura
+Equip: Sara Dragonsuit, Fie Holy
+
+### Robot Samurai
+**ASAP Sara SBreak** for adds
+Rean/Fie Delay to open
+Rean OD for more delay spam
+Alisa Heaven then BA
+Fie LaForte when have time
+Sara LaForte then SBreak when can
+24k HP -> Fie and Rean can SBreak to finish (w/ StrUpx2)
+
+[PAGE]
+### Goliath Fight
+Idle and Raised Left Arm: Right Arm
+Shoulder Cannon: Left Arm
+Raised Right Arm: Body
+Sara spam stat down
+
+Always use Seal craft against Shoulder and Right arm attacks
+No heal w/ first 1000EP, do heal in second 1000EP
+-- Wait until have double Spd down to heal, after Shoulder/Right attack
+-- Only do one heal in this fight
+-- The shoulder/right arm attacks have longer delays, seal makes them eat entire delay
+
+[PAGE]
+## Rest Day
+Inn x1 -> Airport
+(We still don't like our friends)
+
+[PAGE]
+## Act 2 Part 3
+Party: Alisa, Mil, Sara, Emma
+**Setup**
+Fie: Mura
+Mil: Tauros
+Formation: Fie mid 1, Rean mid 3, Sara, Alisa, Mil behind
+Weapons: Fie and Mil
+
+## Ignis Shrine
+Zone 1: 2 chests, right after first bridge, left in cave
+Mob chest: StrUpx2 Mil, SBreak
+
+**Setup**
+Slot: Sara red slot lvl2, Alisa 1-3, 1-4, 2-1, 3-1
+Quarts: Attack3 x2, Attack2, Chrono Burst, EpCut1/2, EP1/2
+__Sara: Tauros, Carnage, Attack2/3
+___Alisa: AutoMag -> Burst, Action2
+Equip: Alisa Tricorne and Belt, Mil Skill and Brave
+
+**Direwolf**
+OD w/ Fie or Sara -> LaForte x2, whatever for 3rd (maybe Conceal)
+-- have lots of damage, 3rd action can be to stay grouped if needed
+Fie Conceal (if have time, not necessary)
+Alisa Burst Heaven, SBreaks
+Alisa Burst BA spam
+
+[PAGE]
+### Ship
+Clara -> Power3, George -> Help Out
+
+### Celdic
+Party: Anyone
+**Inn x1**, Church, Guard house, Mayor, East
+
+### Fort
+Party: Alisa, Fie, Mil, Gaius 
+
+### Mech Fight
+Swap in Gaius
+Just spam Counter or Def if not enough CP
+Gaius charge CP
+Heal/Charge when CP is high, over 100
+Last Craft does 14k, 3BP does 25k
+-- can go for win at 39k if have 3BP
+
+[PAGE]
+### Fort
+Sara Fight: SBreak, win
+
+Zone 1: Room on right before exit
+Zone 2: 2 Vents then straight at 4 way
+
+**Setup**
+Party: Fie, Alisa, Rean, Mil
+Quarts: Chrono Burst
+Rean: Burst
+_Fie: Mura, Soul -> Attack2
+__Mil: Tauros, Auto physical
+
+[PAGE]
+### Duvalie the best midboss
+If Fie and Alisa first (most likely):
+  Fie OD -> LaForte x2, Conceal
+  Alisa Heaven BA cheese
+  
+If Alisa first:
+  OD -> Heaven, Break OD
+  Rean Burst Motivate x2
+  Alisa BA cheese
+  
+If Rean first (unlikely):
+  If Alisa after enemies:
+    Burst Motivate OD -> LaForte
+    OD cancel, Alisa cheese
+  Else:
+    Burst Motivate x2
+    Alisa cheese
+
+NOTE: We don't need Fie conceal, just lets you end fight faster
+
+[PAGE]
+**Hotel x1**, Nobel -> Scarlet, Airport
+(Still don't like our friends)
+
+[PAGE]
+## Act 2 Part 4
+Party: Alisa, Fie, Sara, Emma
+Unequip Mil Quartz
+Alisa: Thor (easier CB select, Angel till now was safety)
+Sara: Tauros, Auto Physical, LaForte
+Weapon: Rean, Fie
+Slot: Fie Wind lvl2
+Upgrade: Rean, Fie
+Party: Fie, Rean, Alisa, Sara
+
+**Fight first enemy in Ridge for Fie SBreak upgrade**
+Eisgard Ridge -> Mountain Boss
+
+**Dragon Boss**
+Fie Conceal
+Rean Burst Motivate
+Alisa Heaven -> Blessed spam
+SBreak, everyone first one at 200CP
+NOTE: consider OD to fix turn order/more BAs
+
+[PAGE]
+## Shrine clean up
+Party: Rean, Alisa, Fie, Sara
+Bareahard -> Legram area Shrine
+Bareahard -> Twin Dragon shrine
+  Sepith chest past first bridge
+Bareahard -> Nord shrine
+  Sepith chest near last switch
+  
+### Shrine Knights
+Rean Burst Motivate x2
+Alisa Burst cheese
+
+### Bird
+Hope for Rean/Sara w/ Emma/Laura (they forced in)
+Emma -> Fie and Conceal
+Rean Burst Motivate x2
+Laura -> Alisa and cheese
+
+NOTE: Consider OD to for turn order/clean status as needed
+
+[PAGE]
+## Operation Trista
+Mil: Tauros
+Party: Alisa, Mil, Emma, Elliot
+Partner: Laura
+
+## Trista Mechs
+Big guy: Idle right, special left
+Small guy: Always body
+
+Laura: StrUpx2, Heal, StrUpx1
+Focus down small guy, save all BP for big guy
+Morning Moon around 30-40k HP on Rean, should be at Str 50%
+
+## Trista Team Fights
+First fight: StrUp x2 Angie then murder
+Second fight: Mil murder, Towa clean up (Rean if needed)
+
+[PAGE]
+## Rest day
+Rooftop->**Inn x1**->Val Highway->Dorm
+(Not even a pity friend this time)
+
+[PAGE]
+## Finale
+Slot: Alisa 1-6 lvl1 (last not red one)
+Quartz: EP Cut 1x2, EPCut2, EP1/2 (2nd set), Chrono Burst, Action 3 (x2?), Attack 3(x2?)
+Items: EP Charge1/3 x8, Strength Elixir x7
+Sell Sepith except Fire/Time
+Shop: Dark Emblem x2, Holy Symbol 
+
+**Setup**
+Rean: LaForte, Burst, **EP1/EPCut1**, Speed
+Alisa: Action3 (if available)
+Fie: Falco, Magic, Burst/Roar, **BURST**
+Sara: Tauros, LaForte
+Mil: Mura, physical
+Equip: Rean Dark Emblem x2, Alisa TrueBelt/Holy, Fie Tricorne
+
+Start operation
+Party: Alisa, Fie, Mil, Sara
+
+[PAGE]
+**Setup**
+Formation: Fie mid 1, Rean mid 3, everyone else behind
+Fie have Chrono? Bought EP and Elixirs? Alisa EP upgraded?
+
+### Imperial Villa
+Like the train, keep moving Tauros around to SBreaker
+Fight 1: Mach SBreak
+Fight 2: Rean SBreak, **Mega back on Rean**
+Fight 3: Str25% Fie, SBreak
+Fight 4: Str50% Sara SBreak, Alisa SBreak
+Fight 5: Fie Roar, Alisa SBreak
+Party: Rean, Fie, Sara (Tauros), Mach. **EP Heal Fie**
+Fight 6: Fie Roar, Str50% Sara SBreak, Mach SBreak
+Party: Mach -> Mil w/ Tauros. **EP Heal Fie**
+Fight 7: Burst Motivate x2, Mil SBreak, Fie Roar, Mil SBreak
+
+**Setup**
+Party: Rean, Alisa, Fie, Sara
+Everyone: Final Master Quarts
+
+**Altina fight**
+Burst Motivate x2
+Alisa Heaven into usual cheese
+
+[PAGE]
+## Infernal Castle
+Party: Alisa, Fie, Mil, Sara, Emma, Elliot
+Formation: Fie mid 1 , Rean mid 3, Alisa, Mil, Sara behind
+**Shopping**
+Weapons: Rean, Fie, Sara, Mil
+Items: Smoke Grenades x31
+Quartz: Action3/Attack3 (if missed before), Chrono Burst -> Rare
+Rean: Attack3
+Alisa: Action3, Rare Chrono Burst (for speed)
+Fie: Tauros
+Party: Rean, Fie, Sara, Mil
+
+### Level 1
+Forced fight: StrUp x2 on Fie, Fie Roar and SBreak
+Sara: Tauros
+### Duvalie Again (yay!)
+OD if needed to fix turn order
+Rean: Burst, Motivate x2
+Triple SBreak, Fie Burst Roar
+SBreak Sara, Fie, Rean, Mil till dead
+
+
+[PAGE]
+## Floor 2
+Big spider: Fie Roar, run away
+
+### Leo and Xeno
+Rean: Burst, Motivate x2
+Triple SBreak, Fie Burst Roar
+SBreak Sara, Fie, Rean, Mil till dead
+NOTE: Don't OD here, want to save for later fights
+  This one isn't scary even if they take a turn (usually)
+
+[PAGE]
+## Floor 3
+Fie get Tauros
+
+Get advantage on Ghosts for good turn order
+Ghost 1: StrUp x2 on Fie, Fie Roar, Fie SBreak
+**EP Heal Fie**
+Party: Emma in for second ghost
+Puzzle: Left, chest then Right, Middle, Middle, Switch on Right
+Ghost 2: StrUp x2 on Fie, Emma SBreak, Fie Roar SBreak, Emma SBreak
+Sara: Tauros
+Party: Rean, Alisa, Sara, Mil
+
+### The Burn
+Rean: Burst, Motivate x2
+Alisa Heaven, SBreak spam till out of EP
+Alisa OD -> BA, Motivate, Cancel
+Swap in Fie, Burst Roar. SBreak to finish
+
+If only Rean first: Burst Motivate x1, OD LaForte, Cancel
+If only Alisa first: OD Heaven, Cancel Burst Motivate
+EPCharge3 needed for extra BA (unless scored some crits)
+
+[PAGE]
+## Floor 4
+Random fight: Fie Roar
+Last chest on stairs
+Party: Rean, Alisa, Sara, Mil
+
+### Crow and Vita
+Rean: Burst, Motivate x2
+Alisa Heaven, SBreak spam till out of EP
+Swap in Fie, Burst Roar. SBreak to finish
+
+[PAGE]
+## Crow - Phase One
+Weak: Arm, Body, Head (first hit will be body since Crow goes first)
+Laura Str, Heal x2, Charge, StrUpx2, Heal, StrUp
+Rean just attack until Laura Chrage, block big/3rd attack then start dodging w/ StrUp
+
+## Phase Two - The Scary One
+Weak: Arm, Head, Arm, Head
+-- Both new attacks have 100% Unbalance
+Rean Block until at least one StrUp then dodge
+Laura StrUpx2 quickly to use 5BP
+-- Dodge to get in hits w/ str and hit 100% Unbalance to spend 5BP
+Only attack while Crow in Idle, block otherwise.
+3rd StrUp before Charge if have CP for dodge, else just Charge
+Post charge cycle is 2 Heals and StrUp if Rean has 90 CP at some point
+BP3: 60k damage w/ 25% str
+BP0: 21k damage w/ 25% str
+
+[PAGE]
+## Vermillion Apocalypse 
+Party: Rean, Alisa, Sara, Mil, Emma, Elliot (kick Fie out)
+Rean: Tauros as he is in both fights
+
+**Part One**
+Burst Rean, Motivate x2, SBreak
+Someone Zerum Cap Rean, SBreak again
+Fie Roar and SBreak spam to win
+NOTE: Lots of ways to win this, just get Rean to SBreak 3 times
+  If boss will get a turn save Mach or Laura SBreak in case he casts reflect
+
+**Part Two**
+OD Sara -> LaForte x2, Arc Slash
+Alisa Burst Heaven into BA chain, **EP4** when low
+
+[PAGE]
+## Vermillion Apocalypse Mech
+Weakness order: Arm, Body, Head (if he goes first then move right to body)
+BP5 ASAP
+Crow Def Down Craft whenever 60CP (should be on body stance)
+Second BP5 during first def down
+Rean Dodge when down to 20k HP (should be at second def down)
+Final BP3 attack to win
+
+[PAGE]
+## Crossbell
+**Setup**
+Remove quartz from both
+Lloyd: Magical, Harvest/Youkai/Sleep2 off, Detection on, Dragon Vision over Athelas
+Rixia: Sleep2 in bot, Balanced
+Formation: Back row both
+
+**Slime fight**
+Lloyd Burning, Flare Bomb -> SBreak
+Rixia Grand Press
+
+**Heal up**
+Zone 1: Chest after second vent
+Zone 2: Chest after first switch
+Forced fight: Rixia crafts, Lloyd Burning -> arts
+
+**Jellyfish**
+Lloyd Burning, Flare Bomb -> SBreak
+Rixia throw sword twice
+
+[PAGE]
+## Crossbell 2
+Left zone: Chest after ladder (behind), chest after vent up ladder
+Mob chest: Rixia arts, Lloyd Burning -> Flare (x2?), Lloyd SBreak
+Left zone end: Chests by switch
+Right zone: No chests
+
+**Setup**
+Quartz: Curia, Impede1, Saintly Force
+Lloyd: Saintly over Dragon
+Rixia: Auto Physical, Curia over Ath/Heal, check for Impede1
+Lloyd: Balanced (left overs on him)
+Equip: Lloyd Puppet, Rixia Robe
+
+**Final fight**
+Lloyd Burning into double Saintly
+Rixia Spam Sword Throw, fishing for faints
+Rixia OD once StrUp x2, Lloyd SBreak when available
+Lloyd cast keep Saintly on Rixia and Impassion as available
+
+[PAGE]
+## Back to school
+Day 1: Eng -> Hanger -> Towa
+Day 2: Eng to race, Field to fight
+
+**Tauros** to Mil for these fights
+
+Fight 1 - Bring Mil and give Tauros
+Rean Burst, Str Elixir both himself and Mil. SBreak x2
+
+Fight 2 - Bring Emma
+Str Elixir Mil, SBreak x3
+
+Fight 3 - Bring Alisa
+Group up and die
+
+Head to Oldschool house
+
+[PAGE]
+## Old Schoolhouse Revisit
+Party: Alisa, Fie, Emma, Claire, Sharon, Sara
+Unequip Rean, Alisa and Fie
+Claire: Mura, Speed setup, Roar EPCut1/2
+Sharon: Thor, Magic+Burst for CP Battery setup, no speed quartz
+Sara: Tauros
+Equip: Claire Sandals, Lightning and Dark Emblem. Sharon True Belt/Tricorne
+Silver Mirror for Fie
+Formation: Top left corner
+Party order: Claire, Fie, Sara, Sharon
+
+[PAGE]
+**Boss Strat**
+Claire Burst Leadership
+Rixia Stealth (if can, not needed)
+Sara and Rixia SBreak (get to 200CP if close)
+Sharon CP Restore, SBreak Sara and Rixia again as needed
+
+**Between bosses**
+EP Heal to Claire
+Random fight and Claire Roar
+Rest before bosses 2-4 for Sharon EP heal
+
+### Loa Setup
+Restore Sharon's EP, gives enough to not restore in fight
+
+[PAGE]
+## Loa Redo
+Claire OD w/ Sara: Leadership, LaForte, Roar
+Rixia Stealth if can (should be able to)
+SBreak everyone but Sharon
+Sharon CP restore everyone, should not need an EP restore
+Let Rixia build to 200CP before SBreak
+
+[PAGE]
+
+You did it!
+
+[PAGE]
+
+Things to look into:
+Can probably skip the second monster chest in A1P2 on way to Watchtower
+  Don't really need the money and rebuilding CP will be a little faster
+  XP miss probably won't matter w/ bonus XP from being under leveled
+  
+Swap Alisa to Thor in Ignis Shrine
+  Faster to select Chrono Burst this way
+  Duvalie fight is a little scary still, Angel can help w/ bad turn order
+  
+Get Roar quartz later:
+  Could do it after first Shrine so Fie already has upgraded SBreak
+  Probably still do it in A2P4 though, avoids having to see map updates in Finale
