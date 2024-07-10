@@ -611,7 +611,6 @@ Unequip Mil Quartz
 Alisa: Thor (easier CB select, Angel till now was safety)
 Sara: Tauros, Auto Physical, LaForte
 Weapon: Rean, Fie
-Slot: Fie Wind lvl2
 Upgrade: Rean, Fie
 Party: Fie, Rean, Alisa, Sara
 
@@ -670,6 +669,7 @@ Rooftop->**Inn x1**->Val Highway->Dorm
 
 [PAGE]
 ## Finale
+Slot: Fie 1-1 to lvl2, 2-1, 4-1 to lvl 1
 Quartz: EP Cut 1x2, EPCut2, EP1/2 (2nd set), Chrono Burst, Action 3 (x2?), Attack 3(x2?)
 Items: EP Charge1/3 x7, Strength Elixir x7
 Sell Sepith except Fire/Time
@@ -774,7 +774,8 @@ EPCharge3 needed for extra BA (unless scored some crits)
 ## Floor 4
 Random fight: Fie Roar
 Last chest on stairs
-Party: Rean, Alisa, Sara, Mil
+Party: Rean, Fie, Sara, Mil
+Fie is just here for high speed again, swap her to Alisa in fight
 
 ### Crow and Vita
 Rean: Burst, Motivate x2
