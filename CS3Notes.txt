@@ -8,7 +8,8 @@ https://docs.google.com/document/d/1OqiiMKXDPzfLYiw1ThUyHROhXr9u1Tule6H51WURX4Y
 
 Used OoB and general running around routes from ChampionBeef's Hotfix run:
 https://www.youtube.com/watch?v=H_K5sgodr5g
-
+And some additional OoB routing from enk:
+https://www.youtube.com/watch?v=q7QN_PvuwFw&list=PLcy_WC-uMbqmRWEf53IhI9WIILgT4yZK9
 
 [PAGE]
 ## Prologue
@@ -16,12 +17,12 @@ Skip scenes x2, Auto
 Ash OoB, run to fight
 
 **Sleipnir x2**
-Sledgehammer Juna/Musse Scraft to break (or nearly)
-Wind Blade
-Unbound Rage w/ Ash
-Kurt Craft if still need to break
+Sledgehammer Juna/Musse Scraft to nearly break
+Wind Blade after SCrafts
+Kurt Rain once, Unbound Rage w/ Ash
 Link KA, attack until enemy turn
-Kurt/Ash SBreak before enemy turn
+Crazy Hunt once Wind Blade done
+Ash/Kurt SBreak before enemy turn
 
 **Duo**
 Autobattle and lose, thanks turbo!
@@ -51,7 +52,7 @@ Formation: Swap Juna/Kurt, Kurt BL
 
 **Miniboss Slimes**
 Everyone craft, Rush w/ RK as much as possible
-Part 2: Spam arts, heal once. Rean attack does about 350
+Part 2: Spam arts x3, Rean attack does about 350
 
 [PAGE]
 
@@ -64,7 +65,7 @@ ___Altina: HP2
 **Direwolf**
 Order: Raging Fire as much as possible
 Rean Flash behind boss, then switch to attack
-Kurt spam arts, can Rain Slash once broken
+Kurt spam arts, Rain Slash to break/broken
 Altina Detector then Brionac
 Juna spam craft
 Rean SBreak when Enhanced to break
@@ -73,7 +74,7 @@ Rean SBreak when Enhanced to break
 ## Chapter 1
 Skip x3, Auto, Skip x3, Auto x2
 Aurelia, FT F2 Towa
-Courtyard -> Cafeteria -> Juna, Gina, Training Room, 
+Courtyard -> Cafeteria -> Juna, Gina, Training Room 
 FT 2F, Roof
 FT Field, Hanger, Action1
 FT Gate -> Dorm, Skip x3, Auto
@@ -96,7 +97,7 @@ FT Station, turn in quest
 Church, Books, Lose at VM by spam end turn
 
 **Shopping**
-Sell: EP Charge 2 xall, Brave, Spirit
+Sell: EP Charge 2, Brave, Spirit
 Buy: Swift Wind x6
 
 FT School F1, Conference
@@ -116,7 +117,6 @@ At Depths, smash pillars for 200CP
 Quartz: Saintly
 Rean: Action1, Saintly
 _Altina: Sirius
-Formation: Rean/Mil top corners, Altina mid back
 
 **Rontes**
 Iron Will, Rean Saintly Altina then Mil
@@ -153,7 +153,7 @@ FT Plaza, walk to Store on right
 [PAGE]
 
 **Shopping**
-Sell: Mass, Monster ingredients
+Sell: Monster ingredients
 Weapons: Rean, Kurt
 Books: Gentle Forest x2
 
@@ -165,8 +165,8 @@ Buy: Oberon, Kaleido
 Rean: Kaleido
 _Juna: Skuld
 __Kurt: Sirius
-___Altina: Brigid
-Equip: Juna/Kurt Swift x2, Altina Gentle x2
+___Altina: Deva
+Equip: Altina Gentle x2, Juna/Kurt Swift x2
 Formation: Corners. Rean, Juna, Kurt, Altina
 
 Cafe -> Vivi
@@ -186,7 +186,7 @@ Altina: Oberon
 Back to town, Hotel x1
 Radio story
 FT to Residental for West Highway
-Chest: First right, enemy behind it for BP5
+Flower enemy to right for BP5
 OoB (optionally), Enter Great Forest
 
 [PAGE]
@@ -197,7 +197,7 @@ FT back to Hotel x2 (yes, 2x)
 Left, OoB to Boss
 
 **Spiders**
-Ebon Crest and then high delay actions
+Ebon Crest and high delay actions/Kurt delay
 Rean cast Saintly on himself and Altina
 **Raging Fire** -> Rean/Altina SCraft
 
@@ -212,12 +212,7 @@ FT South Highway, Camp
 Chest UMat, head to highway 2
 Train scene and next scene
 Fight snake eggs for BP4+
-  finish fight for MQ xp if easy
 OoB to sepith chest
-
-**Setup**
-Juna: Brigid
-__Altina: Skuld
 
 Walk to Parm
 
@@ -227,16 +222,18 @@ Upgrade: Rean
 Slots: Kurt 3-1
 Quartz: Saintly Force
 **Sell all sepith except Time**
-Sell: Weapons, Armor, Needle Shot SR, Heal
 Armor: Robe for Rean/Kurt
-Inn: Silky x5
+Sell: Weapons, Armor, Needle Shot SR, Heal
+Inn: Silky x3
 
 **Setup**
-Kurt: Saintly
+Juna: Brigid
+_Kurt: Saintly
+__Altina: Skuld
 Formation: Juna TL, rest in line BR
 
 FT Car4, Double Shower
-FT Plaza, buy 31 CP food (Southern, 2nd option)
+FT Plaza, buy 31 Southern, 2nd option
 
 FT Parm, Fish for UMat
 Walk Church, Training, Old Road
@@ -247,7 +244,7 @@ Stick right after stairs, chest to left behind snake
 
 **Zephyranthes**
 Saintly on Rean and Altina
-Juna Impede spells if needed
+Juna Impede spells or cure seal if needed
 Raging Fire, SBreak
 
 FT Car4, Shower x2
@@ -264,16 +261,16 @@ Radio story in house, FT Parm to leave
 [PAGE]
 **Setup**
 MQ XP - (80 from next fight, 150 from 2nd)
-Rean: Oberon/Kaleido
+Rean: Oberon
 _Juna: Skuld
-___Altina: Kaleido/Oberon
+___Altina: Kaleido
 
 Fight 1: Silky Rean, SBreak
 
-Heal up HP and CP/MQ swap
+Heal up HP and CP/MQ swap Kaleido to Rean
 Fight 2: Saintly Rean/Altina. Raging Fire and SBreak
 
-Heal up HP and CP/MQ swap
+Heal up HP and CP/MQ swap Kaleido to Rean
 Fight 3: Saintly Rean/Altina. Raging Fire and SBreak
 
 [PAGE]
@@ -290,54 +287,45 @@ FT Residental, Craft Sept Vein, Rean over SF
 
 FT to Forest Depths, grind Rean level 17
 Chest: Gladiator Headband
-If need BP then only Rean SBreak, attack
 
 [PAGE]
 
-**Shopping**
-Slot: Rean 1-2, 2-2, 3-1
-Rean: Saintly, Balanced
-
-**Drome**
-Saintly Laura, Silky Fie, Valiant Heart
-SBreak Laura/Rean then Fie
-
 FT North Highway
-Fight 1: SBreak Rean, attack
-Fight 2: SBreak Fie, attack
+Fight 1: SBreak Rean, attack/Elliot craft
+Fight 2: SBreak Fie, attack/Elliot craft
 Ox fight: Assault, Laura SBreak, 
   attack/Elliot craft non Ox to 5BP
-Chest: Sepith, Orange Cape
+Chest: Sepith
 
 Enter Fortress
 
 [PAGE]
 FT St Arkh, FT Camp, Shower x2, Leave Camp
-FT Plaza, buy 31 Southern Punch
+FT Plaza, buy 51 Southern Punch
 FT Parm, FT Byroad, Boxes and Gate
 
 **Setup**
-Equip: Juna/Kurt remove, Fie Swift x2, Laura Orange, Agate Swift x2
+Equip: Juna/Kurt remove, Fie Swift x2, Agate Swift x2
 Agate: Sub Brigid
 Agate over Elliot
 
-Zone 1 Chest: Left and left before exit
+Zone 1 Chest: Left before exit
 Fight 1-3: Agate SBreak
-Take bee/flower fight after each for Agate 200CP and build BP
+  After fight 1&2 food Agate to 200CP
+
 
 Fight as enter area 2, to build Agate CP and BP4+
-Fight final Ape and Shining Pom (can chain with plant for more XP)
- SP, Scope if can, then RFA SBreak first fight, Laura second
+Fight final Ape w/ Shining Pom (chain with plant is ok)
+ SP, Scope enemies, then RFA SBreak first fight, Laura second
 
 **Final chest** just after ape fight
 **Setup**
 __Agate: Sub Skuld
-___Elliot: Sirius next less than 1000, take Brigid
 
 [PAGE]
 **Duvalie, Shirley**
 Crimson Break ASAP and S-break with Agate
-Raging Fire and attack for BP. Then S-break with the rest.
+Attack for BP. Then S-break with the rest.
 
 NOTE: Hits level 21 here for Mech fight
 
@@ -351,7 +339,7 @@ Build BP for next fight, only Finisher ONCE
 Attack 4 times then heal, should get two turns in a row
 Dodge here to counter twice
 Attack twice, heal again
-Dodge, Attack, Dodge, Dodge (big hits)
+Dodge, Attack, Dodge, Dodge (dodge big hits)
 Attack, Craft to win w/ 5BP
 
 
@@ -384,44 +372,45 @@ FT F1 Bath, FT Inn
 **School Tasks**
 Bath, FT Hanger
 **Shopping**
-Power Orb 1, **Brave Stone** and equip Orbs
-Cross Crusadex3->CC-R
+Power Orb 1, **Brave Stone**
+Slot: Rean ALL
+Quartz: Cross Crusadex3->CC-R
 FT Neinvalli, **Shining Pom and Lone Blade**
 FT Garden, walk to Keep
 
 [PAGE]
 **Setup**
-Rean: Kaleido/Sirius, **Lone Blade**
-_Juna: Zephyr/Skuld
-__Kurt: Sirius/Zephyr
+Rean: Kaleido/Sirius, 
+  **Lone Blade**, Action1, Saintly, Sept Vein
+_Juna: Sirius/Zephyr
+__Kurt: Zephyr/Skuld
 ___Altina: Skuld/Kaleido
 Equip: Rean Swift/Headband, J/K Swiftx2, Altina Gentlex2
 
-OoB left and stick right -> stairs for half in bound
+OoB directly ahead -> stairs for half in bound
 UMat chest and OoB, stick right and around U for fight
 Fight:Rean Sbreak, watch targeting
 **Heal CP here or after worms, Sirius should get level up**
-Fish for 5+ Worms, build **BP3+** if needed
+Assault Worms, build **BP3+** if needed
 Fight: Saintly Rean, Shining/Scope. Rean attack for BP else SBreak
 
 [PAGE]
 **Setup**
-Quartz: Break 2, Mind 2, Saintly Force, Action 2x2
-Slot: Rean ALL, Juna 1-2, 3-1, 
-    Kurt 1-2, 1-3, 2-1 Altina 1-2, 2-1
-Rean: Kaleido/**Skuld**, LB, Action 1, Break 2, 
-    Attack 2, Saintly, Speed/Night, Sept Vein
+Quartz: Break 2, Mind 2, Saintly Force, Impede1, Action 2x2
+Slot: Juna 1-2, 3-1, 
+    Kurt 1-2, 1-3, 2-1, Altina 1-2, 2-1
+Rean: Kaleido/**Skuld**, Break 2, Attack 2, Night
 _Juna: Saintly Force, LaForte
-__Kurt: AutoPhys, Saintly, Action2, HP2
+__Kurt: Auto Speed, Saintly, **Impede1**
 ___Altina: Action2, AnalyzeR, Mind2
 Formation: RJK TL, Altina BR
 
 **Stratos**
 Sledge and Silky Rean to break (let boss attack if first)
-Juna LaForte if not silenced
+Juna LaForte, cure silence if needed
 Wind Blade spam and link Rean
-Saintly Altina, Raging Fire for 20k damage
-Zerum Rean for 25k damage, Divine song SF if need 25k
+Juna Saintly Altina before unbreak
+Zeram Rean, Raging Fire triple SBreak for ~24k
 
 [PAGE]
 **Post Keep**
@@ -429,7 +418,7 @@ Leave Keep and skip a bunch
 FT 3F, end day
 
 **Mech Training**
-Swap Juna and Ash, **check EX Orbs!**
+Swap Juna and Ash, **equip EX Orbs!**
 Ada (gun):  No Charge Head, Charge Body
 Cedric: No Charge or Allies, Head. Charging, Body.
 Fritz: Always Arms
@@ -463,22 +452,22 @@ Enter Tower, Conference Room
 Walk out, Get work, FT Front, Boat and Bank
 FT Harbor, walk into East, FT East
 Walk into Center, Kate quest -> Genten
-FT Center, walk to West -> Bakery for bagels, Juna
-FT Harbor -> 21 Fresh noodles
+FT Center, walk to West -> Juna's house
+FT Harbor -> 15 Fresh noodles
 FT East -> Merchant Assoc
 FT Center, FT Bank
 
 [PAGE]
 **Geofront**
 Walk to first fight
-Fight 1: Crimson Slash, Tio freeze craft, then spam attack
+Fight 1: Rain Slash, Tio freeze craft, then spam attack
 OoB across missing bridge
-Fight 2: Crimson Slash, Tio freeze craft, then spam attack
+Fight 2: Rain Slash, Tio freeze craft, then spam attack
 
 Next room and OoB past enemy straight ahead 
 Inbound on beam, up ladder for UMat, walk back to big area
-Fight 3: Saintly Rean, Raging Fire SBreak
-Smash Boxes for CP/Assault
+Fight 3: **BP4 check** Saintly Rean, Raging Fire SBreak
+Smash Boxes for CP
 Assault fight by chest for BP4+
 Get chest and OoB to the right of it
 Elevator down
@@ -489,12 +478,11 @@ Altina over Tio, Kurt second slot
 CP Heal Rean
 
 **Heavy Ruby**
-Iron Will ASAP, Saintly Force on everyone but Juna
-Let him attack/start cast 2nd time for max delay
-Sledgehammer into Rean S-break.
-Wind Blade into Link attacks with Rean for added damage.
-If Rean 100CP can SBreak again for the Sepith
-Raging Fire into S-break with the rest at 24k HP left, don't need Rean again
+Sledgehammer and Saintly Rean ASAP
+SBreak Rean, boss should have only attacked once
+Wind Blade into Link attacks with Rean for damage
+After 2 rounds of Wind Blade, Raging Fire
+4 SBreak to win (start with Rean for Sepith)
 
 [PAGE]
 Car 4, Shower
@@ -502,7 +490,6 @@ FT Camp, bike
 
 **Ursula Road 2**
 Chest by ape for sepith
-Chest on beach by 3rd point
 Sandbank, 3 points to search
 
 **Setup**
@@ -512,8 +499,8 @@ Formation: Sharon TR, Rean just below and slightly left, Juna/Kurt BL line
 
 **Seah Unsurtr**
 Iron Will before enemy turn
-Saintly on everyone but Juna, Sharon cast Chrono
-With spells cast wait for one more attack then Sledge/Rean break
+Saintly on everyone but Juna, Sharon cast Chrono on Rean
+After buffs wait for one more attack then Sledge/Rean break
 Wind Blade spam link with Rean, Juna LaForte
 Raging Fire around 35k HP, get BP and then SBreak
 
@@ -522,7 +509,7 @@ Raging Fire around 35k HP, get BP and then SBreak
 **Post Beach Trip**
 Walk out of beach to trigger scene
 Skip so many scenes
-FT Car 4, doulbe shower
+FT Car 4, double shower
 Walk out to Freddy
 Fishing gear: Dual line, custom handle, shock reader
 
@@ -538,8 +525,8 @@ Enter Boat house
 **Setup**
 Rean: **Chrono R, Rage**, SF -> Break1
 _Juna: Skuld/Kaleido
-__Kurt: Sirius/Zephyr, AutoPhys, Action2
-___Altina: Zephyr/Sirius
+__Kurt: Zephyr/Sirius, HP2->Freeze, SF->Attack2
+___Altina: Sirius/Zephyr
 Equip: Silver Chain for non-Rean
 **Heal up**, you just got a bunch of max HP
 
@@ -547,15 +534,15 @@ Equip: Silver Chain for non-Rean
 Chest before boss
 
 **Mordreian**
-Non-Rean Spirit Incense after first attack
-Divine Song, Rean LaForte, everyone else small attack spells
-After 2nd attack Sledgehammer and Rean SBreak to break
-Wind Blade and spam link Rean for damage/CP building
-Juna LaForte on 2nd turn during break
-Keep Wind Blade up all times, let enemy unbreak
-On Rean's next turn Sledge and Gale/Juna SBreak
--- no Rean turn then allow to Enrage and Rean/Juna SBreak
-Wind Blade spam link Rean again until 14k, Raging Fire SBreak AK
+Divine Song ASAP
+Rean Chrono Drive, Juna LaForte
+Kurt Spirit item heal
+KA small attack arts
+After 2nd attack Sledge, Rean SBreak to break
+Kurt linked to Rean
+Wind Blade spam, Kurt do Rain for delay fishing
+Juna LaForte on Kurt, pull in close for that
+Raging Fire, SBreak spam around 20k
 
 [PAGE]
 **Tower trip**
@@ -564,9 +551,9 @@ Skip all the scenes
 Talk to both guards, leave
 Leave dinner for elevator scene then back for scene
 
-Fight: SBreak Kurt and maybe Juna
+Fight: SBreak Kurt and Juna
 Avoid fights, can't run here!
-35F and 37F, Ash OoB to avoid encounter for sure
+35F and 37F, Ash can OoB to avoid monster rooms
 
 Head out to roof
 
@@ -584,22 +571,22 @@ _Alisa: Skuld/Scorpio, Saintly, Mind2, Drive R, Break1
 __Machias: Scorpio/Kaleido, AutoPhys, Break2, Saintly, Sept Vein, Action2
 ___Emma: Titania/Zephyr
 Equip: Rean/Alisa/Mach Swift x2
-Formation: Corners. **Mach, Alisa**, Rean, Emma
+Formation: Corners. **Emma, Alisa**, Mach, Rean
 
 **Old Class 7 Part**
 Car 4 Shower, bike to leave
 FT East Highway -> Boat
 
 **Murder Crab**
-Emma SBreak to open
+Emma SBreak to open, enemy can attack twice now
 Rean LaForte, Saintly Rean, Chrono Drive
 Use Radical Design and S-break with Rean (might just be shy of break)
 Sigma Operation and link AM, spam attack for BP (ok <5)
-SBreak Alisa/Mach, auto if not dead
+SBreak Mach (sepith) then Alisa to finish
 
 [PAGE]
 **Setup**
-Mach: Freeze -> Lone Blade
+Mach: Attack2 -> Lone Blade
 
 FT Car 4, Shower x2
 FT Center, Department Store for Radio story
@@ -608,10 +595,10 @@ FT West, Law Office
 **Geofront Again**
 Stick right for next zone
 Fight 1: Build BP5, Rean SBreak 
-Enter Zone 2, first right then OoB at end of that hallway
-OoB along path, stick just to outside of path to drop down
+Enter Zone 2, OoB right immediately
+OoB along path, drop down on top of chest
+Chest: Brave Seed
 Fight 2: Build BP5, Mach SBreak
-Chest: Brave Seed up ladder
 OoB to cross downed bridge, run to charging station
 FT Car 4, Shower x2
 
@@ -619,10 +606,11 @@ FT Car 4, Shower x2
 FT Depths
 
 **Zelsheim**
-Sigma Operation ASAP, LaForte, Saintly, Chrono
-Mach or Alisa stop cast if opening move (too much HP damage for Skuld)
-Rean/Alisa SBreak, Mach MailBreak till broken
-AM link, spam Attack till 17k for Mach SBreak finish (200CP). Raging Fire if tight
+Sigma Operation ASAP
+Rean LaForte on self, SCraft after
+Alisa/Mach spam first craft (impede) till break
+Link spam, Raging Fire when at 5BP again
+Scraft Mach then Alisa before unbreak
 
 [PAGE]
 
@@ -643,30 +631,37 @@ Second down bridge, Rean Assault up stairs
 Final room, switch on the left
 
 **Setup**
-Olivier over Alisa
-_Olivier: */Titania (MQ Bug)
+_Alisa: */Titania (first), Scorpio/*
+__Mach: Skuld/Kaleido (no-op if did above right)
+___Olivier: */Scorpio (XP, next fight)
 Equip: Olivier Gentle x2
-Formation: Corners. Olivier BR by Emma
+Formation: Olivier BL, in front of Mach
 
 [PAGE]
 **Armor Boss**
-Emma opens with Palace of Eregion.
-Rean LaForte, Saintly on Olivier
-Sigma Operation and S-break with Rean, Olivier and Machias. Finish with normal attacks.
+If Alisa before Red Armor:
+  Sigma Operation, Rean/Mach break
+  Spam attacks to build BP on Red armor
+  Raging Fire x2 while keep BP4+ (orders for XP)
+  Alisa SBreak before RedArmor unbreaks
+Else:
+  Emma opens with Palace of Eregion
+  Pass until Red Armor acts
+  Then same as above
 
 **Setup**
-Alisa over Emma
-
-Heal up Rean, Mach CP with food (Olivier should be good from MQ)
-Head downstairs to grind BP and grab chest
-Need BP3+ for next fight
+Olivier over Emma
+Heal CP on Rean and Mach
 
 [PAGE]
 **McBurn and Camp**
 If you get deathblow’d just reset the fight.
 Rean La Forte for himself and Machias, Saintly Alisa/Olivier
-Radical Design into Rean/Alisa S-breaks.
-Raging Fire, Attack McBurn until enemy turn, Mach/Olivier SBreak
+Radical Design into Rean/Mach S-breaks
+SBreak with whoever is later between AO
+If have turn before McBurn, weave in attack
+NOTE: If Scorpio hit 4 then enough to just SBreak
+  immediately after breaking enemies
 
 **McBurn the most Burn**
 Auto and die.
@@ -684,11 +679,11 @@ Airplane mode: Arts, Juna Gemini
 Rean and Juna both attack (arms)
 Kurt uses Blade Dance
 RJ Spam more attacks to head and arms
-Emma will Spirit if Juna took damage otherwise Silver Ray
+Emma Spirit if Juna took damage else Crescent (same delay)
 Guns or Arts to break flight, Rean attack **NO UNITE**
 Kurt uses Blade Dance again, Rean Unites to break
 Rean attack, Gemini Blast, Crescent Flash into Finisher
-Kurt/Emma attack arts
+Kurt/Emma attack arts to end
 
 [PAGE]
 ## Chapter 3
@@ -722,7 +717,8 @@ OoB right of ladder to drop to exit
 Zone 2 -> Left at bridge for chest
 OoB at end of bridge, left for chest
 Right from chest, next room with vent exit for fight
-Fight 2: Sledgehammer, Spirit->Gale. Wind Blade and link Rean spam. 5BP at end
+Fight 2: Sledgehammer, Spirit->Gale. 
+  Wind Blade and Juna LaForte. Have 5BP at end
 OoB to right wall for edge of zone, right to end
 
 [PAGE]
@@ -739,9 +735,11 @@ CP item to **200CP** on Rean
 Formation: Corners: Rean, Juna, Kurt, Altina
 
 **Oliphemus**
-Iron Will -> LaForte, Saintly Altina, Kurt if time
-Sledgehammer into Rean SBreak before boss second turn
+Iron Will if spell finish after boss turn
+LaForte, Saintly Altina, pass anyone else
+Sledgehammer into Rean SBreak after spells finish
 Raging Fire, attack spam into all SBreak. Win? Win.
+3 SCrafts will do about 37k if all buffed
 
 [PAGE]
 Leave Keep and skip
@@ -760,7 +758,7 @@ Car 2, Shower x2, sleep
 
 **Setup**
 Pablo for weapons
-Sell: Spirit, Brave, Sepith Mass
+Sell: Spirit, Brave
 Weapon: Rean, Kurt, Ash
 Upgrade: Rean
 Ash over Juna, Musse over Altina
@@ -771,10 +769,9 @@ Warp trick: Leave Juno map, off bike, reenter Juno map,
   save and load, leave Ordis x2, trigger scene at gates
 [PAGE]
 **Ordis**
-Riviera Court -> Abyss Shadow (sell weapons if needed)
+Riviera Court -> Abyss Shadow (sell weapons and monster parts)
 
 Walk to North
-Factory, get quest
 Stop at Inn and Musse house (enter)
 
 Walk to Harbor
@@ -785,16 +782,15 @@ Walk to Aurochs Road
 
 [PAGE]
 **Beach Again**
-Bike to beach, grab first shell
-Do shell side quest north of fishing area
-OoB to secret fishing area
-Grab chest and fish up one Action 3
+Bike to beach,
+Go to secret fishing area
+Fish up one Action 3
 
 **Setup**
 Rean: Lone Blade, Action 1/2/3, Rage, Burst, Break3
 _Ash: Scorpio/Keeper, Auto Phys, Action2, Drive R, Break2
-__Kurt: */Scorpio
-___Musse: Keeper/*, Auto Mag
+__Kurt: Keeper/Scorpio
+___Musse: Auto Mag
 Equip: Rean Abyss, Swift, Musse Gentle x2
 Formation: Corners. Rean, Ash, Kurt, Musse
 
@@ -805,34 +801,32 @@ OoB to quest boss, use scene to reenter from OoB
 Burst, Sledge, La Forte, Rean SBreak to break
 Wind Blade x1, spam attack
 Raging Fire after Wind Blade, attack until boss turn
-SBreak Ash, Musse, Kurt if needed
+SBreak Ash, Kurt. Musse if needed
 
 [PAGE]
 **Post Beach Trip 2**
-Leave Beach
+Leave Beach, can OoB under trigger point
 **Setup**
 CP Heal Rean, maybe EP too
-If Kurt 0CP then Juna in over him
+If Musse 0CP then Juna in over her
 _Ash: */Zephyr
-__Musse: Sirius/*
+__Kurt: Skuld/*
 ___Altina: */Kaleido
 
 **Jaegers**
-Rean LaForte, Saintly on Musse
+Rean Burst LaForte
 SCraft in this order: Rean, Musse, Kurt, Ash
 
 [PAGE]
 **Ordis again**
-FT North, Orbal to turn in shell quest
-Slots: If missed any on Ash/Musse
-Radio Story -> Walk outside and house on right
+FT North, Radio Story -> house on right
 FT West Highway
 FT to Camp
 Hard left to Car 2 rear for shower x2
-FT front, leave
+Rean leader, FT front, leave
 
 Chest: left just before Canyon Road for UMat
-Chest: 2 in next zone. End of low path and then left a T, Dark and Brave
+Chest: end of low path for Dark Emblem
 
 **Raquel**
 Pub, talk to owner
@@ -857,6 +851,7 @@ Rean SBreak, then everyone else
 [PAGE]
 Skip scenes till back at Camp
 Talk to Michael, Randy and Tita
+**SLOTS** last chance if still not fully open
 FT Entrance, bikes to leave
 
 Drive back towards Canyon
@@ -925,7 +920,8 @@ FT Harbor, Entrance, harbor clerk, boat to island
 **Bryonia Island**
 Caretaker building, continue onto island
 Left for major altar. OoB on right for waterfall, though large rocks
-OoB into left of waterfall, run slightly left to side of cave, OoB back in
+OoB into left of waterfall, run slightly left to side of cave
+Stay OoB and drop down near entrance, use ladder through wall
 Chest: Up ladder for Minotauros
 Run around back of island to statue, climb to top
 
@@ -969,7 +965,7 @@ Walk outside, check behind tent, skip everything get ready for setup
 
 [PAGE]
 **Setup**
-Sara, Mil and Ange in
+Sara, Mil and Ange as party
 Musse, Ash, Kurt -> remove quartz
 Rean: Kaleido/Scorpio. Cast 2 over Action1
 _Sara: Mino/Skuld, Auto Phys, Lone Blade, Break 2
@@ -983,7 +979,7 @@ Ride bike through town
 
 [PAGE]
 
-Fight 1: Saintly Ange, SBreak her
+Fight 1: Saintly Ange, SBreak her, Auto
 Mil: Sub Mino
 
 Enter next zone
@@ -991,7 +987,7 @@ Enter next zone
 Fight 2-5: Saintly Sara, Sara SBreak then Mil
 If Rean no turn then SBreak everyone starting with Sara
 
-CP Heal after fight unless MQ level (should get 1)
+CP Heal after fight or MQ level
 
 Chest: Right after 5th fight for Break R
 
@@ -1020,6 +1016,7 @@ OoB back in, OoB across room and out otherside
 Chest in duct, turn back for switch
 Scene for switch, hit own switch now. OoB to other side w/ unlocked doors
 Start of the game!
+OoB after second stairs, walk through stairs leading to fight
 Just before Sleipnir fight swap to Team B and then back to Team A
 
 Accept errors
@@ -1034,11 +1031,10 @@ Raging Fire, Saintly Sara, SBreak Sara
 Attack Ines for BP, SBreak Jusis
 
 [PAGE]
-OoB gap straight ahead
-Down second stairs on left to trigger normal scene
+OoB through stairs on the right, second column thingy
+Reinbound through stairs just ahead/left, ahead for cutscene
 Back up and through door
-OoB right and chest through wall, run long way around outside for second chest
-Up stairs, OoB wall on right into vent for chest
+Chest in room across the hall then upstairs
 OoB past locked door, run to next zone, Up the two ladders
 
 **Setup**
@@ -1120,11 +1116,8 @@ Zone 2 OoB left for UMat chest
 OoB right to open area for Pyre Bell chest. Up ladder and run to end
 
 [PAGE]
-**Shop**
-Make Brave Stones if needed, need 3
 **Setup**
 Juna over Kurt, Musse over Altina
-_Juna: Mino/Skuld
 ___Musse:Auto Mag, Action 2, 3Bells (Epoch, Black, Pyre)
 
 **Pale Apache S**
@@ -1144,7 +1137,7 @@ ___Fie: Kaleido/Scorpio
 Equip: Rean Dark Abyss
 
 **Sword Gods**
-Raging Fire, Rean uses La Forte.
+Rean Burst, Raging Fire, La Forte.
 Use S-breaks in this order: Laura, Rean, Sara
 If Fie has turn then attack whoever has most HP
 Then Fie SBreak
@@ -1163,8 +1156,8 @@ Right arm raised: Left arm 3* (round2 only?)
 
 Juna and Kurt use normal attacks
 Ash throw a Brave Stone, then Ash Unite
-Juna use a second Brave Stone, spam attack
-Ash Delay craft in break, anyone Unite
+Juna use a second Brave Stone, build to Unite
+Use delay crafts when broken, anyone 3rd Unite
 
 **Altina Mech Round 2**
 Open Brave Stone, 2BP attack when available to break
@@ -1226,7 +1219,7 @@ Rebuild BP3+, SBreak everyone
 
 Bike back to town and FT when just outside
 FT Vesta, accept work, enter Inn
-Shop: Special Curry x30+ (sell weapons)
+Shop: Special Curry x25+ (max buy)
 FT Plaza, walk to palace
 FT Camp, Car 4, shower x2
 FT Racecourse, bet on Lino Bloom
@@ -1237,7 +1230,7 @@ Walk up to owner, back down to Catacombs
 OoB to left, reenter at last long hallway for scene
 Left for Brave Seed chest
 Turn around and OoB to head to end
-Zone 2, OoB left for Passion chest
+Zone 2, OoB right for boss area
 OoB back the way we came and run to boss area
 
 **Magic Knight Heavy Golem**
@@ -1288,7 +1281,7 @@ No Orders needed, just LaForte and SBreaks
 Burst, LaForte, Rean Sbreak
 SBreak Juna/Kurt/Altina
 
-**Setup**
+**Setup** - do highlights in order they appear
 Team A: Juna, Kurt, **Fie**, Elliot, Gaius.
 Team B: Musse, Ash, **Machias, Alisa, Emma**.
 Team C: Rean, **Jusis**, Mil, Laura, Sara, Altina.
@@ -1306,10 +1299,11 @@ Musse: Aegis/*, AutoSpeed, off HolyBell
 _Ash: Oberon/*, HP3
 
 __Emma: Titania/Pandora, AutoMag, 4 Bells, **Burst**
-Fie: Tempest/Sirius, Balanced, Rage, Cast3, Evade3, Saintly, Shining
+Fie: Tempest/Sirius, Balanced, 
+  Rage, Cast3, Evade3, Saintly
 
-Equip: Mil War/TrueGlad, Laura War/Passion, Sara Warx2,
-  Emma Still War, Fie Evergreen
+Equip: Mil War, Laura War/True
+  Sara Warx2, Emma Still War
 
 **Heal Rean CP**
 
@@ -1332,12 +1326,14 @@ Swap to team A to finish dungeon
 **Setup**
 Sara over Jusis
 **CP Heal** Rean/Laura
-Rean: Skanda over CBreak-R
+Rean: Skanda over Action2
 _Sara: Remove Attack3
 
 **Shopping**
-EX Orb: Attack 3, Action 3. Equip Attack 3, Action 2/3
+EX Orb: Attack 3, Action 3. 
 Items: Brave Stone x3
+Equip EX: Attack 3, Action 2/3
+
 
 [PAGE]
 **True Zoro-Agruga - P1**
@@ -1374,6 +1370,10 @@ If 57k+ HP after Slash then Burst in extra attack
   Will need second Raging Fire though
 Use second Zeram if fight is really off script
 
+NOTE: If Mino hit level 7 before this fight then
+  will always have enough damage, no need for extra
+  Chrono Burst attack
+
 [PAGE]
 Run down hallway to Alan
 FT Leica, Museum, Bell
@@ -1397,7 +1397,7 @@ Equip: Sharon War x2
 
 Same strat for each of 4 fights:
   Spirit Unification, Arcane Gale
-  Build BP at 2 or less, Divine Song Cav Edge
+  Sharron attack, Divine Song Cav Edge
   Heal CP/EP after each
 
 OoB left wall and run to lowest room, fight 1
@@ -1408,6 +1408,8 @@ Right and OoB, turn left to zone exit
 Fight 4 as enter zone - build BP in this one
 
 [PAGE]
+Final fight: Same strat but Sara Brave Seed first for BP
+
 OoB left wall, 45 to right and run to small room scene
 **CP** heal if you haven't
 
@@ -1428,10 +1430,8 @@ Sara SBreak with Str buff for 45k damage
 FT Car 4, shower x2
 Contact students via action menu
 
-Talk to all groups
-Approach highest area
-Talk to new groups
-Back to highest area
+Talk to everyone
+Then talk to everyone again
 
 Walk down hallway
 Get ready to start skipping scenes
@@ -1468,11 +1468,11 @@ S-break with Laura/Mach then Gaius/Jusis
 
 [PAGE]
 **Setup**
-Party: Rean, Jusis, Mach, Elliot
+Party: Rean, Mach, Jusis, Elliot
 Unequip QA everyone else
 Rean: **Mino/Skuld**, Rage -> Mars
-_Jusis: Scorpio/*, AutoPhys, LoneBlade
-__Mach: Skuld/Mino, Auto Phys, Lone Blade, Break2/3
+_Mach: Skuld/Mino, Auto Phys, Lone Blade, Break2/3
+__Jusis: Scorpio/*, AutoPhys, Lone Blade
 ___Elliot: Pandora/Scorpio, Balanced, 3Bells, EP Cut 2/3
 
 
@@ -1484,14 +1484,14 @@ Walk straight ahead and OoB, drop down
 Walk between 2nd and 3rd arch on floor (past 2 arch), OoB drop
 Walk ahead and enter room, walk right back out
 
-WATCH BP, need 3 for final fight, Burst seed to 5 if needed
+WATCH BP, need 3+ for final fight, use Brave Soul to 5 if needed
 
 **Blood of Iron**
 If Rufus goes first and uses his AT Advance, S-break with with Rean and Machias. 
   If not broken also Jusis. Use the Brave Seed on a mob after the fight.
 If Rean goes first, Unification -> Gale, Mach SBreak
 Use Divine Song, then Jusis uses Brave Seed.
-Link Elliot with Jusis then Cavalry Edge.
+Elliot use Cavalry Edge to win
 
 [PAGE]
 Buy Brave Stones, need 8 total
@@ -1508,7 +1508,7 @@ OoB straight ahead to drop all the way down
 Right past the boss to the door and then re-etner
 
 **CP Heal** Rean done?
-No heal needed, we shouldn't get hit
+No HP heal needed, we shouldn't get hit
 
 [PAGE]
 
@@ -1523,7 +1523,7 @@ If still alive use Zeram items
 [PAGE]
 **Setup**
 Partners: Laura, Jusis, Sara
-EX Orbs: Attack2 -> Speed2
+EX Orbs: Attack3, Speed2/3 (should already be done)
 
 **Nameless One Mech**
 Turn 0, Body: Rean Brave, J/K Attack, Rean Unite
@@ -1536,6 +1536,8 @@ Turn 3, Arms: Rean Unite to break
 Turn 4, Body: Juna Brave, Rean Attack, Laura Radiant, Kurt Attack, Rean Unite
 If not dead here then heal up anyone under 50k if able, impede attacks after this one
 
+NOTE: Use extra Brave Stones if you have them, last fight here
+
 
 [PAGE]
 **Nameless One The Nameless Final Omega Form**
@@ -1543,50 +1545,31 @@ Crescent Flash, Crescent Flash, Crescent Flash, Attack, Attack, Attack > Finishe
 
 Time is on black screen after this fight
 
-
 [PAGE]
 
 Open questions/things I still want to look into
 
-TODO: How much food do we really need? I think I had A LOT left over
-TODO: Also look pretty high on Brave Seed/Soul, can skip getting some or otherwise use them for speed?
-TODO: High on Zerums as well, use to speed up any fights?
+Item routing:
+PB ends with 2 Zeram Powders and a Brave Soul
+Can we skip picking these up or use them to end some other fights sooner?
+Some Chapter2 fights are iffy, think we have at least one of those Zeram Powders by then (reward from Shining Pom fights)
+Brave Seeds are sold until mid Chap3, so can't use extras until after that point without risk to money route
+
+Money routing:
+We have a lot of CP food left over by end of game. Though by the time we buy the 45+ Passion Hotpots we aren't really under money constraints anymore anyway
+Maybe we could spend that money that is going to food somewhere else but nothing really coming to mind. More Blitz Coats for speed?
+More money early would help to pick up more CP food in Chap1/2 or more Silky Stews for str up without cast time but buying fewer Passion Hotpots doesn't help with that
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Master Quartz setup:
+Chapter 3 Field Study - we are a bit weak for the Trio fight (Duvalie, Ines, Ennea) on the island
+  Could get Tatinia onto Musse main slot for this for more ATS, it should much more likely be level 5 too
+  Can look to even try and equip this to Musse earlier, probably during major setup before Isopod
+  Likely still need it to start on Altina for Keep fight though, that one is also a bit tight
+Chapter 4 setup - We're putting Sirius on Juna in the keep but we probably shouldn't. We don't want her to have it on for the first Dark Dragon fight since then she would have insight which might make her get counter instead of Fie
+  Probably swapping Juna and Altina's setup in the keep would just work and be better anyway. Juna will do more break damage to Keep boss and Altina will have Sirius in main slot which is fine.
+  Later in Towa shop only need to put Pandora into sub slot for Altina, less changes
+  Although is the Pandora sub even needed? I don't think current route even gets close to 7. Anything we could do to make it hit 7? Or skip doing any Altina setup in Towa shop?
+Minotauros isn't always 7 for Azure Siegfried fight and sure would be nice if it was
+  Anything easy we can do to get a little more XP on it? Probably not, we pretty much always have it on after we pick it up cause it is so good
+  Maybe some high XP fight we can pick up some extra XP multiplier by spamming some extra orders for triple order? Final fight in Juno (Arianrhod and friends) is probably good option for this
