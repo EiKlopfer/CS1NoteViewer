@@ -1,0 +1,1815 @@
+# My CS4 Nightmare Notes
+
+Step 1: Try not to die a lot
+Step 2: Die a lot
+
+References
+Izayoi nots: https://docs.google.com/document/d/1NJnyEiK4G9W5OgJDo-oqRMMS8zUQYdyJDvhMeJKkwtY/edit?usp=drivesdk
+https://gamefaqs.gamespot.com/ps4/229684-the-legend-of-heroes-trails-of-cold-steel-iv/faqs/77559/act-1-the-trials-of-class-vii-1
+https://kiseki.fandom.com/wiki/The_Legend_of_Heroes:_Trails_of_Cold_Steel_IV#See_also
+
+
+[PAGE]
+## Prologue
+Fight1: Lloyd SBreak, arts/Estelle attack
+Fight2: Black Fang, Arts
+Renne over Lloyd
+Fight3: Black Fang, arts
+Lloyd over Ellie
+Chest after ladder, Brave Soul
+Fight4: Josh SBreak, Renne Throw, Ivy spam
+Fight5: Calamity Order for accel, Josh Brave
+  Renne throw then SBreak
+  Ivy if high HP left, else attack
+  
+Chest to the right, Zeram Powder
+EP/CP heal all but Renne
+
+[PAGE]
+
+**Claire and friends**
+Keep Delay Order up
+Joshua Chrono Drive
+Estelle/Lloyd LaForte ASAP
+SBreak away
+Ellie CP heal team till SBreak more
+
+[PAGE]
+
+## Thors
+Kurt's room, training room, Rean's room
+
+## Eryn
+Laura outside, Machias/Randy inside 
+Jusis, Elliot/Gaius, Sara/Fie inside
+Rose/Emma, Alisa inside
+FT Atelier
+
+[PAGE]
+## Act 1 Part 1
+**Setup**
+Juna: Skuld
+Kurt: Sirius
+Altina: Deva
+
+**Saint-Gral 1**
+First chests straight ahead
+Fight1: Juna Order -> SBreak
+Fight2: Juna double swap, Randy SBreak
+2 chests, take right both times
+Fight3: Kurt/Altina SBreak, Randy Cryx2 -> SBreak
+2 chests, take left both times
+
+[PAGE]
+**Roselia**
+Just lose
+War Cry w/ Randy to lose faster
+**Continue**, don't retry
+
+[PAGE]
+FT Inn, then Orbal
+**Setup**
+Slots: Kurt last slot
+Herbalist talk x2, FT Fisherman in center
+
+**Eerie Woods/Isthmia**
+Chest x2 before/after ladder, pots and sep
+Exit to Isthmia
+
+**Setup**
+Quartz: HP1 x2, Saintly
+Juna: */Sirius, HP1
+Kurt: */Skuld, HP2
+Altina: */Skuld, HP1, Saintly
+Randy: */Skuld
+Equip: Altina Silver
+
+Chest on right before exit, UMat
+Chest on road map before exit, Sepith
+
+[PAGE]
+Rest in bed
+FT Residential, leave for shopping
+
+**Shopping**
+Sell: Spirit Incense
+Weapons: Juna, Kurt
+
+Cathedral, Noble Distrcit
+FT Residential, Cafe, FT Luna room, FT highway
+
+**Magic Knight Sigheim**
+Proud Warrior, always keep on
+Altina scan and then Saintly self
+SBreak on third Proud, 44k HP target
+Summon Drakken
+
+[PAGE]
+Chest on map1 before exit, UMat
+Chest on map2 right before exit, sepith
+
+**Parm and Titus**
+Vander, FT Entrance, FT Parm Byroad
+Chest on map2 left across bridge, pots
+Run to Titus Gate, Horses unlock
+Titus Gate Inn for BP then Anton
+FT Parm Byroad 2, straight ahead for chest
+FT Parm Byroad, UMats then Hamel
+
+[PAGE]
+**Hamel Road**
+Chest left before hill, right after hill
+Chest left U-turn after fishing spot
+Fight1: Proud Warrior, all SBreak
+Chest x3, first right for sepith
+  Then left for mech, before exit Zeram
+
+**Setup**
+Quartz: Heat Up x2
+Juna: Heat Up
+__Altina: Remove Action1
+(Wait, do we always have below HP1?)
+_Kurt: Action1, Heat Up, HP1 
+Equip: Juna Holy, Kurt Orange Proxy
+
+FT Titus for Inn, Enter Hamel
+
+[PAGE]
+**Gilbert** 
+Proud Warrior ASAP
+SBreak w/ everyone else
+Zeram Randy, Proud Warrior and SBreak rest
+Spirit ASAP, then Ash Unbound and rest Heat Up
+Randy War Cry once
+Target 200CP Randy and Ash, 100CP else
+Proud Warrior, SBreak all 4
+
+**Rutger**
+Wind Blade if available
+Spread out to corners
+Kurt Blade Dance if CP
+Spam Arts for turns, get to 36
+
+[PAGE]
+**Mech - Zector**
+Swap Kurt and Altina
+
+You can get 3* meme’d here so work around that
+Both attack Body
+Altina Shadow Rise 
+Juna Arms, Ash Brave Stone
+Kurt Blade Dance
+Ash Body > Unite
+
+Juna Repair Stone self
+Ash Head, Altina Shadow Rise
+Both Head
+Kurt Blade Dance
+Juna Arms, Ash Arms > Unite
+Altina Shadow Rise
+
+[PAGE]
+**Eryn**
+FT from bottom up to locations w/ events  
+  **Shopping** at Orbal 
+    Attack1 off of Fie, make Power1
+    Make Brave Stones max  
+  At General Store walk out for Ash event
+
+[PAGE]
+## Act 1 Part 2
+Herbalist home for Spirit Incense
+Leave via stone, take **Sara**
+
+Run through Forest
+Chest on left through Avon, Umats
+Chest on road, right area, Sepith
+Enter Milsante
+
+[PAGE]
+**Shopping - Milsante**
+Quartz: HP2, LaForte x2
+Sell: Spirit Incense
+Buy: Mino, Moebius
+Weapons: Juna, Kurt, Holy Chain x2, Silver Earring
+Items: Gallie P, Fresh E, Flaky P, Coarse RS, Assorted G
+
+**Setup**
+Juna: Mino/Moe, Heat->HP2
+_Altina: Thor/Mino, HP2
+__Kurt: Zephyr/Mino, Heat->LaForte, HP1->Att2 (Missing HP?)
+___Ash: Moe/Mino
+____Sara: Scorpio/Mino, Firebolt -> LaForte, HP1->Cast1
+Equip: Juna remove Silver, Kurt/Altina Holy, Ash Gallie
+Formation: Sara over Altina, everyone top left
+
+**Milsante Post Shop**
+Upstairs event, FT out, Inn, **Rest**
+Lake Gala FT point, FT Entrance and leave
+
+[PAGE]
+Head to Raquel
+Chest on right for Drive R
+Chest on map2 after bridge2, UMat
+
+**Raquel and Alster walk**
+**Shopping** Pawn shop for Silver Coin
+Pub, Inn, Church, FT Entrance
+Quest - Recruit, Casino, Theater, Pub, 
+  FT Mil Inn, Juna cook fish , FT Decken
+
+Chest map2 second right, sepith
+Monster quest map2
+  Crazy Hunt ASAP for buffs
+  Cast LaForte, SBreak w/ all
+
+Chest on map3 ASAP on right, UMat
+Walk to rest lodge, **rest**
+Chest on right by spider, Brave
+
+[PAGE]
+**Alster**
+FT Entrance, horses, Kai's, Steinrose
+Basin FT point
+
+FT to Lake Gala, horse warp
+Get Emblem, give to **Altina**, swap in
+Fight small robot in pool, Altina SBreak
+FT Field, into platform for chest
+
+FT Alster, walk to Osgiliath Basin
+Chests 2 and 3 on way down, consumables
+
+[PAGE]
+**Cedric Jerkface**
+Watch targeting, Musse likes to be nice
+Arts Celebration for buff, SBreak others
+Lightspeed for accel, SBreak last
+Swap in Ash and Sara, SBreak
+Finish Shirley if she did the thing
+  
+[PAGE]
+
+**Mech - Testa-Rosse**
+Swap Sara and Musse
+EX Orb: Power
+
+Idle: Head
+Sword forward, arm forward: Arms
+Crouch, sword in front and up: Body
+
+All attack Head
+Sara Thundering Roar
+Juna Brave Stone, Kurt Unite
+
+Ash attack, Juna Brave Stone
+Altina Repair Stone current target
+Kurt Unite
+
+Juna Brave Stone, Ash attack
+Musse Sapphirl Rain
+Juna attack, Ash/Kurt Unite
+Spam everything from here
+
+[PAGE]
+FT Orbal, Alisa x2
+**Shopping** Citrus Bottles x3, Floral x1
+
+FT Herbalist, accept quest
+  First ally, then Answers 2,3,1,3
+  
+FT Fairy Spring to heal, turbo only
+FT Saint Gral, first two chests
+  Left after stairs
+  Second right door, far left door
+  
+FT Eryn Village Square, talk to Musse
+Enter door behind, sleep
+
+[PAGE]
+
+FT to Eryn Villa Entrance and leave. Pick Jusis and Laura. 
+
+**Setup**
+Juna: N/A
+_Altina: Moe/Emblem
+__Kurt: Scorpio/*
+___Musse: Titania/Minotauros
+____Ash: Dun/Mino, 
+_____Jusis: Emblem/Mino
+______Laura: Reg/Mino
+Equip: Kurt Orange Cape -> Luara, rest get Citrus
+Party is Jusis, Ash, Laura, Musse
+Tactics, straight line top to bottom to avoid boss pushing everyone away
+
+[PAGE]
+Ship: Talk to all that need a talk
+
+**Magic Knight Dynagram**
+Noble Rise, normal attack
+Valiant Hearts S-break all, Jusis last
+
+Chest map 1, on right near immediately, sep
+Chest map 2, on right before exit, UMats
+
+**Crossbell**
+FT to East Street Entrance, walk Harbor then IBC. 
+  Buy IBC Coin, FT East Street, Enter Central
+Enter Orbal -> Wendy, FT Central
+Walk Entertainment, Imelda shop, FT Entertainment
+  Enter Arc, FT Entertainment, Walk West Street
+Enter CNS Temp Office, FT West, Enter bakery
+  FT West, enter Juna's apartment
+FT Entertainment, Casino, Upstairs -> Geofront X. 
+
+[PAGE]
+
+**Geofront**
+Map 1 go left for switch, right for duct
+Right in duct for chest, spirit
+Map2 Left after stairs for chest, sep
+Chest on right then down path next to it
+
+**Genesic Clown**
+Noble Rise, SBreak all, Jusis last
+
+FT to Imelda’s, sell Spirit to buy Gold Coin
+FT to Station and leave. 
+Head to Field Exercise Camp then to St. Ursula
+
+Map2 chest, left around Stargazer, Holy R
+Map3 chests, right before fish and then left fish area
+St. Ursula, Inn to roof, FT St. Ursula, leave
+Wetlands, scene, FT St. Ursula, boat
+
+[PAGE]
+
+Hotel, **Rest**
+Restaurant, into Wonderland
+Visit attractions, FT back to entrance plaza each time
+FT Center, walk right to Lakefront
+Enter Wetlands
+
+3 chests, first left across water for Cozy
+Right for mech stones then next right towards fish
+Final chest on left by mouth monster
+
+**Setup**
+Jusis: Chrono Burst R over Thelas
+Equip: Jusis gets Gold/IBC coins, Ash Citrus->Cozy
+Formation: bottom corner, Jusis and Laura in front
+Orbment Station, check Brave Stone (need 5), Rest
+
+[PAGE]
+
+**Lechter, Sharon and Campanella**
+If Jusis outspeeds Lechter, Noble Rise S-break with all
+Else:
+  On Jusis turns Chrono Burst > Wait > Chrono Burst > Wait
+  Noble Rise into S-break with all
+
+[PAGE]
+**Mech 1 Zauber Soldats**
+Mech pilots - Juna, **Musse, Ash**
+Partners - Altina, **Kurt, Jusis**
+
+All three attack Sword Body
+Juna Brave Stone, Kurt Blade Dance
+Musse Sword Body -> Unite
+
+Ash attack Gun (Normal->arm, Charge->Head)
+Juna attack Gun, Musse Moulin Rouge
+Altina Shadow Rise
+Ash attack into Finisher
+
+[PAGE]
+**Mech 2 - El Prado**
+Mech pilots - Juna, **Musse, Ash**
+Partners - Altina, **Kurt, Jusis**
+
+Idle - Arms
+Sword up, all - Head
+Charge, single - Body
+
+All three attack Head
+Kurt Blade Dance, Juna Brave Stone
+Musse Body > Unite
+
+Ash Brave Stone
+Juna Resurrect Stone current target
+Ash Brave Stone, Musse Unite
+
+Altina Shadow Rise
+Juna Repair Stone weakest
+Ash Brave Stone, Musse Unite
+All out finish from here
+
+[PAGE]
+FT Fairy Spring, heal
+FT Saint Gral Labyrinth 4
+  Go left first, grab EP3 and FT to entrance
+  Go right then right, two chests in zone
+  Chest left, first right door, second left
+  Right for final chest, Go to depths
+
+**Setup**
+Party: Jusis, Sara, Laura, Gaius, Altina, Juna
+Jusis: Zephyr/Mino, Action 1
+_Sara: Dun/Mino
+__Gaius: Emblem/Mino, AutoPhys
+Equip: Gaius True Glad
+
+**Arachne Graia**
+If status then
+  Jusis Chrono Burst, heal (Curia/Recuria)
+Jusis Chrono Burst, Noble Rise, attack/power pot
+Valiant Hearts into S-break with all Gaius last
+
+[PAGE]
+
+FT to Entrance, leave
+FT to Fairy Spring, heal 
+Talk to KeA outside Fairy Springs
+FT to Lemuric General Goods
+  Talk to Alisa then Renne.
+FT to Rose Atelier, finish the day
+
+[PAGE]
+
+**Hecatoncheir**
+Celine Impassion Rean
+Rean Helix spam
+Celine Fire Bolt spam
+On break Rean does normal attacks only
+
+[PAGE]
+
+**Setup**
+Party: Fie, Laura, Alisa, Emma
+Remove Saintly from Altina 
+Fie: */Mino, Air -> LaForte, EP1->Cast1
+_Laura: Def1->Cast1
+__Alisa: Sophia/Mino, Teara->Saintly
+___Emma: Virgo/Moe
+Formation: Bottom left corner, Laura/Fie front
+
+Right for duct, chest in corner, Spirit
+Drop down, right to continue, left at T
+Right before end for chest, Break3
+Leave zone
+
+[PAGE]
+**Setup**
+Party: **Jusis, Sara**, Gaius, **Machias**
+Jusis: remove Chrono Burst R->Invigorate
+_Sara: HP1->Cast1, Fire->Forte
+__Mach: */Mino
+Formation: Bottom left corner w/ Gaius and Mach front
+
+Right for room with duct
+Right at T for both chest rooms
+Leave zone
+
+[PAGE]
+
+**OZ Mirage Crimson**
+Noble Rise, S-break with all
+
+**OZ Mirage Cobalt**
+Fie La Forte
+Alisa Saintly Force on self
+Valiant Hearts and S-break with all but Emma
+
+[PAGE]
+Emblem charge Rean
+
+Chest rooms on right, Attack3 and Green
+Next two rooms on left, Dark and Zeram
+Head towards Orb station
+
+**Setup**
+Rean: Scorpio/Mino, Earth->Att3, Tear->Break3
+Equip: Rean True Glad Band and Dark Emblem
+Rest on Orbment Station
+
+**OZ Mirage Cobalt and Crimson**
+Rean link with Crow, Helix
+Crow Cavalry Edge
+Duvalie Brave Seed
+Celine Cavalry Edge
+Rean Helix then S-break
+Finish with normal attacks
+
+[PAGE]
+Team B Emblem charge
+Chest in left room, right for switch area, Hit3
+Right and right after duct, Cut3 and Dragon
+
+Team A Emblem charge
+Right and run to switch area
+Right chest, duct, switch, drop down chest
+
+Team C Emblem charge
+Run about haflway
+Chest on left, then left U-turn
+
+Big menu and Orbment Station before Team C finish
+
+[PAGE]
+**Setup** holy setup here, wow
+Quartz: Action2, Chrono Burst, Cut2
+Slot: Altina slot 1 once
+Sell Spirit and Dragon Incense
+Buy weapons for Juna, Kurt, Ash, 
+  Laura, Machias, Jusis and Gaius
+
+Replace all sub Emblem with Sub Mino
+Rean: Action3, Drive R, Hit3
+Emma: Curia->Chrono Burst R
+Altina: Tempest/Emblem, Dragon, Burst, EP1/3, Cut1/2/3 
+Juna: Auto Speed
+Musse: Titania/Mino, Auto Magic
+Kurt: Dun/Mino, Holy Breath R, Lone Blade
+Ash: Brigid/Mino, Auto Phys, Lone Blade
+
+
+[PAGE]
+**Setup** continued
+Equipment 
+Rean: Shining Star Crest, Glad Band
+(backwards in party order)
+_Ash: True Glad Band, Red Emblem
+__Kurt: Cozy Socks, Gallie Plush
+___Jusis: remove coins
+____Musse: Blue Emblem
+_____Juna: Dark Emblem, IBC
+______Altina: Coins
+
+Formation: Diamond, Rean front, Crow and 
+  Duv on sides, Celine back
+
+**Rest** at Station
+
+Finish section and get ready.
+
+[PAGE]
+
+**Red Rossweisse**
+Fie/Laura Forte spells
+Alisa Saintly Force self
+Emma wait for buffs
+Emma Chrono Burst, Valiant Hearts and S-break with the rest
+Serene Grace Chrono Burst rotation to 100cp, then S-break with the rest
+
+**Copper Georg**
+Jusis or Sara Forte team
+Noble Rise into S-break with Gaius
+Whoever Zeram Gaius, SBreak him again (abs delay)
+Everyone attack Georg if have turn
+SBreak everyone else
+
+[PAGE]
+**McBurn, Ines and Ennea**
+Rean Helix on McBurn and Ines
+Midnight Onyx ASAP
+Crow/Celine run away, wait for McBurn ult
+Chaos Raven then continue assault
+Crow Azure Destiny, then Cavalry Edge McBurn
+Celine Nine Lives debuffs away
+Duvalie Cross Crusade on McBurn
+
+Rean Crescent Flash, wait for spells to go off
+Rean SBreak, should break McBurn
+Crow/Duvalie Capsule Rean, Celine Nine Lines BP
+Crow and Duvalie link to Rean, attack then SBreak
+
+[PAGE]
+**Rean**
+Swap Juna for Ash, then Unbound Rage
+Kurt LaForte, Musse Impassion self
+Altina wait for buffs and Ash 200CP again
+SBreak all but Altina
+Altina Burst CP Heal rotation, SBreak when able
+SBreak Ash and Musse when able, Kurt can mainly watch
+
+[PAGE]
+**Osborne and Arianrhod**
+Rean attack Arianrhod (spacing/aggro)
+Juna swap for Ash, Unbound Rage
+Kurt swap for Musse, item heal if needed
+Art Celebration if able, fewer SBreaks needed
+Altina Chrono Burst, Raging Fire
+SBreak others, Ash 200CP
+Altina loop again, Raging Fire before SBreak
+
+[PAGE]
+## Act 2 Part 1
+
+Upstairs to Witch group. Leave through side door to Alisa group, 
+  General Goods for Gralsritter group, Inn for 2 groups. 
+  FT to Fairy Spring and use it, then talk to the remaining group. 
+  Now leave through Entrance.
+
+In ship, Alisa in the Bridge, Juna and Altina in Deck, 
+  Celine in downstairs, go to bathroom. 
+  Back to Bridge, talk to Gaius to finish section.
+
+[PAGE]
+
+**Setup**
+Team is Sara, Rean, Gaius, Jusis, Emma
+Remove STR accessories, Dark Emblem and Gold Coin
+Remove Lone Blades from Kurt and Ash, EP3 from Juna
+Rean Regulus Minotauros, Lone Blade over Hit 3. 
+  Red Emblem and True Glad Band
+Gaius Emblem Minotauros, remove quartz, auto physical, 
+  add Lone Blade. Cozy Socks and Orange Cape
+Jusis Dunamis Minotauros, remove quartz, auto physical, 
+  add Lone Blade.Shining Star Crest and Gallie Plush
+Tactics, move team close together
+
+After arriving in Bryonia go to ship and make: 
+Make Power2, Speed1, 3 Repair and 10 Brave
+
+100 sepith chest on right detour. Go to forced fight.
+  
+[PAGE]
+
+**Scalyptera**
+Rean Demon Unchained Forte all
+Sara La Forte
+S-break with all
+
+Emblem CP recharge on the way to Shrine
+
+Team for fight is Rean Emma Jusis Gaius
+
+**Crow and Duvalie**
+Rean Forte on self
+Noble Rise and S-break with all but Emma
+Chrono Burst Serene Grace rotation till 92cp
+Raging Fire and S-break with Jusis, Gaius and Rean in that order
+Serene Grace Rotation again, Raging Fire and S-break with all
+Serene Grace Rotation, S-break with Gaius
+
+[PAGE]
+Mech - Ordine
+Set Laura as partner, set EX Orbs
+
+Idle - Arms
+Charge - Head
+Right Arm Up - Head
+Right Arm Down - Arms
+
+This is an extremely reactive fight. 
+  Try to avoid crafts, the delay can be your end especially during phase 2. 
+
+[PAGE]
+
+Party is Rean Laura Duvalie Emma Altina Jusis
+Talk to Crow then to Orbment Shop. Buy weapon for Rean and Laura
+
+**Setup**
+Juna remove Action 3
+Duvalie Minotauros sub, remove Chrono Burst R
+Laura Dunamis main
+Emma Action 3 for Cast 1
+
+Go to Fairy Spring. Now to Bryona Island Inside Cavern. 
+  Go left to Cryptid.
+
+**Magic Knight Regulus-Zamiel**
+Rean Forte
+Noble Rise, S-break with all but Emma
+Chrono Burst Serene Grace rotation
+Raging Fire at 92cp and S-break with everyone but Emma
+Repeat the rotation till you win
+
+[PAGE]
+FT to Near Statue and get Mech Fight Stones chest. 
+FT to Titus Gate Rest Area. Accept Orvid quest
+  Parm Byroad 2 get item
+  Parm Byroad 2 then 1 for next item, grab 50x sepith chest
+  Old Agria Road, get 50x sepith chest then Freddy 
+  Report Quest Completion in Arcus menu then go to Bridge. 
+
+**Setup**
+Switch Emma for Crow
+Crow Minotauros sub
+Rean Kaleido main, Septium Vein over Hit 3
+Jusis Moebius sub remove Coin
+Emma unequip quartz, remove Coin
+Laura Chrono Burst R, Leanan’s Kiss, EP Cut 3, EP3, 
+  Action 3, give Gold and Silver Coin
+
+[PAGE]
+Double shower. FT to Parm Byroad 2 and quest monster
+
+**Creepink Squad**
+Fight 1: Noble Rise, S-break with laura and normal attack the rest
+Fight 2: S-break with Crow and Duvalie
+Fight 3: Laura Chrono Burst start CASTING Leanan’s Kiss, Rean’s S-break, after Kiss Laura S-break
+Fight 4: S-break with all, Rean first
+
+FT to Fairy Spring and heal. Now to talk to Rosine in Bridge and Commence Infiltration. 
+  Choose Laura and Duvalie, party order is Laura, Machias, Ash, Musse, Crow, Rean, Duvalie
+
+**Ordis Inflitration**
+U-Material x5 chest on left side after entering West Lamare Highway 1. 
+Go to Kleist Mall weapon shop, sell sepith mass, buy 2 Rider Jackets give one to Laura
+  now to Noble District, then Harbor District Miranda’s Tavern
+  then North Street Orbal Factory, buy Glass, talk to Strauss
+  unequip Coins from Laura, finally go to Sea Breeze Inn. 
+Enter dungeon, in Orbment Station go to Trade > Equipped > Platinum Coin.
+
+[PAGE]
+**Setup**
+Laura Platinum Coin and Dark Emblem
+Crow Emblem Main
+Rean remove Septium Vein
+Laura Moebius main
+Machias Regulus Kaleido, Septium Vein over Thelas
+Ash Dunamis main
+Musse Dragon Vision over Impassion
+Rest at Station
+
+Grab 100x sepith chest(first chest next to entrance) 
+  and Brave Seed (next to lever), then head to fight
+
+**IDF Soldier x4**
+S-break with everyone but Laura
+Laura Chrono Burst Leanan’s Kiss
+S-break with everyone but Laura, Machias first
+
+[PAGE]
+**Setup**
+Return Septium Vein to Rean
+Musse Moebius sub
+Ash Minotauros Gungnir
+Switch Machias, Ash and Musse for Crow, Rean and Duvalie.
+
+Rest at Orbment Station.  
+Get Spirit Incense (after first set of stairs), 
+  break the boxes, pull the lever, get Zeram Powder 
+  and Blind II before going forward. 
+
+**Engels and RMP Member x5**
+Laura Chrono Burst
+Raging Fire and S-break Rean, Duvalie and Crow in that order6
+Leanan’s Kiss and S-break with Rean, finish with normal attacks if needed
+
+[PAGE]
+**Mech - Zauber Soldats**
+Call Ash machine, swap Machias for Laura
+
+Crow attack Sword Head
+Ash Brave Stone
+Ash attack Sword Arms
+Laura Radiant Wings
+Crow attack Sword Head > Unite
+Ash attack Gun
+Musse Saphirl Rain
+Crow Criminal Edge
+
+[PAGE]
+**Claire and Rossweisse**
+(If Claire Anti Order) Laura Chrono Burst > Wait > Chrono Burst > Wait - Anti Order ends
+(If Laura first turn) Laura Chrono Burst
+Chaos Raven into S-break with everyone
+Chrono Burst > Leanan’s Kiss
+S-break with all, Crow last
+
+[PAGE]
+## Act 2 Part 2
+
+Random party. 
+FT to Alster - Steinrose Distillery, talk and accept quest. 
+FT to Eryn - Orbal Factory, buy all Brave Stones you can. 
+FT to Parm Orbal Factory then Merkabah Orbal Factory. 
+Return to Distillery and finish quest. 
+
+FT to Bridge and begin next infiltration. 
+Choose Fie, Angelica and Laura.
+
+[PAGE]
+**Saint Arkh Infiltration**
+
+Head to Saint Arkh, talk to Arc en Ciel crew. 
+FT to Noble District and go to Hyarms Mansion. 
+FT to April Inn, Rest then to Fiona. 
+FT to Luna Crest Apartments and to room. 
+
+Head inside for Fie to leave. 
+
+**Setup**
+Part order is Laura, Angelica, Rean, Kurt
+Rean, remove accessories
+Angelica, give Rean accessories
+Remove Ash Break 1
+Remove Jusis Lone Blade
+Rean Break 1 over Break 3
+Angelica Minotauros sub, Lone Blade 
+  over Golden Sphere, Break 3 over Cast 1
+Kurt Emblem Minotauros
+Elliot Minotauros Gungnir
+Juna Dunamis Regulus
+Altina Regulus Dunamis
+
+[PAGE]
+Fight every group of Sneak Gunners you see, one Angelica S-break is enough. 
+Wait for her CP to recharge before entering scripted fights. 
+Recharge Assault Gauge with boxes. 
+
+**Fight 1**
+Crimson Break, Angelica and Kurt S-break
+Laura Brave Seed, then Rean S-break
+
+Rean Emblem CP recharge. Wait for Angie and Kurt’s CP to reach 100, 
+  next Sneak Gunner, Angie and Kurt S-break. 
+  Grab 100 sepith chest from the same room. 
+  Wait for 200cp then proceed to next fight.
+
+**Fight 2**
+Crimson Break, Angelica S-break
+Laura Brave Seed, then Rean S-break
+
+On duct, head straight for switch.
+Another Sneak Gunner before stairs. Wait for Angie’s CP to reach 200.
+
+**Fight 3**
+Crimson Break, Laura Brave Seed. Angelica and Rean S-break in that order
+
+Grab Orange Corsage from switch room.
+
+[PAGE]
+**Mech - Zauber Soldats**
+Call Juna, swap Elliot for Laura
+
+Rean attack Alan Arms
+Juna Brave Stone
+Juna Sword weakness (Normal - Body, Arms otherwise)
+Rean Repair Stone or Resurrect Stone Juna
+Laura Radiant Wing
+Rean Crescent Flash into Unite
+Juna attack Alan
+Altina Shadow Rise if bad damage rolls
+
+[PAGE]
+Grab EP Charge IV. Sneak Gunner on the way. 
+Go to Orbment Station, Rest then fight
+
+**Craig and Neithardt**
+Crimson Break into Agate and Angie S-breaks in that order
+Laura Chrono Burst, Blast Force into Laura and Rean’s S-breaks
+Laura Chrono Burst Leanan’s Kiss
+S-break with Rean
+
+[PAGE]
+## Act 2 Part 3
+
+Choose Duvalie, Angie, Tita and Juna in that order. Switch Musse and Tita. 
+FT to Saint Arkh Cathedral Square Hotel Augusta, Rest 
+  then accept quest in 2nd floor. 
+  Go to tactics menu and move everyone to the last row. 
+  FT to Old Lamre Road Rest Lodge, exit and go to quest monster. 
+
+**Eldergeist**
+Blast Force and S-break with Rean, Tita and Angie in that order
+
+Go to Merkabah and double shower. 
+FT to Alster Kai and Tillia’s Home and get the box in 2nd floor. 
+FT to Hamel Near Village and go to flower bed for next box. 
+FT to Saint Gral Labyrinth and go to Phase 1 Depths. 
+Fight after checking box
+
+**Rosenberg Dolls**
+S-break with Rean, Duvalie and Angie in that order
+
+[PAGE]
+Begin Infiltration. Confirm party as is
+
+**Setup**
+Equipment
+Laura remove Dark Emblem and Platinum Coin
+Angie remove True Glad Band and Red Emblem
+Rean Rider Jacket, Dark Emblem and Platinum Coin
+Ash True Glad Band and Red Emblem
+Laura remove Action 3 and Chrono Burst R
+Angie remove Break 3 and Lone Blade
+Rean Action 3 in over Break 1, 
+Juna Minotauros sub
+Kurt Minotauros sub, Lone Blade
+Musse Titania main, remove Mind 3
+Ash Moebius main, Break 3 over Evade 3
+Tita Minotauros sub, Revolution over Golden Sphere R
+
+[PAGE]
+
+Go to Milsante White Birch Inn, Rest then go to students. 
+Now Lake Gala Road. Grab Spirit Break II from first chest. 
+
+**Fight 1**
+S-break with all but Rean
+
+Grab Brave Seed before leaving Byroad. Proceed to Randy
+
+**Setup**
+Swap Juna, Kurt and Altina for Ash, Tita and Randy
+Rean Cast 3 for Chrono Burst R
+Ash Emblem Minotauros
+Musse Gungnir sub
+Altina Minotauros Dunamis
+Kurt Regulus Emblem, remove Lone Blade
+Juna Gungnir Scorpio
+Randy Minotauros sub, Lone Blade over Defense 3 
+
+[PAGE]
+**Retake Thors!**
+Explore dorms, then Mayor’s Home then Neinvalli. 
+Buy weapon for Kurt and Ash. Now Branch Campus
+
+**Fight 1**
+S-break with Rean, Randy and Ash
+
+Emblem CP recharge, go towards 2nd Floor Music Room. 
+Wait for 200cp, swap to Minotauros then go in
+
+**Fight 2**
+S-break with Rean, Randy and Ash in that order
+
+Emblem CP recharge for Rean and Randy. 
+FT to Academy Field then Platform. 
+100x sepith chest and Sleep III from this room 
+To Mech fight. 
+
+[PAGE]
+**Mech - Zauber Kestrel**
+Call Ash Machine, Kurt with Rean, Altina with Ash.
+
+Normal stance - Arms
+Casting - Body
+Aim stance - Head
+
+Rean attack Kestrel
+Ash Brave Stone
+Ash Brave Stone
+Kurt Blade Dance
+Rean attack Kestrel > Unite
+Ash Brave Stone
+Rean Crescent Flash > Unite
+
+[PAGE]
+FT to Pool, go to Training Ground
+
+**Fight 3**
+Blast Force, Brave Seed, S-break with all
+
+Emblem CP recharge for all. 
+FT to Academy Field and go towards Hangar. 
+
+[PAGE]
+**Mech - Zauber Hektor**
+
+Call Ash Machine, Kurt with Rean, Altina with Ash.
+
+Idle - Arms
+Charge - Arms
+Casting - Body
+
+Rean attack Sword Body
+Ash Brave Stone
+Ash Brave Stone
+Kurt Blade Dance
+Rean attack Sword > Unite
+Ash Brave Stone
+Rean Crescent Flash > Unite
+Finish with Arts/Normals
+
+[PAGE]
+FT to Front Entrance then head to Einhal Keep. Tita for field. 
+Get the next set of chests from here: 
+  5x U-material (behind first breakable pillars), 
+  Spirit Incense (on 2nd set of stairs in 2nd EP Drain room), 
+  Zeram Powder (2nd Dark room), 
+  100x sepith chest (behind breakable pillars in room 2). 
+
+**Major Michael and Class I**
+Blast Force, S-break with Rean, Randy, Tita and Ash in that order
+
+[PAGE]
+## Act 2 Part 4 
+
+Random party. Check PC
+
+Leave and FT to Titus Gate Rest Area to Rest. 
+Return to Bridge, talk to Gaius and Head to destination.
+
+[PAGE]
+**Pantagruel**
+Do all the required talks. 
+
+
+Team A: Pick Randy and Jusis. 
+Order: Rean, Randy, Jusis, Crow, rest doesn’t matter
+Team B: Pick Laura
+Order: Laura, Duvalie, Juna, Altina, rest doesn’t matter
+
+[PAGE]
+**Setup - Team A**
+Slot: Kurt upgrade slot 2
+Jusis Regulus Minotauros
+Crow Emblem Minotauros
+Tactics, move everyone to the back
+
+Get Brave Seed then head to end.
+
+**Gareth and Red Constellation**
+Noble Rise, S-break with all
+
+[PAGE]
+
+**Setup - Team B**
+Slot: Altina upgrade slot 1 once, upgrade slot 2 twice
+Remove Platinum Coin and Dark Emblem from Rean
+Remove Lone Blade from Rean and Randy, remove Action 3 from Randy
+Juna Emblem Minotauros, Lone Blade over EP Cut 2, HP 1 and 2
+Altina Titania Minotauros, Lone Blade over Action 1, 
+  Argem Gem over EP 1, Mind 3 over Silver Thorn
+Laura Moebius Minotauros, Action 3 and Chrono Burst R
+Laura Platinum Coin and Dark Emblem
+Tactics, move Altina, Tio, Renne and Ellie to bottom. 
+  The rest don’t matter
+
+Grab Spirit Incense then head to end
+
+**Gilbert and Co.**
+Laura Chrono Burst 
+Valiant Hearts, S-break with all but Laura
+Laura Brave Soul
+Laura Chrono Burst Leanan’s Kiss
+S-break with Laura, Duvalie, Altina and Juna in that order
+
+[PAGE]
+Emblem CP recharge, remove Lone Blade from Juna and Altina, 
+  wait for 200cp then finish Team B section. 
+Emblem CP recharge Team A, wait for 200cp
+
+**Setup**
+Return Minotauros sub as you go through everyone
+Jusis Emblem main
+Kurt Regulus main, Revolution and Lone Blade
+Ash Dunamis main, Lone Blade over anything useless
+
+Rest before going to end.
+
+Team A: Rean, Lloyd, Jusis, Crow 
+Team B: Joshua, Ash, Kurt, Randy
+Team C: Laura, Juna, Duvalie, Estelle
+Team D: Renne, Ellie, Altina, Tio
+
+[PAGE]
+
+**Lechter, Xeno, Leo**
+S-break with all
+
+**Sharon, Ines, Ennea**
+Ebon Crest
+Renne Albion Wolf
+Tio Diamond Nova
+Ellie Fortuna all
+Altina Brave Seed
+After all casts are done, S-break with all but Ellie
+
+[PAGE]
+
+**Mariabell, Shirley, Campanella**
+Laura Chrono Burst
+Lighting Sword into S-break with all, Laura last
+Laura Chrono Burst Leanan’s Kiss into S-break with all
+
+**Cedric, Rutger, Georg**
+If Cedric Anti Order, Rean Chrono Burst > Wait > Chrono Burst > Wait
+Noble Rise, S-break with all but Rean
+Rean Zeram Powder Crow, then S-break with all
+
+[PAGE]
+## Act 3 Part 1
+
+Do the ship tour, F4 > F3 > F1 > F2. 
+  Use Hot Spring in 3F, 
+  Becky in F2, exchange all sepith mass, sell Spirit Incenses, 
+  buy Soft Donut Cushion and 2 Passionate Rouge.
+  
+Sanctuary time, choose Laura, Fie, Gaius, Sara. 
+Order is Fie Laura Rean Gaius, rest doesn’t matter
+
+[PAGE]
+**Setup**
+Quartz: Attack 3, Chrono Burst, Action 2 and Action 3
+Slot: Laura upgrade 2nd water slot
+
+Sell all mirage sepith
+Buy weapon for Rean, Laura, Fie and Gaius
+Buy 3 Floral Bottles
+Make 11 Brave Stones, 3 Healing Stones and a Power 3 Orb 
+
+Laura Green Emblem over Dark Emblem
+Gaius Passionate Rouge and Floral Bottle
+Rean Titanium Plate over Rider Jacket, Floral Bottle and Passionate Rouge
+Fie Rider Jacket over Scale Vest, Floral Bottle and Dark Emblem
+
+[PAGE]
+**Setup - quartz too**
+Randy remove all quartz
+Tita remove all quartz
+Ash remove Break 3 and Lone Blade
+Kurt remove Lone Blade
+Gaius Emblem Minotauros, remove all > auto physical, 
+  Lone Blade over Defense 2
+Rean Lone Blade over Hit 3
+Fie Gungnir Minotauros, remove all > auto physical, 
+  Action 3 over Cast 3
+Emma Minotauros Gungnir
+Jusis Thor Kaleido
+Sara Scorpio Emblem
+Tactics, move all to bottom corner
+
+[PAGE]
+
+Grab Brave Soul and Zeram Capsule on the way to Vita
+
+**Vita, the Azure Abyss**
+Fie Concealing Wind
+Laura Chrono Burst
+Noble Rise and S-break with all, Laura last
+Laura Chrono Burst Leanan’s Kiss
+S-break with all, Gaius last
+
+Emblem CP recharge. Triple Advantage a mob, get 1BP and leave. 
+Grab Dragon Incense on the way to Aurelia, 
+Set Minotauros back before fight.
+Laura Sapphirl Gem over HP1
+
+**Principal Le Guin**
+Same as last
+
+[PAGE]
+**Setup**
+Emblem CP recharge
+Fie Carnelia Gem over Defense 2
+Gaius Carnelia Gem over Break 3, 
+  Break 3 over Defense 3
+
+**Holy Beast Roselia**
+Fie Concealing Wind
+Laura Chrono Burst
+Noble Rise and S-break with all
+Laura Chrono Burst Noble Rise Zeram Powder
+S-break with all but Laura
+Laura Chrono Burst Leanan’s Kiss
+S-break with all, Gaius last
+
+[PAGE]
+Random party, check PC. 
+FT to 2F and go to Becky. 
+  Exchange sepith mass, sell Dragon Incenses, Recuria Balms, Droplets and weapons. 
+  Buy 2 Passionate Rouge. 
+Go to Infirmary and buy all your money on Power Potion II (I bought 8 for reference). 
+Use Baths in 3F, 
+
+Go to Old Agria Road Draco Shrine. 
+Choose Laura, Fie and Gaius
+Party order is Laura, Angie, Rean, Gaius, rest doesn’t matter
+
+[PAGE]
+**OZ Mirage**
+S-break with all, Gaius last
+
+**Setup**
+Rean remove Lone Blade
+Gaius remove Lone Blade and Carnelia Gem
+Angelica Carnelia Gem over Golden Sphere, Lone Blade on empty slot
+Alisa Titania Minotauros Argem Gem over Hit 1, 
+  Lone Blade over Cast 1, Chrono Burst over Saintly Force
+Angelica Passionate Rouge x2
+
+Grab Spirit Incense on the way to mid boss, 
+  fight Easy Triggers, S-break with Angie or Gaius
+
+**Emily and Theresia**
+Alisa Chrono Burst Power Potion II Angelica
+Angie S-break
+Alisa Zeram Powder Angie
+S-break with both
+
+[PAGE]
+
+Grab Zeram Powder and Brave Seed on the way to boss, 
+  fight Easy Triggers, S-break with Angie or Gaius
+
+**Setup**
+Angie remove Carnelia Gem and Lone Blade
+Alisa remove Lone Blade
+Gaius Lone Blade and Carnelia Gem
+Rean Lone Blade
+Switch Angie for Fie, switch Fie and Laura order
+Fie Passionate Rouge x2
+Laura Dark Emblem over Green Emblem
+Rean Passionate Rouge over Floral Bottle
+
+
+**Sharon and Georg**
+Fie NO Concealing Wind
+Laura Chrono Burst Power Potion II
+Raging Fire and S-break with all but Laura
+Leanan’s Kiss and S-break Gaius first for dupe on Sharon
+Then Rean for the finish
+
+[PAGE]
+**Mech - Leviathan**
+
+Swap Alisa for Laura, switch Power Orb 1 for Power Orb 3
+
+Rean attack Arm
+Musse Brave Stone
+Musse Brave Stone
+Laura Radiant Wings
+Rean Crescent Flash > Unite
+Musse Brave Stone
+Musse Rise Stone Rean
+Sara Thundering Roar
+Musse Brave Stone
+Musse Repair Stone Rean
+Rean Crescent Flash > Unite
+Laura Radiant Wings
+Musse Repair Stone self
+Musse Brave Stone
+Sara Thundering Road
+Musse Rise Stone self
+Musse Repair Stone if needed, if not attack
+Rean Crescent Flash > Unite
+Laura Aqua Matter
+Sara Thundering Road
+
+[PAGE]
+Choose Laura, Jusis, Kurt
+Party order is Fie, Laura, Rean, Gaius
+Head to Draco Sanctuary, Emblem CP recharge. 
+
+**Setup**
+Ash Dunamis Gungnir
+Crow Minotauros Thor
+Jusis Thor Kaleido
+Kurt Regulus Moebius
+
+Start on left side, grab Dragon Incense. Remember Minotauros
+
+**Trap Master Xeno**
+Fie Concealing Wind
+Laura Chrono Burst
+Noble Rise S-break with all but Laura
+Laura Leanan’s Kiss
+Laura Normal Attack, then S-break with Rean and Gaius, in that order
+
+[PAGE]
+Emblem CP recharge. 
+On right side, grab Mech Stones and Zeram Capsule. 
+Remember Minotauros
+
+**Leonidas the Behemoth**
+Fie Concealing Wind
+Laura Chrono Burst
+Noble Rise S-break with all but Laura
+Laura Leanan’s Kiss
+Laura Normal Attack, then S-break with Rean and Gaius, in that order
+
+[PAGE]
+Grab Seiryuu before Rutger
+
+**Jaeger King Rutger**
+Noble Rise Gaius S-break
+Fie Concealing Wind
+Laura Chrono Burst
+S-break with Fie and Rean
+Laura Zeram Capsule
+If Rutger enhanced at start, Gaius S-break here gets the break
+S-break with all but Laura
+If Rutger enhanced at start you’ll need to Zeram Powder for an extra S-break rotation
+Leanan’s Kiss (use Chrono Burst if you don’t get the turn)
+S-break with all, Gaius for the kill
+
+[PAGE]
+**Mech - Zector**
+Swap Rean and Crow, Fie for Kurt and Gaius for Laura
+
+Idle - Body
+Charge - Arms
+Aiming - Head
+Sword on both hands - Arms
+
+Crow attack
+Rean Brave Stone
+Rean Brave Stone
+Kurt Blade Dance
+Crow attack > Unite
+Rean Brave Stone
+Rean Repair Stone
+Crow attack > Finisher
+Laura Brave Stone
+Rean Brave Stone
+Kurt Blade Dance
+Crow attack > Unite
+Rean Brave Stone
+Crow attack > Unite
+Rean Brave Stone
+Laura Radiant Wings
+Rean attack > Finisher
+Crow Brave Stone
+Kurt Blade Dance
+Crow Criminal Edge > Finisher
+Rean Crescent Flash Finisher
+
+[PAGE]
+Choose Laura, Fie, Gaius, Jusis, Kurt
+Party Order is Fie, Laura, Rean, Gaius. 
+Check PC. FT to F2 and go to Becky. 
+  Sell all Incenses, buy 1 Passionate Rouge. 
+  Go to Jingo and buy weapons for Rean, Laura, Fie and Gaius. 
+  Gaius - switch Floral Bottle for Passionate Rouge. 
+Take a bath at F3. Go to Bridge and talk to Olivert. 
+FT to Languedoc Canyon North, 
+  grab 150x sepith chest and Nightmare III on the way to monster quest. 
+
+**Yyd Vanas**
+Fie Concealing Wind
+Laura Chrono Burst
+Noble Rise and S-break with all but Laura, Gaius first
+Leanan’s Kiss
+S-break with Rean and Gaius in that order
+
+[PAGE]
+Go to Bridge and proceed with story. 
+Random party. Go to Elliot and Begin rehearsal. 
+Choose Fie, Gaius, Jusis. Order is Fie, Laura, Rean, Gaius.
+Emblem CP recharge.
+ Grab the next set of chests: U-material x5, U-material x5, 
+ Byakko, Brave Seed, Zeram Powder, Spirit Incense. 
+
+**Setup** before fight
+Fie Byakko over Move 1, Skanda Gem over Defense 1
+Laura Skanda Gem over Chrono Burst R
+Rean Seiryuu over Break 1
+Machias Minotauros main
+
+**Victor and McBurn**
+Fie Concealing Wind
+Laura Chrono Burst
+Noble Rise and S-break with all but Laura
+Laura Leanan’s Kiss
+S-break with all but Laura, Gaius last
+
+[PAGE]
+Go to roof to finish section.
+Choose Fie, Gaius, Jusis. Order is Fie, Laura, Rean, Gaius. 
+F1 Mint, make Brave Stones (9 total for me). F3 Baths. 
+To Stella Sanctuary. 
+Grab Suzaku (1st chest) and Brave Soul (2nd chest) on the way. 
+
+**Stella Sanctuary**
+Grab Zeram Capsule on the way to Ennea.
+Rean Suzaku over Action 2
+
+**Sleipnir F2-0 x2**
+Noble Rise, S-break with Rean and Gaius in that order
+
+**Ennea**
+Fie Concealing Wind into S-break with her
+Laura Chrono Burst Leanan’s Kiss
+S-break with Fie > Rean > Laura > Gaius, in that order
+
+[PAGE]
+
+Emblem CP recharge. Grab U-material x5 and Mech Stone chests. 
+
+**Ines + Sleipnir F2-0 x2**
+Fie Concealing Wind
+Noble Rise and S-break with Rean, Gaius and Fie in that order
+Laura Chrono Burst Leanan’s Kiss
+S-break with Rean and Gaius in that order
+
+[PAGE]
+Emblem CP recharge. Grab Dragon Incense. 
+
+**Arianrhod The Steel Maiden**
+
+Fie Concealing Wind
+Noble Rise and S-break with all but Laura
+Laura Zeram Capsule
+S-break with all but Laura
+Laura Zeram Powder
+S-break with all but Laura
+Cast Leanan’s Kiss
+Raging Fire and S-break with all, Gaius last
+
+[PAGE]
+**Mech - Argreion**
+Swap Crow and Rean, Juna for Kurt
+
+Normal - Arms
+Spear ready - Body
+Spear in both hands - Arms
+Spear on side - Head
+
+Crow attack
+Rean Brave Stone
+Rean Brave Stone
+Kurt Blade Dance
+Crow attack > Unite
+Rean Repair Stone
+Rean Brave Stone
+Laura Brave Stone
+Crow attack > Unite
+Rean Resurrect Stone weakest
+Kurt Brave Stone
+Rean Brave Stone
+Crow Rise Stone Rean
+Laura Radiant Wings
+Rean attack > Unite
+Crow Brave Stone
+Crow attack 
+Kurt Blade Dance
+Rean Helix
+Crow Criminal Edge > Unite
+Laura Aqua Matter
+Kurt Gale Raid
+Rean Crescent Flash, Helix if you have CP
+
+[PAGE]
+Eventide - Night of Promises
+
+Go to Cendrillon (left as you gain control) 
+  Sell sepith mass and Incenses. 
+  Buy Gilded Ultramarine Cameo and 3 Passionate Rouge. 
+  Use it and Cushion. 
+Rean, swap Minotauros for Sophia. Go to Wharf and talk to Valimar. 
+FT to Lakeside Beach, go to juice stand and use all your tickets. 
+FT to Restaurant Fortuna and talk to Cassius. 
+Use all your crafts, then manual S-craft. 
+
+FT anywhere. Call it a day.
+
+[PAGE]
+Finale - Scattered Petals, Dying Flames
+
+Random party. Check PC. Bath in 3F. Oliver in Bridge and start operation.
+
+Salt Pale A: Bracers. Grab U-material x10 chest (1st chest). 
+  Swap Tita and Renne places in Tactics menu
+Salt Pale B: SSS. Zeram Powder (right detour before unlocked door)
+  and Potions (last chest before section end)
+Salt Pale C: Angelica’s team. Grab Zeram Powder (2nd chest)
+Salt Pale D: Stalritter and Zephyr. Brave Soul (first detour right)
+Salt Pale E: Aurelia’s team. Grab U-material x10 (1st chest) 
+  and Dragon Incense (last chest before end)
+  
+[PAGE]
+
+**Aion Y Umbra**
+
+Joshua Chrono Burst
+Blast Force, S-break with Joshua. Switch him for Renne, then Albion Wolf
+S-break with all but Tita
+Tita Zeram Powder, S-break with all
+
+**Belis-Agruga**
+Lloyd Burning Heart then Brave Seed
+Proud Warrior, S-break with Lloyd and Randy
+Ellie Zeram Capsule Randy, S-break with Randy
+Tio Chrono Burst Zeram Capsule Randy
+Tio CB, Proud Warrior, S-break with Randy, Zeram Powder Randy, S-break again
+CB Power Potion Randy, CB Zeram Powder
+CB Proud Warrior Randy S-break, Powder Randy, S-break with Randy
+Tio Normal Attack then S-break with her and Lloyd after 100cp
+Ellie finish with link attack
+
+[PAGE]
+
+**Aion B Fulgor**
+Sharon Saintly Force Roselia
+Angelica Power Potion II, if 2nd turn before Sharon cast something
+Ebon Dragon S-break with Angelica and Roselia
+If George turn, Brave Soul
+If Sharon turn, CB Brave Soul, Sharon BO, CB Brave Seed
+Sharon BO, CB, Brave Soul, Ebon Dragon S-break with Angelica and Roselia
+If low on EP, CB EP Charge IV
+You’ll need to perform the above till you win, if you miss crits you’ll need to make an extra rotation. You can use up to 2 Zeram Powders if needed
+You need to finish the fight with 5 BP
+
+[PAGE]
+**Necrovaris**
+Power Potion II Leo
+Titan Cleaver into Leo S-break
+Zeram Capsule Leo, S-break with Leo
+Lighting Sword, normal attacks with Leo linked
+Ennea Accel Arrow Leo
+Leo Destructive Buster
+S-break with Duvalie and Xeno
+
+**Aion A Potentia**
+Aurelia and Victor Power Potion II self
+Toval Mind Potion II Vita
+Whoever has a turn after, Azure Feather, Brave Seed, S-break with all
+
+[PAGE]
+**Setup**
+Rean True Glad Band for Passionate Rouge
+Fie Passionate Rouge for Goldia Bracelet
+Rean Minotauros sub
+
+Go to portal. Party is Laura, Gaius, Fie, Sara, Crow, Jusis
+
+**Holy Beast of Earth**
+Wait till Toval’s turn, swap him for Fie then Concealing Wind
+Rean Power Potion II on self
+Noble Rise and S-break with all but Laura
+Laura Zeram Capsule for all
+S-break with all but Laura
+Laura Zeram Powder for all
+S-break with all but Laura
+Laura hard cast Leanan’s Kiss
+Raging Fire and S-break with all
+
+[PAGE]
+Emblem CP recharge. Proceed to next fight, 
+  kill Rostrum Pallas on the way for U-materials. 
+
+**Setup** before Claire and Lechter
+Quartz: Break 3 x5, Attack 3 x8, Action 3 x3, Mind 2 x2 and Mind 3
+Altina Titania Minotauros, remove all quartz, auto magical, 
+Ash Dunamis Minotauros, remove all quartz, auto physical
+Altina Rosen Crown
+
+**Lecher and Claire**
+Rean swap for Gaius Brave Soul
+Noble Rise S-break with all but Laura
+Laura Chrono Burst Leanan’s Kiss, S-break with all
+[PAGE]
+Emblem CP recharge. FT to Garden. 
+Head to Hall B, swap Ash and Altina for Kurt and Juna. 
+U-material grind on Demonfloat, grab mech stones after 
+  first switch and Zeram Capsule before next boss. 
+
+**Setup**
+Kurt Regulus Minotauros, remove all quartz, auto physical
+Minotauros sub on Laura and Rean
+Laura first in party order
+
+**Cedric and Shirley**
+Noble Rise and S-break with all but Laura
+Laura Chrono Burst Leanan’s Kiss
+S-break with all, Gaius last (Dupe matters on Shirley)
+
+[PAGE]
+**Mech - Testa Rossa**
+Rean with Laura, Crow with Machias, Kurt with Altina
+
+Normal - Head
+Sword to the side - Arms
+Guard - Body
+Crouch - Body
+
+Rean attack Testa Rossa Head
+Crow Brave Stone
+Kurt Brave Stone
+Crow Rise Stone self
+Kurt Rise Stone self
+Rean attack Testa Rossa
+Crow attack Testa Rossa
+Kurt Defend
+Machias Burst Drive
+Crow Criminal Edge > Unite
+Rean Brave Stone
+Laura Radiant Wings
+Kurt Repair Stone weakest
+Rean Crescent Flash > Unite
+Kurt Brave Stone
+Altina Brave Stone
+Kurt Defend
+Crow Defend
+Machias Repair Stone Rean
+Rean attack > Unite
+Kurt attack
+Laura Aqua Matter
+Crow attack
+Rean attack > Finisher
+
+[PAGE]
+
+Emblem CP recharge. 
+FT to Garden and head to Hall C. 
+U-material grind on Cursed Looper and
+  Nyarlathotep. Grab Dragon Incense on the way.
+
+**Setup**
+Slots: Upgrade Rean/Fie/Laura ALL, Musses slots 2,3
+Sell sepith mass, Incenses and 3 Brave Souls
+Buy weapons for Rean, Juna, Kurt, Ash, Laura, Machias, Jusis, Fie, Gaius, Sara and Crow
+Make a Speed Orb 3, 3 Repair Stones and the rest on Brave Stones (need 16 at least)
+Juna Zephyr main, Action 2 and 3
+Swap Kurt for Juna
+
+**Mariabell and Campanella**
+Noble Rise and S-break with Rean and Gaius
+Laura wait for Juna’s turn
+Juna swap for Fie, Concealing Wind then S-break
+Laura Chrono Burst Leanan’s Kiss
+S-break with all
+
+[PAGE]
+Emblem CP recharge, head to elevator. 
+Grab Mech Stones, Fenrir Gem and Zeram Capsule. 
+Swap Juna for Alisa. 
+
+**Setup**
+Order is Jusis, Fie, Gaius, Alisa
+Jusis Zephyr main, remove all quartz, auto speed
+Alisa Titania Minotauros, remove all quartz, auto magical
+Alisa Rosen Crown
+
+**Rufus and Alberich**
+Fie Concealing Wind
+Jusis swap for Laura
+Noble Rise S-break with all but Laura
+Laura Chrono Burst Zeram Capsule
+S-break with Alisa, Gaius and Fie in that order (dupe on Alberich)
+Laura Chrono Burst Leanan’s Kiss, hard cast if enough delay
+S-break with all
+
+[PAGE]
+**Mech - El Prado**
+Rean with Laura, Crow with Machias, swap Juna for Kurt, 
+  Kurt with Altina. Switch Speed Orb 1 for Speed Orb 3
+
+Normal - Arms
+Sword Up - Head
+Casting - Arms
+Sword to the side - Body
+
+Rean attack El Prado
+Crow Brave Stone
+Kurt Brave Stone
+Crow Rise Stone Kurt
+Kurt Defend
+Rean Thousand Force attack El Prado > Unite
+Crow Brave Stone
+Crow attack El Prado
+Machias Burst Drive
+Crow Brave Stone
+Kurt Defend
+Rean Thousand Force Crescent Flash > Unite
+Crow Resurrect Stone self
+Laura Resurrect Stone Rean
+Crow Defend
+Altina Resurrect Stone Kurt
+Kurt Defend
+Machias Brave Stone
+Rean attack
+Crow Brave Stone
+Laura Aqua Matter/Brave Stone if
+Crow attack
+Kurt attack
+Rean Thousand Force attack > Unite
+Altina Shadow Rise
+Crow Chaos Saber
+Kurt attack if bad damage rolls
+
+[PAGE]
+Emblem CP recharge. FT to Garden then take central elevator. 
+  Nothing to grab, just move forward
+
+**Setup**
+Swap Alisa for Emma, Kurt for Juna
+Jusis remove all quartz
+Emma Zephyr main, remove all quartz, auto speed
+Fie Action 3 for Novhal Gem
+Order is Emma, Fie, Laura, Rean
+
+**Overlord McBurn**
+Emma swap for Gaius
+Gaius Noble Rise Brave Seed then S-break with him and Rean
+Fie Concealing Wind then S-break with her
+Laura Chrono Burst Zeram Powder
+S-break with all but Laura
+Laura Zeram Capsule
+S-break with all but Laura
+Laura Noble Rise Zeram Powder
+S-break with all but Laura
+Laura Leanan’s Kiss
+S-break with all but Laura
+Laura Brave Soul, then swap her for Juna
+Juna Quick Star Rean
+Rean Summon Valimar 2
+
+[PAGE]
+Emblem CP recharge. Grab Zeram Capsule and Mech Stones.
+
+**Setup**
+Emma remove all quartz
+Gaius remove Revolution and Lone Blade, Attack 1 over Carnelia Gem
+Fie Lone Blade over Break 3, Revolution over Evade 1
+Juna Scorpio Minotauros, remove all quartz, auto physical
+Rean Regulus Minotauros, Carnelia Gem over Attack 2
+Laura Novhal Gem over Action 3
+Crow Tempest Minotauros, remove all auto physical
+Jusis Brigid Minotauros, remove all auto physical, Action 3 over Defense 1
+Musse Virgo Minotauros, remove all auto magical
+Sara Minotauros Tempest, remove all auto physical
+Kurt Dunamis Minotauros, remove all auto physical
+Machias Thor Minotauros, remove all auto physical
+Alisa Titania Minotauros
+Passionate Rouge on Crow, Sara and Machias
+Tactics, make sure Laura, Fie, Gaius and Rean are all in range of Moebius
+Rest
+
+[PAGE]
+Team A: Jusis, Alisa, Musse, Juna, Emma
+Team B: Crow, Sara, Machias, Kurt, Altina
+Team C: Fie, Laura, Rean, Gaius, Elliot, Ash
+
+**Osborne the Ironblooded 1**
+Noble Rise and S-break with all
+
+**Osborne the Ironblooded 2**
+Sigma Operation, Brave Soul then S-break with all
+
+**Osborne the Ironblooded 3**
+Fie Concealing Wind
+Laura Chrono Burst Power Potion II
+Valiant Hearts and S-break with all but Laura
+Laura Chrono Burst Zeram Capsule
+S-break with all
+
+[PAGE]
+**Mech - Ishmelga**
+Rean with Laura, Crow with Machias, 
+  swap Juna for Kurt, Kurt with Altina
+
+Normal - Head
+Sword on both hands - Arms
+Sword up - Body
+Casting - Arms
+
+Rean Brave Stone
+Crow Brave Stone
+Kurt Brave Stone
+Rean Thousand Force attack > Unite
+Crow Brave Stone
+Kurt Brave Stone
+Machias Repair Stone on weakest
+Crow attack > Unite
+Kurt Brave Stone
+Rean Brave Stone
+Laura Radiant Wings
+Kurt Defend
+Rean attack > Unite
+Altina Shadow Rise
+Kurt Primordial Flame
+Crow attack
+Kurt Defend
+Machias Burst Drive
+Crow attack > Unite
+Rean Brave Stone
+Laura Radiant Wings
+Crow Brave Stone
+Kurt Brave Stone
+Crow attack
+Altina Shadow Rise
+Kurt attack
+
+[PAGE]
+## Path of Unknown
+Team A: Fie, Laura, Rean, Victor, Vita, Jusis
+Rest doesn’t matter
+
+Ishmelga Loge
+
+Fie Concealing Wind
+Laura Chrono Burst Noble Rise and Power Potion II 
+Azure Feathers and S-break with Rean then Fie
+Laura Chrono Burst Brave Soul
+Laura Chrono Burst Zeram Capsule
+Azure Feathers and S-break with Rean and Victor
+You’ll have to work around with the boss’ reflect, 
+  sometimes it reappers instantly, other times it takes a while
+It usually takes 2 rounds of Azure Feather turns
+
+Timer ends on Saving Clear Data
+
+
+
+
+
+
+
+
+
