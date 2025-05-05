@@ -8,8 +8,8 @@ Izayoi nots: https://docs.google.com/spreadsheets/d/13Dv_s8TmmiuqZ34x5jI4o7laumK
 https://gamefaqs.gamespot.com/ps4/229684-the-legend-of-heroes-trails-of-cold-steel-iv/faqs/77559/act-1-the-trials-of-class-vii-1
 https://kiseki.fandom.com/wiki/The_Legend_of_Heroes:_Trails_of_Cold_Steel_IV#See_also
 
-TODO: Maybe can cut the Brave Stone buy at Wetlands? Will always have 5 there?
-Less menu for Fragments doable? Like not AutoSpeed Juna or something
+TODO: Give pillow early, Alisa boost in Garg. Useful?
+TODO: Testa Rossa 2 - Crow just attack, not Criminal for Unite? Messes with delay but if 4 star then always Unite
 
 [PAGE]
 ## Prologue
@@ -26,7 +26,7 @@ Fight5: If Renne first, Shadow, Throw spam
   Brave Soul, Ivy and Throw spam
   
 Chest to the right, Zeram Powder
-EP/CP heal all but Renne
+CP heal if needed, rest before fight
 
 [PAGE]
 
@@ -46,7 +46,7 @@ Kurt's room, training room, Rean's room
 Laura outside, Machias/Randy inside 
 Jusis, Elliot/Gaius, Sara/Fie inside
 Rose/Emma, Alisa inside
-FT Atelier
+FT Entrance
 
 [PAGE]
 ## Act 1 Part 1
@@ -62,7 +62,7 @@ Fight2: Juna double swap, Randy SBreak
 2 chests, take right both times
 Fight3: Proud, Kurt/Altina SBreak, 
     Randy Cryx2 -> SBreak
-2 chests, take left both times
+1 chest, first left before stairs
 
 [PAGE]
 **Roselia**
@@ -84,10 +84,9 @@ Exit to Isthmia
 **Setup**
 Quartz: HP1 x2
 Juna: */Sirius, HP1
-Kurt: */Skuld, HP2
-Altina: */Skuld, HP1
+Kurt: */Skuld, HP1
+Altina: */Skuld, HP2
 Randy: */Skuld
-Equip: Juna Silver
 
 Chest on right before exit, UMat
 Chest on road map before exit, Sepith
@@ -117,7 +116,6 @@ Chest on map2 right before exit, sepith
 
 **Parm and Titus**
 Vander, FT Entrance, FT Parm Byroad
-Chest on map2, straight ahead for chest
 Run to Titus Gate, Horses unlock
 **Rest** at Inn, then Anton
 FT Parm Byroad, UMats then Hamel
@@ -132,10 +130,8 @@ Chest x3, first right for sepith
 
 **Setup**
 Quartz: Heat Up x2
-Juna: Heat Up
-__Altina: Remove Action1
-_Kurt: Action1, Heat Up, HP1 (if have)
-Equip: Juna Holy, Kurt Orange Proxy
+Juna: Balanced
+_Kurt: Balanced
 
 FT Titus for Inn, Enter Hamel
 
@@ -158,27 +154,30 @@ Heal arts are good once spread
 **Mech - Zector**
 Swap Kurt and Altina
 
-You can get 3* meme’d here so work around that
+Idle - Body
+Charge, sword back - Arms
+Aiming, sword forward - Head
+
 Both attack Body
 Altina Shadow Rise 
-Juna Arms, Ash Brave Stone
+Juna Defend, Ash Brave Stone
 Kurt Blade Dance
-Ash Body > Unite
+Ash Unite (if can), Juna Repair Stone
 
-Juna Repair Stone self
-Ash Head, Altina Shadow Rise
-Both Head
-Kurt Blade Dance
-Juna Arms, Ash Arms > Unite
-Altina Shadow Rise
+Lots of 3* here but not that dangerous
+Ash try to Unite w/ Str buff once
+Juna just attack
+Altina Shadow Rise, Kurt buff
+Should win with second Unite
 
 [PAGE]
 **Eryn**
 FT from bottom up to locations w/ events  
   **Shopping** at Orbal 
-    Attack1 off of Fie, make Power1
-    Make Brave Stones max  
+    Attack1 off of Fie
+    Make Power1, max Brave Stones
   At General Store walk out for Ash event
+  At Atelier talk to Elliot, then to bed
 
 [PAGE]
 ## Act 1 Part 2
@@ -192,22 +191,21 @@ Enter Milsante
 
 [PAGE]
 **Shopping - Milsante**
-Quartz: HP2, LaForte x2, Saintly
 Sell: Spirit Incense x2
 Buy: Mino, Moebius
-Weapons: Juna, Kurt, Silver Earring, Proxy x2
-Items: Gallie Plush
+Weapons: Juna, Kurt, 
+  Silver Earring, Floral x2, 
+  Proxy Kurt/Altina/Juna
 
 **Setup**
-Juna: Mino/Moe, Heat->HP2
-_Altina: */Mino, HP2
-__Kurt: Zephyr/Mino, Heat->LaForte
+Juna: Mino/Moe
+_Altina: */Mino
+__Kurt: Zephyr/Mino
 ___Ash: */Mino
 ____Sara: */Mino
-Equip: Juna remove Silver, Kurt/Altina Proxy, Ash Gallie
 
 **Milsante Post Shop**
-Upstairs event, FT out, Inn, **Rest**
+Upstairs event, FT out, Inn, scene
 Lake Gala FT point, FT Entrance and leave
 
 [PAGE]
@@ -219,7 +217,6 @@ Chest on map2 after bridge2, UMat
 **Shopping** Pawn shop for Silver Coin
 Pub, Inn, Church, FT Entrance
 
-Chest map2 second right, sepith
 Chest on map3 ASAP on right, UMat
 Walk to rest lodge
 Chest on right by spider, Brave
@@ -231,7 +228,6 @@ Basin FT point
 
 FT to Lake Gala, horse warp
 Get Emblem, give to **Altina**
-Assault small robot in pool, Altina SBreak
 FT Field, into platform for chests
 
 FT Osgiliath Basin
@@ -259,24 +255,21 @@ Crouch, sword in front and up: Body
 
 All attack Head
 Sara Thundering Roar
-Juna Brave Stone, Kurt Unite
+All attack Head
 
-Ash attack, Juna Brave Stone
-Altina Repair Stone current target
-Kurt Unite
+Altina Shadow Rise
+Juna will speed debuffs
+Defend or Repair target
+Otherwise Attack
 
-Juna Brave Stone, Ash attack
-Musse Sapphirl Rain
-Juna attack, Ash/Kurt Unite
-Spam everything from here
+Musse item, Repair or Brave
+Mainly attack, Unite+Finisher
 
 [PAGE]
 FT Herbalist, start quest
 Choose first ally, answer 2/3/1/3
 
 FT Orbal, Alisa x2
-**Shopping**
-Buy Citrus x3, Floral x2
   
 FT Fairy Spring to heal, turbo only
 FT Saint Gral, first two chests
@@ -296,17 +289,17 @@ _Altina: Moe/*
 __Kurt: Scorpio/*
 ___Musse: Titania/Mino
 ____Ash: Dun/Mino, 
-_____Jusis: Emblem/Mino
+_____Jusis: Emblem/Mino, AutoSpeed
 ______Laura: Reg/Mino
-Equip: Kurt Orange Cape -> Luara, rest get Citrus
+Equip: Jusis Orange Cape
 Party is Jusis, Ash, Laura, Musse
 
-[PAGE]
 Ship: Talk to all that need a talk
 
+[PAGE]
 **Magic Knight Dynagram**
-Noble Rise, normal attack
-Valiant Hearts S-break all, **Jusis** last
+Jusis first: Noble, CB, Valiant, SBreak, Altina in
+Noble Rise, 2 attacks, Valiant SBreak
 
 Chest map 1, on right near immediately, sep
 Chest map 2, on right before exit, UMats
@@ -314,9 +307,10 @@ Chest map 2, on right before exit, UMats
 **Crossbell**
 FT to East Street Entrance, walk Harbor then IBC. 
   Buy IBC Coin, FT East Street, Enter Central
-Enter Orbal -> Wendy, FT Central
-Walk Entertainment, Imelda shop, FT Entertainment
-  Enter Arc, FT Entertainment, Walk West Street
+Enter Orbal -> Wendy
+FT Central, Walk Entertainment, Imelda shop, 
+FT Entertainment, Enter Arc, Enter Stage
+  FT Entertainment, Walk West Street
 Enter CNS Temp Office, FT West, Enter bakery
   FT West, enter Juna's apartment
 FT Entertainment, Casino, Upstairs -> Geofront X. 
@@ -332,18 +326,19 @@ Chest on right then down path next to it
 **Genesic Clown**
 Noble Rise, SBreak all, Jusis last
 
-FT Orbal, sell sepith but only 400 Time
+FT Orbal **Shopping**
+  Quartz: LaForte x2, Chrono Burst
+  Exchange: ALL sepith
 FT to Imelda’s for passion **Shopping**
   Sell: Tear/EP, Zeram(1), Brave(1), Spirit,
-    Recuria(1), Weapons, Armor, Shining Star
+    Recuria(1), Armor (if short, 90.1k)
   Buy Gold Coin and Passion, 100 left over
 
 FT to Station and leave.
 
 [PAGE]
 **Setup**
-Jusis: AutoSpeed
-Equip: Jusis Gold/IBC coins, Laura Passion
+Equip: Jusis Gold/IBC coins, Laura Orange/Passion
 
 Head to Field Exercise Camp then to St. Ursula
 Map3 chests, right before fish and then left fish area
@@ -358,17 +353,14 @@ FT Center, walk right to Lakefront, Enter Wetlands
 3 chests, first left across water for Cozy
 Right for mech stones then next right towards fish
 Final chest on left by mouth monster
-Reach Orb station and **Setup**
+Run to end for boss fight
 
 [PAGE]
-
-**Setup**
-Orbment Station: 5 Brave Stone
 
 **Lechter, Sharon and Campanella**
 If Jusis first, Noble Rise SBreak all
 Else:
-  On Jusis turns Chrono Burst > EP2 > 
+  On Jusis turns Chrono Burst > EP1 > 
       Chrono Burst > Wait
   Noble Rise into SBreal all, Ash last
 
@@ -405,8 +397,7 @@ Ash Brave Stone, Musse Unite
 
 Altina Shadow Rise
 Juna Repair Stone weakest
-Ash Brave Stone, Musse Unite
-All out finish from here
+Attack to build 5BP, anyone Unite
 
 [PAGE]
 FT Fairy Spring, heal
@@ -417,8 +408,8 @@ FT Saint Gral Labyrinth 4
   Right for final chest, Go to depths
 
 **Setup**
-Party: Jusis, Sara, Laura, Gaius, Altina, Juna
-_Sara: Dun/Mino
+Party: Jusis, Sara, Laura, Gaius
+_Sara: */Mino
 __Gaius: Emblem/Mino, AutoPhys
 Equip: Jusis Gold->Floral
 
@@ -449,10 +440,9 @@ On break Rean does normal attacks only
 
 **Setup**
 Party: Fie, Laura, Alisa, Emma
-Remove Saintly from Altina 
 Fie: */Mino, Air -> LaForte
 _Laura: All good!
-__Alisa: */Mino, Teara->Saintly
+__Alisa: */Mino
 Formation: Bottom left corner
 
 Right for duct, chest in corner, Spirit
@@ -463,7 +453,7 @@ Leave zone
 [PAGE]
 **Setup**
 Party: **Jusis, Sara**, Gaius, **Machias**
-Jusis: Burst R OFF, Drive R->Invigorate
+Jusis: Burst R->Invigorate
 _Sara: Fire->Forte
 __Mach: */Mino
 Formation: Bottom left corner
@@ -478,9 +468,11 @@ Leave zone
 Noble Rise, S-break with all
 
 **Oz Mirage Cobalt**
-Fie La Forte
-Alisa Saintly Force on self
-Valiant Hearts and S-break with all but Emma
+Fie LaForte
+Laura Saintly Alisa or Alisa Fortuna
+Valiant after both buffs
+Emma can SBreak if enemies too fast for safety
+SBreak three with Valiant up
 
 [PAGE]
 Emblem charge Rean
@@ -490,8 +482,8 @@ Next two rooms on left, Dark and Zeram
 Head towards Orb station
 
 **Setup**
-Rean: Scorpio/Mino, Earth->Att3, Tear->Break3
-Equip: Rean Passion (Laura) and Dark Emblem
+Rean: Scorpio/Mino, Earth, Tear off, AutoPhys
+Equip: Laura Passion->Cozy, Rean Passion/Dark
 Rest on Orbment Station
 
 **Oz Mirage Cobalt and Crimson**
@@ -518,35 +510,28 @@ Chest on left, then left U-turn
 Big menu and Orbment Station before Team C finish
 
 [PAGE]
-**Setup** holy setup here, wow
-Quartz: Chrono Burst
+**Shopping**
 Sell Spirit and Dragon Incense
-Buy weapons for Kurt, Ash, Laura, 
-    Machias, Jusis and Gaius
-
-Replace all sub Emblem with Sub Mino
-Rean: Action3, Action2->Drive R, Hit3
-Emma: Curia->Chrono Burst R
-Altina: Tempest/Emblem, Burst, EP3, Cut3
-Juna: Auto Speed (maybe overkill to swap out?)
-Musse: Titania/Mino, Auto Magic, Lone Blade, Impassion
-Kurt: Dun/Mino
-Ash: Brigid/Mino, Auto Phys, Lone Blade
-
+Buy weapons for Kurt, Ash, 
+  Laura, Machias, 
+  Jusis and Gaius
+  
+Equip: Musse Blue?
 
 [PAGE]
-**Setup** continued
-Equipment 
-Rean: Passion, Green
-(backwards in party order)
-_Ash: Gallie, Red Emblem
-___Jusis: remove all (coin floral)
-____Musse: Blue Emblem
-_____Juna: Dark Emblem, IBC
-______Altina: Coins
+**Setup** 
+Replace all sub Emblem with Sub Mino
+Rean: Strike2->Hit3
 
-Formation: Diamond, Rean front, Crow and 
-  Duv on sides, Celine back
+_Emma: Curia->Chrono Burst R
+_Altina: Burst, EP3, Cut3
+_Juna: Auto Speed
+_Musse: Auto Magic, **Lone Blade, Impassion**
+
+Kurt: **LaForte**
+Ash: Brigid/Mino, Auto Phys, **Lone Blade**
+
+Formation: Diamond
 
 **Rest** at Station
 
@@ -555,11 +540,11 @@ Finish section and get ready.
 [PAGE]
 
 **Red Rossweisse**
-Fie/Laura Forte spells
-Alisa Saintly Force self
-Emma wait for buffs
-Emma Chrono Burst, Valiant Hearts and S-break with the rest
-Serene Grace Chrono Burst rotation to 100cp, then S-break with the rest
+Fie/Alisa LaForte/Forte
+Laura Saintly Alisa
+Emma turn after all buffs (to handle Def up)
+Emma Chrono Burst, Valiant Hearts, SBreak rest
+Serene Grace to 100CP, SBreak again
 
 **Copper Georg**
 Jusis or Sara Forte team
@@ -622,13 +607,13 @@ On ship, on Bridge talk to Alisa group twice
 Equip Remove all from Ash, Musse, Altina, Kurt, Juna
 Remove Quartz from Ash, Musse, Altina, Kurt, Juna
 
-Team is Rean, Laura, Jusis, Gaius, Emma, Juna
+Team is Rean, Laura, Jusis, Gaius, Emma
 Rean: Reg/Mino, Auto Phys, Lone Blade over Def
 _Laura: Still good!
 __Jusis: Dun/Mino
 ___Gaius: Def -> Lone Blade
-____Emma: Brigid/*, Action3, Cut3, EP3
-Equip: Rean Passion/Red, Laura Orange/Cozy, 
+____Emma: Brigid/Emblem, Action3, Cut3, EP3
+Equip: Rean Red/Passion, Jusis unequip
   Gaius True/Gallie, Emma Silver/Gold
 
 Tactics, move non Laura team close together
@@ -644,7 +629,7 @@ Chest, detour to right for sepith
 Rean Demon Unchained
 SBreak all, Gaius last
 
-**Emblem** CP recharge on the way to Shrine
+**Emblem** CP/Emma EP recharge
 
 **Mino** before fight
 Team for fight is Rean Emma Jusis Gaius
@@ -680,7 +665,7 @@ Buffed Aqua is 40k
 
 [PAGE]
 
-Select Laura Gaius Emma Jusis
+Select Laura Emma Jusis Gaius
 FT Lounge, talk to Crow then
 
 **Setup**
@@ -698,6 +683,8 @@ Emma CB Serene Grace 4 times
 Valiant Hearts, S-break away
 
 [PAGE]
+Unequip Emma for Acc and Quartz
+
 FT to Near Statue, right for Mech items
 FT to Titus Gate, Rest Area -> quest
   FT Parm Byroad 2 get item on left
@@ -712,19 +699,18 @@ Pick Laura and Gaius
 
 **Ordis Inflitration**
 Chest on map2, immediately on left
-Enter Ordis, go to Kleist Mall upstairs
-  **Shopping**
-  Sell Sepith mass
-  Buy 2 Rider Jackets, one on Laura
+Enter Ordis, go to Kleist Mall for FT 
 Walk to Noble, Walk to Harbor, enter Tavern
-Walk to North, enter Orbal to buy **Glass Coin**
+FT Keist Mall for **Shopping**:
+  Buy 2 Rider Jackets, one on Laura
+FT Harbor, exit back for North
+  Enter Orbal to buy **Glass Coin**
   Talk to owner guy
 Walk out to enter Inn, starts dungeon
 
 Enter dungeon, that door. Right there.
 
 [PAGE]
-Remove Emma Coins and Quartz
 Orb -> Trade -> Plat Coin
 
 **Setup**
@@ -775,7 +761,7 @@ Valiant Heart, SBreak all w/ Gaius last
 ## Act 2 Part 2
 Random party. 
 FT to Alster, Steinrose - talk for quest
-FT to Eryn, Orbal Factory - buy MAX Brave
+FT to Eryn, Orbal Factory
 FT to Parm, Orbal Factory 
 FT Merkabah Lounge, Orbal Factory
 FT to Alster, Steinrose - finish quest
@@ -794,15 +780,14 @@ Inside dungeon walk first room -> bye Fie!
 
 **Setup**
 Party: Laura, Angelica, Rean, Agate
+Laura: */Emblem (to help clean up)
 Angie: */Mino, AutoPhys, Lone (from Gaius)
 _Rean: Emblem/Mino
 
 [PAGE]
-Fight little bots, Sneak Gunners
-Rean SCraft to win
+Fight little bots to left
 
-Break boxes for Assault
-Rebuild 200CP before forced fights
+100CP is enough for any fight
 
 **Fight 1**
 Crimson Break, Brave Seed
@@ -835,7 +820,8 @@ Juna attack Alan
 Altina Shadow Rise if needed
 
 [PAGE]
-Left for switch, bot past door
+Left for switch
+Second bot fight for UMats after gate
 Rebuild to 200CP then Command Room
 **Mino** Laura if she got Emblem earlier
 
@@ -846,18 +832,19 @@ SBreak Rean, Laura, Angie and Agate if needed
 
 [PAGE]
 ## Act 2 Part 3
-Party: Juna, Laura, Angie, Tita
+Party: Juna, Gaius, Angie, Tita
 
 **Setup**
-Order: Laura, Rean, Tita, Angie
-Rean: Kaleido/Mino
+Order: Rean, Tita, Angie, Gaius
+Rean: Kaleido/*
+_Tita: */Mino
+__Gaius: Emblem/*
 ___Juna: Reg/* (XP, swapped to Ash later)
 Formation: All back row, in a line from the left
 
-FT to Old Lamre Road, Rest Lodge
-  **Rest** then exit and right for:
+Shower then FT to Old Lamre Road, Rest Lodge
 **Eldergeist**
-Blast Force, SBreak Rean and Angie
+SBreak Rean, Tita, Angie, Gaius
 
 FT Saint Arkh Cathedral, Hotel
   **Rest**, upstairs for quest
@@ -866,20 +853,20 @@ FT Hamel Near Ruins, walk back to flowers
 FT St Gral, Phase 1, Enter, FT Depths
 
 **Rosenberg Dolls**
-S-break with Rean, Tita and Angie
+S-break with Rean, Angie and Gaius
 
 [PAGE]
 Begin Infiltration, accept party as is
 
 **Setup**
+TODO: Need to touch Laura here? Or have Act3 somewhere else?
 Angie: Remove Quartz
 _Duvalie: Remove Action2 and Burst R
 __Laura: Remove Act3
 
 Party: Rean, Juna, Ash, Tita
-Rean: SpeedBreaker->Act3
+Rean: remove Time slots, Lone, AutoSpeed
 _Ash: Emblem/Mino, AutoPhys, Lone Blade
-__Tita: */Mino
 
 Equip: Laura remove accessories, 
   Rean Rider/Dark/Plat, Ash Passion/Or Corsage
@@ -892,8 +879,9 @@ FT Lake Gala Road, run towards end
 SBreak Rean, Ash
 
 FT Leeves West Side for Randy -> Walk Leeves
-**Emblem** Rean, Tita
 Randy in Party 2nd slot
+**Emblem** on Rean, Randy, Tita
+_Randy: */Emblem, Lone Blade
 Formation: Tita up front, rest backish
 
 Enter Dorms, leave
@@ -901,18 +889,16 @@ Enter Mayors then Neinvalli
 **Shopping** with Wayne
 Weapons for Juna, Kurt and Ash
 
-**Mino** on Rean and Randy
-
 Enter Thors!
 
 [PAGE]
 **Retake Thors!**
 
 **Fight 1**
-SBreak with Rean, Randy and Ash
+SBreak all, Ash last
 
 **Emblem** Rean/Randy
-Walk to 2F then **Mino** on Rean/Randy
+Walk to 2F, 100CP, **Mino** on Rean/Randy
 Music room for:
 **Fight 2**
 SBreak with Rean, Randy and Ash
@@ -942,11 +928,12 @@ Clean up
 [PAGE]
 FT to Pool, **stay right!!** 
   Battle by pool doors, stay away
-Walk to Training Ground
+Walk to Training Ground, 200CP
 **Mino** on Rean/Randy/Tita
 
 **Fight 3**
-Blast Force, Brave Seed, S-break with all
+Blast Force, Brave Seed
+SBreak all, Ash first
 
 **Emblem** Rean/Randy/Tita
 FT to Academy Field -> Hangar
@@ -973,25 +960,27 @@ Finish with Arts/Normals
 [PAGE]
 FT to Front Entrance -> Einhal Keep
 Tita as party lead
-**Mino** Rean/Randy/Tita
 
 **Area 1**
 Duct, Trap1, Duct, Pillars, Chest for UMats
 Duct, Trap2->Left first then other ladder for Spirit
 Duct, Duct->right, switch on right then ladder down
-Assault enemies and run, they are annoying
+Assault enemies and run
 Trap3-> left first, then back to middle area
 Up ladder, right, right, leave Area 1!
 
 [PAGE]
 **Area 2**
-Drop down, straight for pillars and sepith
-Ladder up, switch, left (don't drop down)
-Far side of big area first, trap4, right for Zeram
+Drop down, left then right for ladder
+Trap4, go left in big room (don't drop down)
+Assault enemy in middle area, SBreak Rean/Ash
+Far side of big area first, trap5, right for Zeram
 Drop down, left for other far side area, hit switch
 Drop down, back to close side switch
 Drop down, return to second switch to finish puzzle
 Cross large room to start, drop down, left, left
+
+**Mino** Rean/Randy/Tita as you leave
 
 [PAGE]
 **Mino** is on, yeah?
@@ -1020,12 +1009,12 @@ Team B: Pick Laura
 [PAGE]
 **Setup - Team A**
 Order: Rean, Jusis, Crow, Randy, whatever
-Rean: Lone Blade->Act2, Act3->Burst R
+TODO: Ahh... everyone was good? This always happen?
+Rean: Good!
 _Jusis: */Mino
 __Crow: Dun/Mino
-___Randy: Lone Blade
+___Randy: Good!
 ____Kurt: */Mino
-_____Ash: */Mino
 Equip: Ash accessories removed
 
 Room on way chest, assault bot if needed
@@ -1036,15 +1025,13 @@ Noble Rise, S-break with all
 [PAGE]
 **Setup - Team B**
 Slot: Altina 2-1 lvl2
-Order: Laura, Duvalie, Juna, Altina, whatever
-Laura: Action3
+Order: Laura, Duvalie, Altina, Juna
 _Duvalie: */Mino
-__Juna: Emblem/Mino
-___Altina: Titania/Mino, Auto Mag
+__Altina: Titania/Mino, Auto Mag
+___Juna: Emblem/Mino
 Equip: Rean remove accessories, Laura Dark/Plat,
-  Duv Passion, Altina Blue
-Formation: Altina bot right
-**Rest** at Orbment
+  Duv Passion, Altina Blue/Proxy
+If no proxy: Formation: Altina bot right
 
 Enter room on the path for chest, Spirit
 **Gilbert and Co.**
@@ -1122,7 +1109,7 @@ ___Gaius: Emblem/Mino, Auto Phys,
 __Rean: Auto Phys, Lone Blade
 
 Equip: Remove Duv Passion, Tita Emblem
-  Rean Rider jacket to best armor,
+  Rean **Rider jacket** to best armor,
   Fie Rider/Green/Passion, Laura Green/Plat,
     Rean Floral/Or Corsage, Gaius Floral/True
 Formation: Group up for Moebius
@@ -1176,34 +1163,37 @@ Exchange all Sepith (money!)
 
 FT 2F, Infirmary then Becky for
 **Shopping**
-Sell: Dragon
-Buy: Power Pot 2 x11
-Buy: Cushion, Passion x5 (sell weapons, Powder)
+Sell: Dragon, Brave Soul x1
+Buy: Power Pot 2 x8
+Buy: Cushion, Passion x5 (sell weapons if short)
 
 **Setup**
 Equip: Rean Passion2, Gaius Passion2, 
   Laura Dark/Plat
 
-FT 3F, bath
+FT F3, bath
+FT Old Agria Road
 
 [PAGE]
-FT Old Agria Road, walk to Draco Shrine
+## Ready to ride!
+Horse to Draco Shrine
+  Party select, must fix order!
+
 **Set order** now, going into fight
 Party: Laura, Fie, Gaius
-Order: Laura, Rean, Angie, Gaius
+Order: Rean, Laura, Angie, Gaius
 
 **OZ Mirage**
 S-break with all, Gaius last
 
 [PAGE]
 **Setup**
-**Emblem** charge
+**Emblem** charge Rean/Laura
 Rean/Gaius: Remove Lone Blades
-_Angie: */Mino, AutoPhys, Lone Blade
+_Angie: AutoPhys, Lone Blade
 __Alisa Dun/Mino, AutoMag, Lone Blade
 Equip: Angie Passion, True
 
-Fight small floating bots on way
 Door, left, duct, door, chest on right
 
 **Emily and Theresia**
@@ -1213,7 +1203,6 @@ Alisa Zeram Powder Angie
 S-break with both to win
 
 [PAGE]
-Fight small floating bots on way
 Long section, need to enter 2 ducts
 Left for chest, 3rd duct
 Right for chest, hit switch at end
@@ -1222,24 +1211,24 @@ Right for chest, hit switch at end
 Party: Fie, Laura, Rean, Gaius
 Angie/Alisa: Remove Lone Blades
 _Rean/Gaius: Lone Blade back on
-**Mino** on Laura, Rean
+**Mino** on Laura/Rean
 Equip: Angie remove, Fie Passion x2
 
 **Sharon and Georg**
 If Fie first:
   Fie Concealing
   Laura Burst Power Pot II, Raging Fire
-  SBreak all, Gaius last
+  SBreak all, Gaius last (Spirit dupe)
 Else:
   Laura Chrono Burst Power Potion II
   Raging Fire, SBreak all but Laura
-  Leanan’s Kiss, Gaius SBreak for Sharon dupe
+  Leanan’s Kiss, Gaius SBreak for Sharon (Spirit)
   Fie SBreak to win
 
 [PAGE]
 **Mech - Leviathan**
 Swap Alisa for Laura
-EX: Power Orb 1 -> 3
+EX: HP1 -> Power3
 
 Normal - Arms
 Single Target Charging - Body 2*
@@ -1263,11 +1252,11 @@ Finish as needed
 
 [PAGE]
 Choose Laura, Jusis, Kurt
-Head to Draco Sanctuary
-
 **Setup**
 Party: Fie, Laura, Rean, Gaius
 **Emblem** recharge
+
+Head to Draco Sanctuary
 
 Go left first, left for chest before end
 **Mino** for boss fight
@@ -1275,7 +1264,8 @@ Go left first, left for chest before end
 **Trap Master Xeno**
 Fie Concealing Wind
 Noble Rise SBreak Fie, Gaius
-Laura Chrono Burs, Leanan’s Kiss
+Rean attack if turn
+Laura Chrono Burst, Leanan’s Kiss
 SBreak Fie, Gaius (dupe Powder)
 
 [PAGE]
@@ -1288,7 +1278,8 @@ Chest on right before end, Zeram
 **Leonidas the Behemoth**
 Fie Concealing Wind
 Noble Rise SBreak Fie, Gaius
-Laura Chrono Burs, Leanan’s Kiss
+Rean attack if turn
+Laura Chrono Burst, Leanan’s Kiss
 SBreak Fie, Gaius (dupe Seed)
 
 [PAGE]
@@ -1299,7 +1290,7 @@ Chest by switch
 
 **Jaeger King Rutger**
 Noble Rise, Gaius SBreak ASAP (avoid enhance)
-Fie Concealing Wind, 
+Fie Concealing Wind, SBreak Fie/Rean
 Laura Zeram Capsule, SBreak Gaius, Fie/Rean
   IF Rutger Enhanced at start then
     Zeram Powder, SBreak all but Laura
@@ -1346,13 +1337,14 @@ Party: Fie, Laura, Rean, Gaius
 FT F3, bath
 FT to West Lamare, Languedoc Canyon North
 
-Chest on first left, chest on first right
+Chest on first right
 
 **Yyd Vanas**
-**NO* concealing wind
-Noble Rise, SBreak all but Laura
+**NO** concealing wind
+ASAP SBreak Gaius/Fie
+Laura's turn, Noble Rise, SBreak Rean
 Laura Leanan’s Kiss (burst if needed)
-SBreak Fie, Rean, Gaius
+SBreak all, Gaius last (dupe Skanda)
 
 [PAGE]
 Go to Bridge and proceed with story. 
@@ -1370,7 +1362,7 @@ Weapons: Rean, Laura, Fie and Gaius.
 Head up till lower wall first part, no chests
 Back out, enter next lower wall area, immediate chest, UMat
 Elevator up, middle wall, right then left for 2 chest
-Back out, next middle wall, ahead for left chest, Brave
+Back out, next middle wall
 Head all the way up, 2 chests on top floor
 
 Setup by final Orb station
@@ -1401,7 +1393,7 @@ FT F4, To Stella Sanctuary.
 
 **Setup**
 Party: Fie, Laura, Rean, Gaius
-Slot: Fie ALL (3), Rean 1-3, Gaius 1-3/1-4
+Slot: Fie ALL (3), Rean 1-3, Gaius 1-3/4
 Fie: Remove non-speed, Auto Phys
 _Gaius: Remove non-Rev and non-Lone, Auto Phys
 
@@ -1430,11 +1422,11 @@ Chest by second switch, UMats
 **Mino** before fight
 
 **Ines + Sleipnir F2-0 x2**
-Fie Concealing Wind
-Noble Rise and SBreak Fie, Gaius
+If able Fie Concealing but not needed
+Noble Rise, SBreak Fie/Gaius (+Rean if no Stealth)
 IF BP <3 then Brave Seed
 Laura Chrono Burst Leanan’s Kiss
-S-break with Fie, Gaius
+SBreak all, highest damage first
 
 [PAGE]
 **Emblem** recharge
@@ -1478,11 +1470,11 @@ Broken Phase 2, Unite will end
 
 Go to Cendrillon (left as you gain control) 
   Sell sepith mass and Incenses. 
-  Buy Gilded Ultramarine, Still, Abyss
+  Buy Gilded Ultramarine, Still, Abyss (2?)
   Use it and Cushion.
 
 **Setup**
-Rean: Take off Mino, AutoSpeed
+Rean: Mino->Keeper, AutoSpeed
 
 FT to Wharf to talk to Valimar
 FT to Lakeside Beach, juice x5
@@ -1500,8 +1492,8 @@ Check PC.
 FT F3, bath
 FT F2, for weapon **shopping**:
   Sell: Brave Soul till 110k
-  Weapons: Rean, Musse, Ash, Alisa, Laura, 
-    Machias, Jusis, Fie, Gaius, Sara, Crow
+  Weapons: Rean, Juna, Ash, 
+  Laura, Mach, Jusis, Fie, Gaius, Sara, Crow
 Olivert in Bridge and start operation.
 
 A: Swap Tita and Renne places in Tactics menu
@@ -1511,7 +1503,6 @@ C: Straight then right for Zeram, back to first T
 D: Straight then right for Brave
     Back to first T and then final chest before leaving, Pots
 E: First chest on left, then straight for switch
-    Chest just after open door
 [PAGE]
 
 **Aion Y Umbra**
@@ -1571,19 +1562,19 @@ SBreak all (no dupe)
 
 [PAGE]
 **Emblem** Recharge
+EX Orbs: Brave Stone MAX, need about 20 to end
+
 Run to Garden, no fight or chests
 Fight small skeleton bugs on way for UMats
 No chests, up stairs for switch then drop down
 
 **Setup** before Claire and Lechter
-EX Orbs: Brave Stone MAX, need about 20 to end
 Party: Sara->Altina, Juna->Ash
-  Ash, Laura, Rean, Altina
+  Laura, Ash, Rean, Altina
 Ash: AutoSpeed
 _Laura: */Mino
 __Rean: */Mino
 ___Altina: */Mino, AutoMag
-Equip: Ash Abyss
 
 **Lechter and Claire**
 ASAP swap in Gaius (over Laura or Ash)
@@ -1610,7 +1601,7 @@ _Kurt: AutoPhys
 Noble Rise, SBreak all but Laura
 Laura Brave Soul (Burst if needed)
 Laura Chrono Burst Leanan’s Kiss
-SBreak all, Gaius last (dupe Shirley)
+SBreak Laura/Rean/Gaius (dupe Capsule)
 
 [PAGE]
 **Mech - Testa Rossa**
@@ -1625,21 +1616,20 @@ Crouch, sword far to side: Arm
 
 Rean attack head, others Brave
 Others Rise, Rean attack (body?)
-Crow heal if self hurt, else attack
-Kurt Defend
+Target defend, other attack
 Mach Accel->Criminal->Unite
 Laura Radiant, Rean Brave
-Kurt Attack, Rean Unite -> Phase2
+Kurt Defend, Rean Unite -> Phase2
 
 Altina Brave, all Defend
 Mach Brave, Laura Radiant
-Crow Attack (Finish if 7BP)
+Crow Attack
 Rean Unite -> BREAK
 Spam whatever, dead
 
 [PAGE]
 **Emblem** recharge (Kurt too)
-Party: Juna, Laura, Rean, Gaius
+Party: Laura, Juna, Rean, Gaius
 
 FT to Garden and head to Hall C
 
@@ -1651,19 +1641,15 @@ At triple hallway, right for switch
 
 **Mino** for fight, check Fie too
 
-**Setup**
-Juna: AutoSpeed
-Equip: Juna Abyss (from Ash)
-Did you **Mino**? You'll be sad if you didn't
 
 [PAGE]
 **Mariabell and Campanella**
-If antiorder, Laura Burst, Power Pot, Burst
-Juna swap for Fie
-Noble Rise, Concealing Wind
-SBreak all but Laura
+If antiorder, Laura Burst, Wait, 
+ Burst, Power Pot
+Noble Rise, SBreak all but Laura
+Burst, SBreak Laura
 Laura Chrono Burst, Leanan's Kiss
-S-break away (no dupe)
+SBreak all (no dupe)
 
 [PAGE]
 **Emblem** recharge
@@ -1705,7 +1691,7 @@ Crow Repair target, Ash Attack
 Rean Thousand -> Unite
 
 Crow Brave, Mach Brave,
-Crow Attack, Ash Attack,
+Crow Attack, Ash Def (unless 105k+)
 Rean Thousand -> Unite -> Phase2
 
 Fie Brave, Crow Attack
@@ -1784,19 +1770,19 @@ Swap in Ash
 Rean with Fie, Crow with Machias, Ash with Jusis
 
 Normal - Head
-Sword on both hands - Arms
-Sword up - Body
+Two hands, straight up - Arms
+One hand, above head - Body
 Casting - Arms
 
 Everyone brave!
 Rean Thousand
 All attack, Unite ASAP
-Jusis Repair Rean (or low if Rean full)
+Mach Repair Rean (or low if Rean full)
 Rean Brave, Fie Speed
 Crow Brave (hope for no ghost here!)
 Rean Thousand -> Unite -> Phase2
 
-Kurt def (unless not Phase 2)
+Ash def (unless not Phase 2)
 Flame ASAP
 Rean Thousand -> Unite
 Fie Speed, Rean Attack
