@@ -1,13 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Text Blob Reader</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Text Blob Reader</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<div id="textContent" tabindex="0">Press Right Arrow or Spacebar to start reading...</div>
-<script src="script.js"></script>
+  <div id="noteSelectModal" class="modal">
+    <div class="modal-content">
+      <label for="fileSelector">Select Notes:</label>
+      <select id="fileSelector"></select>
+      <button id="loadNotesButton">Load</button>
+    </div>
+  </div>
+
+  <button id="changeNotesButton" title="Change Notes">Select Notes</button>
+
+  <div id="textContent" tabindex="0" style="display:none;">Select notes to view</div>
+
+  <script src="script.js"></script>
 </body>
 </html>

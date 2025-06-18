@@ -47,8 +47,8 @@ async def echo(websocket, path):
 
 async def main():
     loop = asyncio.get_running_loop()  # Capture the event loop in the main thread
-    async with websockets.serve(echo, "localhost", 42069):
-        print("WebSocket Server Started on ws://localhost:42069")
+    async with websockets.serve(echo, "localhost", 58000):
+        print("WebSocket Server Started on ws://localhost:58000")
         listener = Listener(on_press=partial(on_press, loop=loop))
         listener.start()
         await asyncio.Future()  # This will block forever
