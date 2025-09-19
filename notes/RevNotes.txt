@@ -1512,7 +1512,7 @@ Tank 2nd attack, heal to over 19k on all if needed
 Break ASAP after 2nd attack with normal attacks
 Around here swap Sara to Fie and speed buff
 
-Phase 3 - broken, kill before next enhance at 750k
+Phase 3 - broken, kill before next enhance at 754k
 Attack until Crow with Str buff, Unite
 Rufus charge for EP, Kurt throw Brave
 Rean/Crow try to get to 760k-800k
@@ -1775,3 +1775,4 @@ You're done as the boss dies, timing stopped?
 
 TODO: Test Def down stacking on mech fight. Not a lot of extra damage but we don't need a lot more to cover damage rolls
 TODO: Towa as Crow support through TRC? Probably does more damage but then weaker Ash for final fight. Or slower Lloyd?
+
