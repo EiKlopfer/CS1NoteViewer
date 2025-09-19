@@ -1,0 +1,1777 @@
+# My Reverie Abyss Notes
+
+Step 1: Try not to die a lot
+Step 2: Die a lot
+Step 3: No like, A LOT. This game is brutal.
+
+Shoutouts:
+biliy1 for notes and many runs to learn from:
+  https://docs.google.com/document/d/1X_wn8BFrb9ME0ylUhBNdd48KGU3C8DPaw0oaFoi4Ocg/edit?tab=t.0
+  https://www.twitch.tv/biliy1
+  https://www.youtube.com/@dbf8014/videos
+
+
+[PAGE]
+## Prologue
+Fight1: Tio SBreak ASAP, Elie SCraft if LR hit twice
+  Juna over Lloyd, Proud Warrior, SBreak Lloyd/Randy
+
+Fight2: Raging Hammer (x2 if needed), Randy War Cry
+  Proud, Lloyd/Randy SCraft
+  Elie/Tio arts to clean up
+
+Break 1 box
+Assault into dog fight
+
+Fight3: Raging Hammer 
+Randy War Cry, SBreak to break
+Proud Warrior, Lloyd attack
+Lloyd SBreak when hit, ET arts
+
+**Setup**
+Elie: */Reg
+_Tio: */Reg
+Heal all with Breath
+
+[PAGE]
+
+Break boxes on way, up floor and end of hallway
+Assault into guards by elevator (CP build fight)
+
+Fight4: Aim for 200CP on Randy/Lloyd, 100CP Tio
+  Holy/War, get hit, Elie can SBreak to heal
+  Need 4BP, Toughness if turn order bonus
+  
+Get Pots chest behind guards, head to SCraft tutorial
+Heal before fight
+
+Fight5: LRT SBreak ASAP
+Elie Aeon, Holy Bullet spam
+Randy War, Lloyd Burning Heart, Proud
+Randy/Lloyd SBreak, Tio attack and SBreak, hopefully done
+
+**Setup**
+Breath or Rest to heal up
+Elie: Take off MQ, Evade1
+_Tio: Pixie/*
+Equip: Elie/Tio body armor off (to almost die to hits)
+Formation: Elie mid 2, link with Randy
+
+[PAGE]
+
+**Asmodyme**
+Elie SBreak after every hit, revive her ASAP if downed
+Proud Warrior up for this phase
+Lloyd Burning Heart/Zero Breaker
+Tio open with Forte
+ERT spam SBreak, Lloyd support w/ Burning/Forte/Item/Attack
+
+Enhanced!
+Need Toughness to survive first attack
+Remove order after Brutal Trample (for Elie SBreak)
+Attack/Forte/Burning while waiting out enhanced
+
+Proud Warrior, RT SBreak, Lloyd Zero
+If charging (after two attacks?) need Toughness again
+
+Repeat above rotation as needed to finish
+
+[PAGE]
+
+## Crossbell Shopping
+Enter Crossbell, go to Entertainment
+  Casino -> 800 coins for 4 Mishy Coins (on LNWR)
+  Leave, Ice Cream Stand ->  buy 4x
+  Arc -> Stage, FT Back, Bar
+  Bar -> Sell all down to Curia/Drops, buy Midnight x4
+  
+FT out, walk to Admin
+  Police, Civic, FT out, Fountain events
+  Juice stand -> buy 4 Acerbic
+  
+Walk to Harbor
+  IBC, FT Harbor to enter East
+  
+East Street
+  Bracer, Fisher, shop at end -> 4x Vanilla
+  Long Lao, FT East to leave for Center
+
+Enter Center Square for more shopping!
+
+[PAGE]
+
+## Crossbell Shopping part 2
+**Shopping** Orbal Store
+Air Strike x2, sell all sepith
+Upgrade Air Strike
+
+**Shopping** Department Store
+General: Mishy Tail x2
+Upstairs, Lucca: Energy x2
+
+FT Central, head into SSS
+  Sergei then 2nd floor exit
+  
+West Street
+  Mireille, Randy scenes
+  Law Office - enter, FT into Law office
+  
+Geofront -> Choose Randy
+
+[PAGE]
+
+**Setup** for Geofront
+Trade: Mishy x4, Wind Bell
+Upgrade: all 5 weapons
+Lloyd: Aegis/*
+_Noel: */Mura
+__Wazy: */Pixie, 2 Wind, 7 Aerial
+Equip: Badge on 4, Tail x2 on Rixia
+
+Rixia lead, run through first zone, Assault fight
+Fight1: UF Atk, Proud, UF Atk, spam crafts
+
+Swap **Wazy->Randy**, boxes for one AG
+Fight2: Proud, UF Atk, Randy/Noel SBreak
+
+Break more boxes until end
+**Setup**
+**Rest** if not full HP
+Sell sepith mass/space/mirage 
+  Buy Citrus, Proxy x4 for not Randy
+Swap **Randy->Wazy**
+Formation: L TL, RNW spaced out in back
+  Link Lloyd/Rixia
+
+[PAGE]
+
+**Gundharva**
+Testament Cross ASAP
+Wazy Aerial, Rixia Moonlight
+Lloyd Burning->UF Atk, Noel MindPot Wazy
+
+Guardian Force once before enemy hit, def and Str up
+Keep Testament up after, Lloyd can Burning as needed
+Wazy Aerial twice more than Air
+Rixia stealth Claw spam, Noel Teara/Attack, Lloyd Burning/Attack
+
+On break Proud Warrior, UF Atk
+Spam attack till turn
+SBreak RNW to kill (not Lloyd)
+
+[PAGE]
+
+FT back to entrance for final fight setup
+**Setup**
+Swap Rixia to Randy (for Lloyd link, Anger proc)
+Unequip any proxies except from Lloyd
+Move Tail x2 onto Randy
+Elie armor back on
+Lloyd: Brave/*
+__Elie: Aegis/*
+
+Leave for final fights
+
+[PAGE]
+**EDF Soldiers**
+Elie SBreak after hit for more tank
+If 180CP Lloyd: 
+  Burning, Proud Warrior, Burning, SBreak all. 
+  SBreak as you get hit
+If 140CP Lloyd:
+  Proud Warrior, Burning
+  Tio power pot Randy if turn, else Lloyd do it
+  Randy Death Storm before SBreak
+
+
+**Rufus**
+Build BP with Burning or United, need 4+
+Then die, select **Continue**
+
+[PAGE]
+
+## Rean Act 1
+
+Select no friends
+Leave house, foot bath
+General Store, talk x3 -> Kage x6, Proxy x7
+FT out, station, snowboard, tavern, hot springs
+
+**Setup** (TODO: Kaleido on non SBreaker doing anything?)
+First four: */Kaleido
+Musse: */Scorpio
+Ash: */Kaleido
+Claire: */Scorpio
+Team: Rean, Altina, Claire, Ash
+
+Rest at foot bath then out to valley
+
+[PAGE]
+Run up to tutorial fight, Assault
+Fight1: Infernal Hunt, UF Atk, War Hammer, UF Atk
+Rean SBreak, Raging Fire, Attack
+Ash/Claire SBreak
+
+
+Fish if missed UMats, green is fine
+Head deeper, boxes for 2 AG
+
+**Setup**
+Upgrade: Altina/Juna, then Rean/Ash if extra
+Quartz: Break1, HP1, Firebolt x2, Fortuna, Saintly
+Rean: */Scorpio, 1 Fortuna
+_Altina: Scorpio/Skuld, 1 Firebolt, 3 Cast1
+___Ash: */Scorpio
+Musse: 5 Firebolt
+_Juna: */Scorpio, 2 Saintly, 4 SpeedBreak, 5 Break1
+__Kurt: */Scorpio, HP1 (in water)
+Equip: Ash Proxy x2
+Formation: Ash TL, Musse/Rean/Kurt in bottom spaced out
+
+[PAGE]
+
+**Claire**
+Ebon Crest ASAP
+Juna Saintly Altina, Altina Needle Shot
+Juna Saintly self, Altina more needles
+Juna SCraft after Ebon, hope it breaks
+Altina Frag into SBreak, win?
+Should end with 2BP
+
+**Matteus 1**
+Try to farm BP, spam Crescent and Whirling
+Die and select **continue**
+
+[PAGE]
+
+**Matteus 2**
+If Rean/Kurt first -> self buff, War, UF atk, SBreak
+  SBreak Ash too for break
+  
+If no Rean/Kurt then Black Tortoise, Unbound Rage Ash
+  then self buff, War, UF Atk, double SBreak
+  
+Self buff other fighter, UF **arts**, SBreak
+Musse Ebon Crest then Firebolt
+Rean Fortuna
+Swap in Altina, firebolt
+Swap in Juna, Raging Fire, Burning
+Juna/Altina SBreak, should break
+Musse craft, SBreak, Ash attack SBreak
+
+[PAGE]
+
+## Up the ridge
+Hit rocks for 2AG
+Chests: 2 in first zone, Brave/Zeram
+
+Zone 2, Altina faint enemy
+Fight2: UF atk x2
+Smash more rocks for 2AG
+
+**Setup**
+Equip: Rean proxy x1, Kurt proxy x1/Kage off
+Team: Rean, Kurt, Juna, Altina
+Formation: Corners RKJA, link Rean/Juna
+
+[PAGE]
+Rean/Kurt will self buff, Juna too if turn 1/2
+  Kurt needs Sword Dance x2
+First of Rean/Kurt should heal, let boss hit again
+After boss second hit, War Hammer,  UF Atk
+Juna/Rean SBreak to break
+
+Altina Infinity order, Brave Soul
+Raging into Kurt Whirling, Rean Attack
+Altina SBreak while Raging up
+
+Juna Infinity order, swap Ash, Unbound Rage
+Rean UF Atk, Kurt Brave Seed
+Altina swap to Claire, Raging Fire and attack
+Claire/Ash SBreak (Raging Fire on, at 5BP)
+
+Kurt Infinity Order, Whirling
+Raging spam for Rean/Kurt SBreak
+Ash Rumbling into SBreak to end
+
+[PAGE]
+## Wrap up Rean Act 1
+Station for Kurt scene
+FT home, Claire to the right
+
+[PAGE]
+## C Act 1 Start
+
+**3 EDF Soldiers**
+Move Swin behind gunner
+Nadia LaForte Swin
+Swin heals until safe(ish), then Mark->SBreak
+Nadia Zeruel Cannon, Swin heal self
+Another round of Cannon and Mark
+Attack to finish, build BP if able
+
+[PAGE]
+
+**Zoa Balor**
+Shadow Step ASAP
+Swin attack or heal self/Nadia
+Nadia LaForte, C Soul Blur once
+Swin SBreak once LaForte goes off and marked
+
+Link Swin/C, C start spam Soul craft (not arts)
+Nadia run off to a corner
+Nadia keep LaForte up/Breat if low else Cannon
+Swin spam Mark/attack, C spam Soul craft, item heal as needed
+
+Keep Shadow Step up
+Once broken switch to attack spam to build CP
+End of break go Criminal Edge SBreak spam
+
+END OF ACT 1
+
+[PAGE]
+
+## Rean Act 2 Start
+
+Museum, enter depths for FT, FT out
+Rieveldt -> Sell mass/Zeram both, Mishy x4, on Rean
+FT Mater, scene, FT Plaza, scene, **recipe**
+FT Vainqueur, Le Sage -> Nomadic Coat x6
+News office, scene, FT out
+6x of Kage (on right), 2F for Prismatic and Tea x6each
+FT to Leica, Catacombs
+
+**Setup**
+Team: Ash out for Mil
+Rean: */Skuld
+___Elise: */Skuld
+Formation: Back all but Altina
+
+Fight1: SBreak Elise, Mil then Rean
+  Need 2 or 4 Hearty
+Grab Lone Blade chest
+
+FT Garnier, Stall -> Strawberry Crepe x6
+Hotel, **rest**, leave, end section
+
+[PAGE]
+
+## Lloyd Act 2 Start
+
+Swap to Rixia, break boxes for CP
+Zone 2, left lower path chest - Dragon Vein
+Zone 3, left nook chest - Glad Belt
+
+**Setup**
+Equip: Lloyd: Proxy x2, Rixia Tail x2
+
+**EDF Soldiers**
+Buzhihuo ASAP, Rixia Moonlight
+Rush twice during next set of attacks
+Lloyd Burning x2 into Zero, SBreak as hit (w/ Buzhihuo up)
+Rixia Claw spam 3 times then SBreak, should win
+
+[PAGE]
+
+Zone 1, first right for Scent
+
+**Setup**
+Lloyd: 5 off, Balanced (Dragon)
+_Rixia: 5 off, AutoPhys (Scent), 6 Evade1
+Equip: Lloyd Glad/Proxy, Rixia Energy x2, Lech Citrus/Tail
+Formation: Rixia 2 mid, Lloyd BR, Lech 11 o'clock to Lloyd
+
+**Dinos**
+Fool's for SBreaks and keep Insight on Rixia
+Rixia Dragon Claw, Lech Heating into SBreak
+Lech SBreak again if MQ procs (should w/ Formation)
+Lloyd Burning x2, Saintly Rixia
+Rixia SBreak when able, dodge tank
+Lloyd first craft to stay back, let Rixia counter
+
+[PAGE]
+
+Run to next fight
+
+**Fartacus squad**
+Lech get hit then SBreak
+Lloyd SBreak after some clump up
+Elie cure faint if needed, skip Lech if not fainted
+Lech SBreak again after MQ procs
+Rixia Fool's into SBreak
+
+Armorica
+Mayor house, scene, Inn, scene
+FT out, head to clinic, FT out
+FT Old road to trigger mirror
+
+[PAGE]
+
+## The Reverie Corridor
+Talk to mirror, item area x3 and tree
+Select Rixia, Jusis and Altina
+  Unequip Lech accessory/Break R here
+
+**Shopping**
+Orbal
+  Slot: Lloyd 2-1, 3-1. Rixia 1-1
+  Upgrade: Rean, Lloyd, Rixia and Jusis
+Item
+  Trade: Knight x2, Prankster
+  Sell Sepith mass
+  Item: Fresh Milk, Starberry, Honey x11
+  Equip: Citrus x3, Proxy ? (have 9 in total, so buy 3ish)
+
+**Setup**
+Rean: */Chev, Lone Blade, Prankster, Move2 (Mil)
+_Lloyd: Infinity/Chev, 4 Act2 (Claire), 6 Act1
+__Rixia: MQ off, Chev/Scorpio
+___Jusis: Scorpio/Chev
+Altina: Mura/Scorpio
+Equip: Rean Citrus/Proxy, Lloyd Citrus/Proxy
+  Rixia Citrus/Knight, Jusis Citrus/Proxy
+Cooking: Rean Very Berry max, need 3
+
+[PAGE]
+FT to Entrance, enter first area
+Run to depths, heal at Orb
+
+**Cuberion**
+Rean Spirit Unification ASAP
+Noble Rise, UF atk
+Noble Rise, SBreak all but Lloyd
+
+Lloyd Burning to 4 BP, Ebon
+Cast Heat Up once
+Lloyd UF Atk
+Noble Rise, craft
+SBreak all to end
+
+[PAGE]
+
+FT to entrance, talk to core
+Unlock at core, head to unsealing area
+Unseal blue stone to advance
+Talk to Rixia
+FT tree, talk to Claire
+
+Awaken from Reverie
+
+[PAGE]
+
+## C Act 2 Start
+
+**Shopping**
+Quartz: La Forte, Breath, Fortuna, Saintly, Crescent
+
+**Setup**
+Remove: Rixia MQ, Jusis MQ/Aerial,
+  Elie Ixion, Musse MQ, Elliot MQ/Cross
+C: Scorpio/Chev, 1 Saintly, Cross R
+_Lapis: Chev/Scorpio, 1 LaForte, Crescent
+__Swin: Canon/Chev, 3 Breath, Fortuna, 6 LaForte 
+___Nadia: Virgo/Scorpio, 3 IxionR, 7 Diamond
+
+If only 2 Hearty then
+  Frogs Assault -> C/Swin SBreak
+Leave Sewers
+
+[PAGE]
+
+Mach house, FT Vesta
+Inn -> Foresta x6, **Rest**
+  Bakery for scene
+  Towa shop -> Kage x6, **TRC glitch** one on Rean
+
+
+FT Garnier, Jewelry -> Mishette x6
+Stall x2 to advance
+
+**Rean side**
+Noble Rise, UF atk
+Noble Rise, UF atk (yeah, again)
+SBreak Elise, Mil, Altina
+
+**C Side**
+Palace ASAP
+Lapis and Swin LaForte
+C Saintly Nadia, Nadia Diamond
+Pass to Swin turn, **check Swin CP**
+Swin mark then SBreak
+SBreak rest, Nadia last
+
+[PAGE]
+
+Cook with Rean if need more Cold Hearted
+Scene, immediate right for Rage
+
+**Setup**
+Rean: 5 Act2 (Kurt)
+___Elise: Mura/*
+Jusis: Sirius/*
+_Ash: Infinity/Sirius
+Equip: Rean Knight x2, Ash Glad
+Item: Cold on Rean
+Formation: Rean back, Elise/Ash/Jusis on front
+
+Run to Sewer fight scene
+
+[PAGE]
+
+**EDF Artless 1**
+Noble Rise ASAP
+Rean Spirit into SBreak
+Elise Attack, Jusis Treasure
+Ash Unbound into SBreak
+Rean Crimson to clean up
+
+**EDF Artless 2**
+Noble Rise ASAP
+Jusis/Rean SBreak (Rean last!)
+Elise Raging Fire, Rean SBreak
+Ash SBreak if needed
+
+[PAGE]
+
+**C vs EDF**
+Lapis and Swin LaForte
+C Saintly Nadia, Nadia Diamond
+SBreak three with buffs
+SBreak Nadia after casting Diamond
+  
+Zone 1, grab Cross Crusade
+
+**Setup**
+**Rest** at station
+Buy: Holy Chain x4, equip directly
+C: */Virgo
+___Nadia: 2 EPCut2, 7 Cross SR
+Formation: Group for Breath
+
+[PAGE]
+**Baleful Rider**
+C and Nadia Saintly selves
+Swin Breath, Lapis Crescent
+
+Dark Requiem after AntiOrder
+C/Nadia spam Cross
+Swin Breath or Fortuna/LaForte/Heat
+Lapis Heat Up or Crescent if buff off
+
+Dark Requiem up until second break, probably 3
+Need 3BP at end, Brave Seed if needed
+SCraft non Rufus before second break ends, 90k
+
+[PAGE]
+
+**C Side part 2**
+Palace ASAP
+Lapis and Swin LaForte
+C Saintly Nadia, Nadia Ixion
+Pass to Swin turn, **check Swin CP**
+Swin mark then SBreak
+SBreak Lapis and C
+Nadia Punitive into SBreak
+
+**Rean Side part 2**
+Easy fight?
+Noble Rise, UF atk, UF atk
+Mil/Elise/Rean SCraft, Altina SCraft if needed
+
+[PAGE]
+
+## Lloyd finish Act 2
+FT Inn, **Rest**
+FT Old Road 2, enter Ancient BF
+Ancient 1: Zeram power, by exit
+Ancient 2: Calvary, on left, (Assault enemy and run)
+Ancient 3: Chrono Break UR, left before Orb
+
+**Setup**
+Check **Sirius** is 7, else Elie needs to level it
+Lloyd: Infinity/*
+_Elie: Virgo/Gung, 1 Saintly, 
+  4 Act2 (Rean), 6 Cast2 (Elliot)
+__Rixia: Chev/Gung, Break UR, CalvSR, 
+      3 off/Balanced (Dragon), Rage, 6 Lone Blade
+___Lech: Gung/Virgo, 2 Cast2 (Jusis), 4 EPCut2 (Elise)
+Equip: Rixia Nord Coat, Knight x2
+Team: Rixia first spot
+Formation: Rixia top mid, Lloyd midmid,
+  Elie/Lech behind Lloyd on right
+  **Lloyd/Rixia linked?**
+  
+[PAGE]
+**Lau and friends**
+Fool's ASAP
+Rixia Moonlight into SBreak
+Toughness Shield after SBreak
+Lloyd Burning x2 into Impassion Rixia
+Elie Saintly self, Lech Heating x2
+
+Once buffs are done keep Fool's up
+Lloyd Zero, Rixia attack
+Elie/Lech spam Aqua
+If Lau enhance then Lloyd SBreak
+Else keep up above till dead
+
+[PAGE]
+**Cao and Garcia**
+Buzhihuo ASAP
+Rixia PowerPot self  
+Lech cast Zeruel
+Elie Saintly Lech
+Lloyd Impassion self
+
+If Cao casting then Rixia Dragon Claw
+
+Rixia Moonlight
+Fool's, Rixia SBreak
+Lloyd Burning x2, Fool's, Zeram Rixia
+Rixia SBreak again
+Elie Calv Edge, Lloyd Zero, Lech Zeruel
+SBreak Lech after second Zeruel
+
+Go for kill here, spam whatever you have
+
+END OF ACT 2
+
+[PAGE]
+
+## Rufus Act 3 Start
+
+Ship - talk to everyone
+
+**Crossbell**
+Dept store - buy Mishy Tail x2
+FT out, East Street, Harbor, Admin
+Imelda shop - buy Mishette Ribbon x6
+FT out, leave Crossbell, go to mountain path
+
+Head left, leave zone to progress to Rean part
+
+[PAGE]
+
+## Rean Act 3 Start
+Head to settlement
+Back in tent, then out to Sheeda
+
+North Highlands, 3 chests on left side of map
+  True Awaken, Zeram, Silvery Watch
+Grace by statue to advance
+**Shopping**
+Sell: Spirit all, Mass
+Buy: Five-Dyed x21, Spicy x11
+
+Horse to South Highlands, swap to Lloyd
+
+[PAGE]
+
+## Lloyd Act 3 Start
+Cafeteria (It's both for visitors and hospital staff)
+Tio get, FT Ward 1, right door to underground
+**Shopping**
+Quartz: Chrono Burst
+Slots: Wazy 2-1
+Trade: Kage Sandals x1
+
+**Setup**
+Lloyd: 2 Burst, 6 Calv SR, 7 Break UR
+_Wazy: Mura/Gung, Saintly, Lone
+__Tio: Morgan/Gung
+Equip: Lloyd Nord/Kage, Silver/Proxy
+
+[PAGE]
+
+**Helmord**
+Lloyd Burst -> Brave, Burning to 5
+  Aeon and Impassion self
+Tita/Agate swap to Wazy, cast something to delay
+Tio UF Arts, Agate Spicy Wazy
+
+Lloyd Burning to 5, Blast Force
+SBreak all but Lloyd
+Lloyd Burning to 5, Aeon, UF Atk
+Attack, Burning to 5, Smile to 100CP
+SBreak all but Lloyd
+Zeram SBreak all (can save if Tio critical?)
+
+Can recover if someone dies at start, extra Burning Aeons I guess
+
+[PAGE]
+
+Zone 2, 2 chests, Solemn and Brave
+Leave tunnel to enter Reverie
+
+**Reverie**
+Turn in quests
+Upgrades: Tree x2, Tag3 (Rixia), Brave Seed x1
+Unequip: Rufus/Renne Cross R
+Rean **cook** more Cold if need (only 1-2 before)
+
+**Shopping**
+Trade: Mishette, Knight, Kage max
+  Lone max
+Shop Equip: Agate boots +1 (evade 5%)
+
+FT Tree, rest, Awaken
+
+[PAGE]
+## Rufus - Doll Studio
+Trap avoid by hit vase1 twice, vase2 once
+Run to locked **door** (not terminal!), swap to Rean
+
+
+## Rean - Nord Highlands
+Zone 1, 3 chests, left to fort area
+  Storm, Helios, Enchant
+Enter fort, scene, swap to Lloyd
+
+## Lloyd - Underground
+Zone 1, 1 chest on right (blue box), Zeram
+Zone 2, stick right for orb
+**Shopping**
+Quartz: Ixion, Burst x2
+Slots: Agate 4-1
+
+**Setup** - evade tank goooo
+Lloyd: Sirius/Gung, 2 Scent, 3 Rage, 4 ShinR, 6 Evade2
+_Agate: Chev/Gung, 2 Lone, 4 Enchant, 6 Evade2, 7 Evade1
+Equip: Lloyd Helios/Energy, Agate Nord, True Awake/Energy
+
+[PAGE]
+
+**D-Bestial**
+Alisa SBreak and again after revive
+Sharon attack, SBreak
+Lloyd Shining self, Wazy swap Agate
+Agate Wild Rage twice for low HP
+Lloyd Burning x2, attack (keeps Shining)
+
+Lloyd Blast Force, Shining
+Agate SBreak whenever 100CP (w/ Blast up)
+Lloyd UF atk next two turns, should end?
+
+[PAGE]
+
+**Factory**
+Locked door then right for chest, Selene's
+Swap to Rean's route
+
+**Nord Highlands**... again
+FT Settlement, FT Watchtower, run to top
+**Setup**
+Slots: Gaius, 2-1
+Team: **Gaius, Sara**, Musse, Emma
+  Tag Rixia
+Gaius: Infinity/Chev, 234 remove Speed, 6 Break UR
+_Sara: Sirius/Gung, 3 Fortuna, 4 Rage
+__Musse: Gung/Virgo, 5 Cast2, 6 Zeruel
+___Emma: Virgo/Gung, 2 Act2, 3 Zeruel
+Kurt: Gloom/Gung
+_Rean: Mura/Kaleido, 1 Lone, 5 Break2
+__Aurelia: */Gloom
+
+Equip: Gaius Kage, Knight x2. Sara Nord/Kage, Helios, True Awake
+  Musse Kage, AutoMag. Emma Kage
+  Kurt Five Dyed, Rean Five Dyed, Knight x2
+Formation: Sara TL, Gaius/Musse/Emma BL line
+
+[PAGE]
+
+**Divine Blade of Wind**
+Gaius Buzhihuo, Spicy Musse/Emma, SCraft
+Sara UF Arts
+Musse and Emma spam Zeruel
+Keep up Buzhihuo
+Sara will heal Gaius or UF Arts for EP
+Gaius Golden Howl -> SBreak to delay lock
+
+Roughly what Sara does:
+  UF Arts, Brave, Fortuna, Brave, Balm, UF Arts, 
+    Balm, Fortuna, Balm, SelfBuff for end
+  
+
+[PAGE]
+
+**Olivier Fight 1**
+Nemesis Arrow, Burst Requiem
+Nemesis x2, Burst Requiem
+Nemesis spam
+Finish with SBreak (12k?)
+
+**Rest**, 2F and right for
+
+**Olivier Fight 2**
+Elegant Waltz into Ixion spam
+Heal as needed
+Finish with SBreak
+
+[PAGE]
+
+**EDF Soldiers 1**
+Rean/Kurt/Musse SBreak
+
+FT 3F, training room
+
+**EDF Soldiers 2**
+Rean/Kurt/Musse SBreak
+
+**Setup**
+Rean: Chev/Scorpio
+Team: Sara, Gaius, Musse, Emma
+
+FT 4F
+
+[PAGE]
+**Dalton**
+Sara UF Arts
+Gaius Spicy Musse/Emma, SCraft
+Raging Fire, Zeruel x2
+Sara SBreak, win?
+
+**Arios solo**
+Impassion, Raging Fire, 
+Helix x2 -> Breaks, SBreak
+Attack/Craft if turn
+  otherwise SBreak after revive
+  
+[PAGE]
+
+## Doll Studio/Factory
+
+Start Lloyd
+**Setup**
+Lloyd: Gloom/*, 2 EP2, 3 Imp R
+Run to scene, next room **terminal**, swap to Rufus
+
+Rufus run into beams till critical
+Run 2 zones till **terminal**, Lloyd now
+
+Lloyd 2, 2 chests, trap room right Rev
+  Trap 3, left for Tearal UR
+Run to orb, **Rest**
+Cold Frappe Wazy, terminal, swap to Rufus
+
+[PAGE]
+**Setup** for doll studio gauntlet
+Rufus: Gung/Sophia, 2 Lone, 3 Rev, 6 Act2, 7 Crescent R
+_Lapis: Infinity/Kaleido??
+__Swin: Chev/Scorpio, 1 Break UR, Rage, Enchant, Calv SR
+___Naida: Mura/Morg, 7 Storm
+Renne: Gloom/Morg, 2 Wind, 4 Ixion, 5 Cut2, 6 Cast2
+
+Equip: Rufus Nord/Kage, Knight/Proxy
+  Lapis Five Dyed, Knight x2
+   Swin Nord/Kage, True Awake, Helios
+    Nadia Kage, Selene, Renne Kage, True Solemn
+    
+Team: Lapis out for Renne
+  Tag Lechter
+Formation: Lapis behind Rufus
+
+Head down hallway for boss gauntlet
+
+[PAGE]
+**Dolls 1**
+Rufus Saintly self
+Lapis Brave Seed if low on BP (how low?)
+SBreak Lapis then Rufus
+
+**Dolls 2**
+Rufus Saintly Lapis
+Lapis Zeram Powder
+SBreak Lapis then Rufus
+
+**Dolls 3**
+Rufus cast something long (delay)
+Lapis Zeram Powder
+SBreak Lapis then Rufus
+
+[PAGE]
+**Emperor 1**
+Swin Fool's, Saintly on Nadia
+Nadia Ixion x2
+Swin marks and SBreak (can skip SBreak if arts link)
+
+**Emperor 2**
+Swin Analysis order, UF Arts
+Rufus Crescent, Naida/Renne Ixion
+On break, Dark Req and spam Ixion
+  Rufus can BP craft, Swin marks
+Phase 2, Analysis order again
+UF Arts, Swin/Rufus SBreak as needed to break
+Spam Ixion till 100k then SBreak to end
+Aim for 2BP when done
+
+[PAGE]
+
+**Setup**
+Team: Lloyd, Agate, Tita, Wazy
+Lloyd: Infinity/Sophia, 4 Burst, 6 Calv SR, 7 Break UR
+_Agate: Chev/*, 2 Lone, 4 Rev, 7 Tearal UR
+__Tita: Mura/Gung, 1 Shin R, Lone
+___Wazy: Morg/*
+Tio: Gloom/*
+_Alisa: */Mura
+__Sharon: Gung/Infinity
+
+Equip: Lloyd Kage, Glad Belt/Silvery
+  Agate/Tita Five Dyed, Knight x2
+  Wazy Kage, Solemn/Selene
+  
+Through door to start fight
+
+[PAGE]
+**McBurn**
+Aeon shield before McBurn's turn
+Lloyd Burning, Impassion self
+Agate Wild Rage if able (half?), else LaForte
+Wazy Saintly self, Tita long arts (delay)
+
+Lloyd Burning to 5BP, Blast Force
+SBreak all but Lloyd
+Lloyd Burst, UF Atk
+
+Burning Heart/Raging Hammer loop to 90CP
+Burning Heart, Cherubic Smile, SBreak others
+
+Brave Seed or Burst/EP2/Burning/Burst/Seed
+
+Raging, Burst, Raging, UF Atk
+Burning Heart/Raging Hammer loop to 90CP
+Cherubic Smile, SBreak others to win
+
+[PAGE]
+
+IT'S ALL ON FIRE
+
+Finish up act, ready for Act 4
+END OF ACT 3
+
+[PAGE]
+
+Lloyd start, then into Reverie
+Turn in quests
+Upgrades: BP Max, Tag 5, Powder x1
+
+Swap to Rean, select Kurt
+Rocks for 1AG
+Zone 2, 1 chest, right for Holy
+Into Mishelam, walk to main area, scene
+FT Center, accessory shop -> Mishette x6
+
+Swap to Rufus
+
+[PAGE]
+## Rufus Act 4 Start
+
+**Shopping**
+Trade: Queen Mishette max
+
+**Setup**
+Rufus: MQ off, Chev/Magius, 2 Act3, 3 Rev, 5 Holy
+_Renne: Magius/*
+__Swin: Gloom/Gung, 1 Break UR, Calv SR, Lone, 
+      Act3, Adamant SR, Cast3
+___Nadia: Morg/Magius
+Lapis: Mura/Gung, 1 Lone
+
+Equip: Rufus Queen x2
+ Renne Kage, Queen x2, Swin Queen/Knight
+  Nadia Queen x1, Lapis Knight/auto phys
+  
+Head down trail to fight
+
+[PAGE]
+
+**EDF Soldiers**
+If 2 BP then Fool's
+SBreak Renne, Rufus, Lapis
+Swap in Swin, SBreak if needed
+
+**Duvalie**
+Saintly, spam Cross, she'll keep breaking
+Revive SCraft if needed
+
+[PAGE]
+
+Head down path, break 2 boxes at end
+
+**Arios Arios**
+Rufus SBreak ASAP, SBreak again if revived
+Fool's, UF Atk
+SBreak rest
+One of Rufus or Nadia should get to revive SBreak to win
+
+Boxes in first room for full AG
+Zone 3, chest across from last switch, Pyre
+
+**Setup**
+Team: Swin, Renne, Rufus, Nadia
+  Tag Wazy
+Swin: */Sophia, 3 Burst R
+__Rufus: 5 IxionR
+Equip: Swin Knight->Silvery
+Formation: Nadia/Renne/Rufus group front, Swin behind
+  Link **Rufus/Swin**
+
+[PAGE]
+
+**Emperor 1**
+If Swin before Emp then Testament with 2nd
+else Testament ASAP
+
+Swin Adamant
+Nadia/Renne/Rufus Ixion spam for rest of fight
+Swin UF Arts on next turn
+SBreak Nadia/Renne if needed (not low HP)
+
+**Emperor 2**
+Swin Wailing, Fortuna
+Nadia/Renne/Rufus Ixion, these should break
+
+Swin Burst UF Arts, Adamant
+Testament with Adamant up
+Nadia/Renne/Rufus Ixion spam
+
+Swin Chrono Drive if chance
+Swin SBreak on Enhanced (remove shield)
+
+Continue Ixion spam until next Emp turn
+If not dead SBreak everyone before turn
+
+[PAGE]
+
+## Lloyd Act 4 Start
+
+**Setup**
+Tag Tita
+Lloyd: Mura/Gung, 2 Burst R, 4 Calv SR, 6 Act3, Break UR
+_Noel: Gloom/Gung, 5 Rev, 7 Lone
+Equip: Lloyd Queen/Knight
+  Noel Nord/Five, Knight x2
+
+Run path into tunnel for fights
+
+**Fight 1**
+SBreak both
+
+**Setup**
+Powder Lloyd, Capsule Noel
+
+**Fight 2**
+Burst Brave Soul, Blast Force
+SBreak both
+
+[PAGE]
+Back into inn, **Rest**
+Left to mayor house
+  Guy by books for Brave, then scene
+FT Entrance, Mach shop scene
+Left out of shop, Randy scene
+
+**Setup**
+Team: Towa out for Mach
+Lloyd: Infinity/Geo Soph
+_Randy: Mura/*, 6 Rev, Lone
+___Mach: Chev/Thor, 2 Lone
+Towa: Morgan/Magius
+Equip: Lloyd Knight to Silvery
+  Randy Five, Knight x2. Mach Five, Helios
+  
+Run down tunnel for fight
+
+[PAGE]
+**Helmord** (but bigger?)
+Lloyd Burst, Blast, UF Atk
+SBreak others
+Burning, Burst, Powder team
+Burning, Blast
+SBreak others
+Powder, Randy/Noel SBreak
+UF Atk, SBreak Lloyd/Mach
+
+[PAGE]
+Break 2 rocks on way
+
+**Scary Ghosts**
+UF Atk, Mach SBreak
+  If Mach can't then Lloyd or swap in Joshua
+
+Zone 1, chest by altar, Dom
+Break a pot along the way
+Zone 3, chest just before exit, Brave
+
+Switch, into last room for setup
+
+[PAGE]
+**Shopping/Setup**
+Unequip Noel/Mach Lone, Joshua 1246
+Quartz: Aerial x2, Cross x2, Faint x2
+Str Quartz: Aerial x2->SR, Cross->R, 
+  Faint x2->lvl3
+Trade: Rev, Lone, Dom x2
+  If short UMats then just one Dom
+
+**Setup**
+Team: Mach out for Estelle
+_Randy: 4 Dom
+__Noel: Sirius/Aegis, 5 Rage, 7 Dom
+___Estelle: Gloom/Kusa, 3 Rev, Dom, Lone
+Equip: Lloyd Silver to Proxy, Noel Energy/Helios, 
+  Estelle Five, AutoPhys
+
+[PAGE]
+Lloyd Burst, Blast, UF Atk
+SBreak others
+Burning, Powder, Blast
+SBreak others
+UF Atk, SBreak Lloyd
+
+[PAGE]
+## Rean Act 4 Start
+Shop: Sell Mass/Dragon, Buy Passion on Fie
+
+**Setup**
+Rean: Mura/Kusa, 1 Dom, 3 Rev, 7 Lone
+_Juna: Sirius/Aegis, 1 Rage, Evade3, Cut2, Burst, 6 Act3, Cut3
+__Fie: Kusa/Gung, 7 Dom
+___Laura: Kaleido/Chev
+Celine: Reg/Geo Soph
+_Crow: Magius/Morg, 1 Holy, Cast3, BurstR, 5 Act3
+__Kurt Gloom/Gung, 4 Break2, Rev, Lone, Dom
+
+Equip: Rean Knight x2,
+  Juna **Gunner** Nord/Kage, Energy/Helios,
+   Fie Five, Glad Belt, Laura Proxy x2
+    Crow Kage (Nadia), Queen x2 (Renne/Rufus),
+      Kurt Five, Knight x2
+Formation: Crow TL, Juna Front, Fie BL
+Tag Tita
+
+Head right to Residential to advance
+
+[PAGE]
+**EDF Soldiers**
+Rean/Kurt SCraft
+
+**Big Robot**
+Link Burst on Juna counter critical
+Raging Fire, UF Atk
+Rean/Kurt SBreak, Juna SBreak last
+
+[PAGE]
+FT Mish Center, run into park
+Horror Coaster, don't need to play
+FT MWL Center, Ferris Wheel, FT Mish Center
+  Left for shop -> Midnight Gown x2 onto **Crow**
+FT Hotel, **Rest**, FT Lakeside
+
+**Gargoylorus**
+Wait for turn, Blast Force
+Rean/Kurt SBreak
+
+FT Hotel, **Rest**, FT MWL Entrance
+**Setup**
+Formation: Crow TL, Fie BL
+
+**Mecha Mishy**
+Crow/Juna swap in Fie, Concealing
+Juna Burst, Blast, UF Atk
+Rean/Kurt SBreak, Fie SBreak last
+UF Atk, Juna SBreak (70K)
+
+[PAGE]
+
+Zone 1, chest on first left, Passion
+  Break 3 vases for 1.5AG/some CP
+  
+**Shadow Fight 1**
+If <64 CP then Raging for extra
+  Might need Juna to Raging, Burst for that
+Blast Force, UF Atk
+SBreak Kurt/Rean to break, Fie finish
+
+Break more vases 2AG, assault attack useful
+
+**Shadow Fight 2**
+Juna Burst, Blast, UF Atk x2
+SBreak Kurt/Rean, Fie and then Juna if needed
+
+[PAGE]
+
+Break more vases, 2AG
+
+**Shopping**
+If Juna out of EP, **Rest**
+Item: Smoke Grenades x11
+Quartz: Lost Gen, Cross x2
+Str Quartz: Cross R
+Trade: Black Bell, Lone Blade (into Dom if skipped)
+  If low UMats then Black Bell can wait
+**Rest**
+
+**Setup**
+Laura over Fie
+Cold Heart Crow
+
+Break mirror to advance
+
+[PAGE]
+
+**Rean and Zoa**
+Juna Burst (or Rean if he first)
+  Blast Force, UF Atk, SBreak all but Juna
+Juna swap out for Crow
+
+Crow Burst, Blast, UF Arts (breaks robot)
+Crow Azure, Burst, Cross
+Cross spam
+
+Can Azure/Burst to get Cross out ASAP if delay looks bad
+If both enemies alive and not delayed can burst
+  to Capsule Rean or Kurt for help (100k AoE)
+  
+END OF ACT 4
+
+[PAGE]
+
+## Crossbell Liberation
+**Setup** Lloyd - only Lloyd fast
+Team: Lloyd, Agate, Estelle, Rixia
+Agate: Mura/*, 2 Lone, 4 Dom
+_Estelle: 4 Lone, Dom
+__Rixia: Gloom/Gung, Lone, Dom
+Equip: Lloyd Kage, Agate Knight x2
+  Estelle Knight x2, Rixia Passion x2
+
+**EDF Soldiers**
+Agate/Rixia SBreak
+
+**Helmord**
+Lloyd Burst, Powder, Proud, UF Atk
+SBreak to win
+
+[PAGE]
+**Setup** Rufus - steal from Juna, Swin/Lapis fast
+Team: Swin, Duvalie, Rufus, Arios
+  Tag Tita
+Swin: Temp/*, Break UR, Calv SR, Enchant, 6 Scent
+_Duvalie: Sirius/Scorpio, 3 Dom Lone
+__Rufus: Mura/Gung, 3 Rev Dom, Lone
+___Arios: Gloom/Gung, 2 Lone Rev Dom
+Lapis: Moe/Sophia, Burst, Action3
+_Nadia: Infinity/Scorpio, 2 Burst
+Equip: Swin True Awake/Energy, Duv Five, Helios/Passion
+  Rufus Five, Knight x2, Arios Five, Passion/Knight
+    Lapis Kage, Queen/Silvery, Nadia Kage off (stolen?)
+
+**EDF Soldiers**
+Arios/Rufus SBreak
+
+[PAGE]
+
+**Setup** Rufus continued
+Lechter: */GeoSoph
+_Claire: Aegis/*
+    
+**D-Bestial**
+Swin swap in Nadia
+Burst, Capsule, Blast, UF Atk
+Arios/Rufus SBreak, Duvalie/Nadia SBreak
+
+[PAGE]
+**Setup** Rean - steal from Juna/Kurt/Swin/Estelle, they done
+Team: Rean, Gaius, Crow, Ash
+Gaius: Reg/GeoSoph, 2 Calv SR, 4 Act3, 6 Break UR
+_Crow: 1 Black Bell, 7 Lost
+__Ash: Sophia/Scorpio
+
+Equip: Gaius Kage, Knight/GladBelt
+  Ash Five
+  
+Party select: Rean, Crow, Gaius, Mach, sub Laura
+
+**EDF Soldiers**
+Gaius SBreak ASAP
+Blast Force, UF Atk, UF Atk
+Mach/Rean SBreak to end (watch targets)
+Gaius needs 100CP, should have
+
+[PAGE]
+Setup before next zone:
+Team: Gaius, Crow, Towa, Laura
+
+**Helmord**
+Let enemy hit once, then Gaius SCraft
+Crow link with Towa
+  Azure, Blast Force, Lost spam
+Towa/Laura SBreak
+Gaius Golden if  **has HP**
+
+Team: Gaius, Crow, Ash, Laura, Tag Tita
+
+**Asmodyme**
+Let Crow get hit, Gaius SCraft
+Crow Azure, Blast, Lost
+Ash UF Arts, Laura pass turn
+Spam Lost, others attack for BP (broken)
+
+[PAGE]
+
+**Rufus vs Rufus**
+Lapis Burst, Spirit, swap Duvalie
+Duvalie move in close to team
+Rufus cast something
+Claire/Lech, swap Arios and cast something
+Claire/Lech swap Nadia, Burst Capsule
+Nadia swap Lapis, Burst, Power Pot, Blast Force
+SBreak all but Lapis (breaks)
+Capsule, Burst, Brave Seed, Blast
+SBreak all but Lapis
+Powder, SBreak all
+
+[PAGE]
+**Setup**
+Team: Gaius1, Crow2, Rufus, Arios3, 
+  Laura1 sub, Tita tag
+  
+**Rufus and Ilya**
+Let Crow get hit, Gaius SCraft
+Crow Azure, Blast, Lost spam
+Arios UF Atk
+Rufus UF Atk
+Arios/Rufus SBreak
+
+Blast Force refresh
+Gaius Golden for CP
+Crow spam Lost to win
+Gaius SBreak before turn if needed
+
+[PAGE]
+## Final Preparations
+Nevermind, we don't do any preparations anymore
+Just head to the final dungeon
+  
+FT Orchis Tower (red point)
+Run to roof, proceed to "final" dungeon
+
+[PAGE]
+## Retributive Tower
+Team build: First two rows all
+  Claire, Duv, Sharon AND Laura at bot
+
+**Setup**  
+Team: Lloyd, Estelle, Laura, Wazy, Rufus/Agate sub
+Lloyd: Infinity/*, 7 AutoSpeed
+_Estelle: Gloom/*, 3 Strike3, Lone, Dom
+__Laura: Geo Soph/Scorpio, 3 Rev, 5 Dom, 7 Lone
+___Wazy: Mura/*, 2 Mind3, Lone, Rev, Dom
+Rufus: Thor/Scorpio
+_Agate: Scorpio/Thor
+Equip: Lloyd Queen (Renne), Estelle Passion x2 
+  Laura Knight/Helios, Wazy Midnight/Kage (Kurt), Queen x2
+
+Run to team swap, after elevator
+
+[PAGE]
+**Setup**
+Team: Gaius, Crow, Ash, Celine, Rean sub
+
+Run to next team swap
+Lloyd 2, chest stick left at T after speech, Ore
+Gaius 2, chest to left before exit, Carn gem
+
+Lloyd 3, chest on left just after door2, Zeram
+  Chest, left after switch, Argem
+  Chest, right before long hallway, Astral
+  
+**Shopping**
+Upgrade: Estelle Qilin, Laura +3,
+  Rufus +3, Agate as much as can
+Turn in quests
+
+**Setup**
+__Laura: 1 DCarn (Auto)
+___Wazy: 6 DArgen (Auto)
+Equip: Estelle Qilin
+
+Exit zone for party swap
+
+[PAGE]
+Gaius3, chest first right, Nohval
+
+**Shopping**
+Slot: Crow all but water, Ash 2-2, 3-1
+
+**Setup**
+_Crow: 1 Seven UR, 6 DNohval, 7 Holy
+
+Exit zone for boss gauntlet
+
+[PAGE]
+
+**Cubelion Telos**
+If someone eaten, Estelle or Wazy SBreak out
+If bad position, Lloyd Burst Move Brave
+Lloyd Burst, Spicy, Burning
+  Burst, Spicy, Burning
+Avalon, SBreak others w/ Laura last
+Powder, SBreak others (Avalon if eated)
+
+**Melphegor Nix**
+Let Crow get hit, Gaius SCraft
+Crow link w/ Ash (maybe already done?)
+Crow Burst, Brave Soul, Azure
+  Blast, Seven spam
+Ash UF Arts, Celine Nine for BP
+Gaius Golden Howl for CP
+Crow Seven till win
+
+[PAGE]
+
+Team: Sub Lloyd, Rean, Rufus, Agate2 
+  Gaius4, Crow4, Celine4, Ash3
+XP drops to max level for mech fight
+  Crow, Ash to 133ish, Rean, Rufus, Agate (leftovers)
+
+
+**Mean Rean**
+Get hit once, Gaius SBreak
+If Crow debuff then Burst first
+  Azure, Blast, Seven spam
+Celine Nine Lines as needed for BP
+Ash UF Arts
+Gaius Golden Howl, SBreak more delay
+Refresh Blast, continue to Seven spam
+
+[PAGE]
+
+**Mech fight 1**
+All craft opening
+Altina swap, Shadow
+Sara swap, Thunder
+
+Juna/Kurt Craft, Musse Spirit
+Laura buff
+Musse Unite while buff
+
+Spam attack body/craft when able
+Shadow/Thunder/Aqua with partners
+Once phase change just charge to die
+
+[PAGE]
+
+**Mech fight 2**
+All craft opening
+Altina swap, Shadow
+Sara swap, Thunder
+
+All craft round two (Rufus charge if not hit?)
+Mach in on Rufus, accel
+Rufus craft and unite
+
+Craft or attack as able
+Attack arts as able
+Should phase change soon
+
+[PAGE]
+**Mech fight 3 - 1v1 me bro**
+Defend
+Gaius, Golden Howl
+Crescent -> Finisher
+
+(Notes say if doing Zero roar, that not hand on chest)
+Mach Accel, Crescent Unbalance
+Mach Accel, Attack legs
+Mach Accel, Crescent Finisher to "win"
+
+If missed an unbalanced then
+? Art is dead ?
+Defend on Accel, into spirit and charge
+Morning Moon, Laura buff and aqua
+
+[PAGE]
+
+**Final Mech Fight**
+Phase 1 Idea
+Rufus Repair, Rean Rise open, Crow craft
+Sara Thunder, Rean Helix for seal
+Attack body, Gaius/Kurt Str Up, Unite with Rean
+Next Sara round, crafts and Helix to seal
+Juna for Rean for rest of fight
+Attack body till 5bp, Unite without Str buff
+
+Phase 2 - enhanced
+Attack body with all
+Sara use Brave, Juna/Kurt buff
+Defend with whoever is target just before attack
+DO NOT BREAK until 2nd attack is done
+Tank 2nd attack, heal to over 19k on all if needed
+Break ASAP after 2nd attack with normal attacks
+Around here swap Sara to Fie and speed buff
+
+Phase 3 - broken, kill before next enhance at 750k
+Attack until Crow with Str buff, Unite
+Rufus charge for EP, Kurt throw Brave
+Rean/Crow try to get to 760k-800k
+  Links do 55k, normal attack do 50k
+  Big crafts do 100k, smaller crafts do 80k
+Fie to Mach, accel Rufus
+Rufus Oracle into Unite for about 800k damage
+
+[PAGE]
+
+Team: Lloyd, Wazy, Laura, Estelle, Ash/Agate sub
+
+**Ishmelga** again, I guess
+Lloyd Burst, Spicy, Burning
+Burst, Spicy, Burning
+Avalon, SBreak others (Laura last)
+
+Capsule, Burning
+Avalon, SBreak others (Laura last)
+
+Capsule, Burst, UF Atk
+Burning, Avalon
+SBreak to win
+
+[PAGE]
+
+Run back through the dungeon
+Normal game done
+
+[PAGE]
+## Reverie Corridor
+Turn in quests
+Upgrade: Support1, AG3, rest on capsules
+
+**Setup**
+Team: Gaius, Crow, Ash, Wazy, 
+  Sub Lloyd, Estelle. Tag Tita
+_Crow: 1 AlbionR, 7 Astral
+__Ash: Chev/*
+___Wazy: Morgan/Magius
+Estelle: Gung/*
+__Laura: Gloom/Gung
+____Kurt: Moe/*
+Formation: Crow frontline, Wazy behind Crow, GA backrow
+  Link Crow/Ash, unlink Gaius/Wazy
+  
+Head into 4th Stratum
+
+[PAGE]
+## Fourth Stratum
+Need an AG, passive recovery enough?
+
+**Rutger and Garcia**
+Let attack, Gaius SBreak
+If BP not max, Crow Burst Soul
+Crow Azure, Blast, Albion
+Wazy/Ash UF Arts, other just Art
+Gaius Golden, Wazy SBreak
+Albion or Zeruel if Garcia down
+
+[PAGE]
+
+Run through next zones
+Rest at Orb
+
+**Ark Kaitos**
+Let attack, Gaius SBreak
+Crow Azure, Blast, Albion spam
+Wazy some Arts, Ash Brave Seed
+Gaius Golden, SBreak again,
+Wazy SBreak after cast, Ash UF Arts
+Refresh Blast, Albion spam, Gaius Golden for next
+
+
+[PAGE]
+## Fifth Stratum
+Head back to Garden
+Turn in quests
+**Unlock** the depths at sphere
+Upgrade: United Front twice
+**Setup**
+__Wazy: 1 Maville
+
+Elevator to 5th Stratum
+
+**Cao and Lau**
+Let attack, Gaius SBreak
+If BP not max, Crow Burst Seed/Soul
+Crow Azure, Blast, Albion spam
+Wazy/Ash Brave Seed and UF Arts
+Gaius Golden for next fight
+Arts clean up
+
+[PAGE]
+
+**Setup**
+_Crow: 1 Seven, 7 Holy
+
+Rest at Orb for EP
+
+**Overlord McBurn**
+Let attack, Gaius SBreak
+Crow Azure, Blast, Seven
+Ash UF Arts, Wazy Maville
+Gaius Golden, Crow Seven spam
+Gaius refresh Blast, UF Arts
+Arts spam to end
+
+[PAGE]
+## Sixth Stratum
+
+Turn in quest (right now?)
+Break 3ish boxes, need 2AG
+
+**Emperor and friends**
+Let attack, Gaius SBreak
+If BP not max, Crow Burst Seed/Soul
+Crow Azure, Blast, Seven
+Ash/Wazy UF Arts, need 6BP so Seed if needed
+Gaius Golden
+Arts spam to end
+
+[PAGE]
+
+**Rest** at orb for EP
+
+**Rose and Argres**
+Let attack, Gaius SBreak
+Crow Chaos, Azure, Seven
+Ash UF Arts, Wazy Maville
+Wazy SBreak after UF, this casts arts
+Blast after Chaos, Ash SBreak (triggers Wazy)
+Gaius Golden, Crow Seven spam
+Gaius UF Arts, arts spam to end
+
+[PAGE]
+
+Turn in quests
+**Setup**
+__Wazy: 1 Leanan's Touch
+_Ash: 5 Maville, 7 Prominence
+
+**Ilya and Rixia** dance battle
+Let attack, Gaius SBreak
+Crow Azure, Blast, Seven
+Ash/Wazy UF Arts, other some arts
+Gaius Golden
+Arts spam to end
+
+[PAGE]
+
+**Setup**
+_Crow: 1 Albion, 7 Astral
+___Wazy: Mura/Gung
+
+**Rest** at Orb
+
+**Thomas, Wazy, Gaius**
+Let attack, Gaius SBreak
+Crow Azure, Blast, Albion
+Ash UF Arts, Wazy Leanan
+Crow Albion spam
+Gaius Golden, SBreak (before Leanan)
+Wazy SBreak after Leanan
+Spam arts to end, BP is good if low
+
+[PAGE]
+
+Turn in quests
+Upgrade: Max Capsules then Powders
+FT 7th Depths
+
+**Setup**
+_Crow: 1 Pyre, 7 Mind3 (?? better arts list?)
+Lloyd: 5 Frozen Epochs
+Equip: Lloyd Silvery, Kurt Queen
+
+Rest at Orb for Wazy EP
+
+**Valimar**
+Let attack, Gaius SBreak
+Crow Burst, UF Arts, Azure
+  Blast, Zeruel
+Wazy Leanan, Ash Arts (delay)
+Crow Zeruel spam
+Wazy/Ash/Gaius SBreak after Leanan
+Art spam w/ everyone to end
+
+[PAGE]
+
+Head to final Orb
+**Shopping**
+Upgrade: Agate Lion, Laura Glorious
+  Ash if extra Ore, Estelle if still extra
+
+Turn in quests for Burst UR
+**Setup**
+_Lloyd: 7 Burst UR, 2 off, AutoSpeed
+__Rufus: 2 Act3 off 
+____Swin: AutoSpeed
+Equip: Agate weapon, Laura weapon, Ash?
+Drops for Agate, 135, and then Rufus, 146
+
+**Final battle teams**
+Team1: Ash, Agate, Rufus, Swin, Sub Kurt/Tag Letcher
+
+Team2: Crow, Gaius, Celine, Towa, Tag Tita 
+
+Team3: Laura, Wazy, Lloyd, Estelle, Tag KeA
+
+[PAGE]
+**Phase 1**
+Ash SBreak ASAP
+Swin swaps out for Kurt
+Burst, Capsule, Blade Dance
+Burst, Crimson Break, UF Atk
+SBreak others, Blade Dance
+Burst, Capsule, Fool's, SBreak others
+Capsule, SBreak others
+Fool's, Capsule, SBreak all
+
+[PAGE]
+Let attack, Gaius (**UP!**) SBreak
+Crow link with Towa
+Crow Azure, Blast, Zeruel
+Towa weaken, Celine Nine Lives
+
+Gaius Golden
+Crow Blash refresh, Gaius SBreak
+Crow Zeruel spam, Towa UF Arts
+
+Gaius Golden
+Crow Blash refresh, Gaius SBreak
+Crow Zeruel spam
+
+[PAGE]
+Not Lloyd arts to delay
+Lloyd Burst, Spicy, Burning
+  Burst, Spicy
+Avalon (Burning if needed), SBreak others
+
+Burning, Burst, Capsule
+Burning to 3BP, Avalon, SBreak others
+
+Capsule, Burst, UF Arts
+Burning, Burst, UF Atk, Smile, SBreak others
+
+Capsule, Burst, Soul
+Smile, SBreak others
+
+Burning, Burst, Capsule
+Burning to 5BP, Smile, SBreak others
+
+Capsule, SBreak others, win?
+
+
+[PAGE]
+
+You're done as the boss dies, timing stopped?
+
+TODO: Test Def down stacking on mech fight. Not a lot of extra damage but we don't need a lot more to cover damage rolls
+TODO: Towa as Crow support through TRC? Probably does more damage but then weaker Ash for final fight. Or slower Lloyd?
