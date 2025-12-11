@@ -8,7 +8,7 @@ Step 2: Die a lot
 ## Bracer Exam
 
 Home - life drop
-Town - def drop, ground mira
+Town - ground mira
 Arms - weapons for Estelle and Joshua
 
 Bracer to start quest
@@ -16,8 +16,10 @@ Bracer to start quest
 Quartz: Mind1, Act1, Hit1
 Slot: Joshua
 
-Sewers tutorial - easy with weapons
-  Save BG for tower fight, want all 5
+Sewers tutorial - tutorial fights easy
+Boss - Joshua kill front rats (they tank)
+  Always get side/back bonus on boss from crafts
+  Don't heal, just spam crafts. Reset if you die.
 
 [PAGE]
 ## Day1/2 - Tower/Poms
@@ -26,40 +28,40 @@ Item: Salt x3, Dragon Beans x1, Tenderloin x1
 Cook the recipe, 20HP!
 
 Path to tower - ground mind, ground mass
+  Break rocks, extra sepith helps
 Tower - 2nd option for 3 cats
 Cat rescue:  Morale, Joshua heal item, Flicker, 
   Morale, Hurricane, Estelle SBreak, Flicker into clean up
   
 Cut grass on way home for reward - CP for both
 
-Hotel, rest x2
-Bracer, grab quests, do kid quest
+FT Bracer, grab quests, do kid quest
   
-Highway
-Right for ground spirit
-Pom grind - fish for Estelle crit, build crit mult after Poms
-Get 220 sepith (270 Earth) and head back to shop
+Highway - Right for ground spirit, sepith chest
+Verte FT point, FT Orbal - Break1 for Estelle
+Pom grind - Estelle morale, SBreak, clean up, XP mult
+Get 170 earth/220 time and shop
 
 [PAGE]
 **Shopping** Orbal then Arms
 Exchange trick for mira
-Quartz: Def, Break, Atk, Cast, Hit x2
+Quartz: Def, Atk, Cast, Hit
 Slot: Estelle x2, Joshua x1
 Arms: Armor, shoes, 4 black bangles (10k-ish)
 
 **Setup**
-Estelle: Def1, Break1 / Hit1
-Joshua: Act1, Hit1 / Atk1
+Estelle: Def1, AutoPhys
+_Joshua: AutoPhys
   
-Fishing grind up to 6, fish for Sepith up at least once
+Fishing grind up to 6, Estelle just Pummel ASAP
 
 Stick left to farm, ground/chest drops
-Save before fight
+Turn in **rewards** and use life drops
 
 **Crop Muncher**
 Meatball each ASAP for Str
 Morale to keep str up, otherwise spam crafts
-Overdrive to clear blind
+Overdrive to clear blind, heal items as get low
 Estelle SBreak on summons once grouped
 Spam crafts to end
 
@@ -71,9 +73,10 @@ Estelle: Hit1->Cast1
 
 Bracer, next quest mayor
 Leave for mine, sepith chest on second left plateau
-  Kill 4 plants on way up, Joshua CP/monster seeds
+  Kill some plants on way up, Joshua CP/monster seeds
 Mine fights: Estelle earth spell, Joshua Flicker
-  Watch HP/EP between fights
+  Watch cast times for aiming!
+  Might need heals between fights, use orb
 
 Town: Mayor, Bracer, Hotel, Restaurant, Orbal
 
@@ -85,32 +88,32 @@ FT Bracer to start Detective Estelle!
 Vault, balcony, attic, two people, front door, report
 All 1st (don't want BP)
 FT Hotel (rest x1), Airport, run to Orbal
-Slot: Estelle 3
+Orbal: 250, Exchange **not time**, Estelle 3
 
 [PAGE]
 **Setup**
 Schera: EP2->Hit1
-Estelle: EP2 on
+_Estelle: EP2 on
 Equip: Schera Black x1 (from Joshua)
 
-Kill plants and birds for drops, 2 seeds/1 tender
+Kill Birds for drops, 1 tender
 
 **Rhino**
-Stay bit grouped for Earth Guard
-Firebolt spam till Morale up
-SBreak around 4k
+Spread out some but stay in Earth Guard range
+Firebolt spam, use Morale for str
+Break, triple SBreak w/ some str up
 
 **Monster Cave**
 Grab Zeram and out
 
-Still need seeds or tender? More fight
+Still need tender? Fight more birds
   
 [PAGE]
 **Setup**
 Hotel for full CP
-Reward turn in
-Eat Dreamy
-Save, cook Meatball and then Dreamy
+**Reward** turn in, need consumables
+Eat Dreamy, FT Mistwald (autosaves)
+Cook Meatball and then Dreamy (can miss dreamy)
 Save before fight, reload likely
   
 **Josette**
@@ -120,7 +123,7 @@ Schera SBreak ASAP, need to hit 3 adds
 Earth Guard, Zeram Schera, SBreak her again
 Zeram Schera 2nd time for CP
 Spam delay crafts, keep up Earth Guard and Morale
-Triangle formation around Josette to avoid AoE
+Triangle formation around Josette to avoid AoE after adds
 
 [PAGE]
 
@@ -129,11 +132,11 @@ Restaurant for quest, FT farm
   Chicken x2, Greenhouse, Cow
 
 FT Verte, get book
+  Kill plants to try for Seed
 Run to Bose, ground mass on right
 
 **Bose** quests/shopping
 Bracer, ground mass, mansion
-Turn in **rewards** for mira
 Market: Shoes x3, Scarves x2
   Sell: non life/magic drops
 FT out, arms then Orbal for FT
@@ -152,10 +155,9 @@ Inside mansion, restaurant: Risotto x7ish
 
 **West Highway** - quest/grind prep
 Run over bridge, swing back for chest sepith
-Rock at T, ground UMat, fight Poms if there
+Rock at T, ground UMat
 
 **Ravennue Village**
-Inn, rest x1
 Quest points in town, mayor/kid
 Right for 2 chests, recipe and Sepith
 Run down trail for quest/FT point
@@ -163,37 +165,36 @@ Run down trail for quest/FT point
 **Grind** setup
 FT Orbal
 Quartz: Cast2
-Schera: Auto higher. EP2, Cast2 / Act1
+Estelle: EP2->Mind1
+Schera: Off, Balanced, Mind2->Act1
 
 [PAGE]
 
-**Monster Cave** - Big grind
-Best fight - single Ogre, look for this for first
-  Build craft guage, group enemies. Save/load fish for sepith
-
+**Monster Cave** - Big grind, fish for sepith turns
 Single Ogre - kill queens for XP
-Triple Ogre - mobs die to just Aero Storm
-Eggs - doable but often two rounds, slow
-Birds - skip, reflect magic
-Poms - sure, break the small poms ASAP
+Triple Ogre - small mobs die to just Aero Storm
+Eggs/Birds/Poms - skip
 
 Grind until 3800 Time
 Grab **Krone Trail** FT before leaving
+  60 ground time there if just shy of 3800 time
 
-Trade in for **rewards** here, have lots
 **Shopping** Orbal
+Upgrade **armor/shoes** for Estelle/Joshua
 Exchange Trick for sepith
 Slots: Estelle/Joshua all
-Quartz: Break2 x2, Mind2 x2, HP2, Atk2 x2
-  Strike2, ADef2 x2, Evade2 x2,
-   Act2 x2, Cast2, Cut2, EP2 x3
+Quartz: Break2 x2, Mind2 x2, HP2 x2, Atk2 MAX
+  ADef2 x2, Evade2 x2,
+    Act2 x2, Cast2, Cut2, EP2 x3
+  Another Cut2 if left overs (3980 time)
 
 [PAGE]
+Did you **upgrade** armor/shoes?
 
 **Setup**
-Estelle: EP2, Evade2, ADef2, Cast2 / Mind2, Break2
-Joshua: Cast2, Evade2, ADef2, Act2, EP2 / Cut2
-Schera: Upgrade, Cast1 in empty (we stole Cast2)
+Estelle: Off, EP2, **Speed**, Evade2, ADef2 / Break2, Mind2
+_Joshua: Off, Cast2, Evade2, ADef2, **Speed**
+__Schera: Upgrade, Cast1 in empty (we stole Cast2)
 
 **Shopping** Market/Restaurant
 Clothes: Scarves x4 on Estelle/Joshua
@@ -204,13 +205,12 @@ Cooking: Egg, Milk, Sugar, Flour x100, + 10 Flour
   Cheese, Salt, Black Pepper x11, Oil x2, Tri Rice x1
 Fruit: Onion, Fresh Herb, Royal Leaf x11
 
-Eat Salad, Beast, Risotto, Sunshine
-Save, then cook
-Salad, Beast, Risotto x1, max Sunshine w/ Joshua
+Eat Beast, Sunshine, Salad, Risotto
+FT Ravennue (autosave, about to cook)
 
 [PAGE]
-
-FT Inn, rest x2
+Cooking: Beast, Salad, max Sunshine w/ Joshua
+Inn, rest x2
 Outside to cemetery, key get
 FT Abandoned Mine, run left
 
@@ -230,7 +230,6 @@ Run around airship
 Olivier: EP2, 3 Break2, 4 Act1
 Equip: Schera armor, Olivier Black x2 (or T-Anklet if drop)
 
-Rest x2 for CP
 FT Orbal and follow quest stuff
 
 Leave south for Fishing
@@ -238,8 +237,8 @@ Stay right for ground UMat
 
 **Monster Hunt**
 Open Earth and Wing for safety
-Flower Jelly Estelle/Joshua
-Aero Storm spam, Olivier Clock Up casters
+Second Wing for ATS (all Arts damage)
+Aero Storm spam, Olivier SBreak for adds
 Switch to Shadow Spear for single
 SBreak around 7k HP (10k w/ Olivier)
 
@@ -247,8 +246,8 @@ SBreak around 7k HP (10k w/ Olivier)
 
 **Fishing Inn**
 Rest x2 at inn for CP
-Cooking: Samona recipe, Samona x2
-Cook recipe with Joshua
+Shop: Samona recipe, Samona x2 - eat food
+Cooking: Samona, Risotto (if have Seeds)
 
 Hit quests, fishing all opt1 then **quit**
 More quests till leave into fight
@@ -262,29 +261,28 @@ Olivier SBreak after Clock Ex
 [PAGE]
 Heal up after each fight
   Schera/Olivier 100CP, Risotto EP all
-  Break boxes for BG on way down
   
 Long hallway 2, Door 2 for Whip chest
-Fight2: Same idea, Schera SBreak, Aero storm
+Fight2: Same idea, Schera/Olivier SBreak, Aero storm
 
 Next door for Gun chest
 Next floor down, doors 2, 3 and 5
   Get UMat, Chain Mail, Strega
-Fight3: Yup, same thing. Try leave with 5BG
+Fight3: Yup, same thing. Leave with 5BG
 
 **Setup** for Capuas
-Turn in rewards, might have drops
+Turn in rewards, have a bunch now
 Spam life/magic drops on Estelle
-Heal up again, 200CP on Schera
-Equip Joshua armor/shoes, Schera Whip
-  Olivier Gun and Stregas
+Heal up again, 200CP on Schera, 100CP Olivier
+Equip Schera Whip
+  Olivier Gun and crit armor
   
 [PAGE]
 
 
 **Capua Family** - uh oh
-Sylphen Wing, Estelle Earth Guard, 
-  Clock Ex Schera, Heaven Whip
+Sylphen Wing, Earth Guard, 
+  Clock Ex Schera, Heaven Whip if needed
 Flower Jelly, both HP and ATS up
 Spam Aero Storm with ATS up
 Olivier Earth and Flower
@@ -301,7 +299,8 @@ Just Don left fairly safe, spread out around him and Shadow
 **Chase!!**
 Run back up the hideout
 Three fights, same strategy as before:
-  Schera SBreak, Aero Storm, Clock Ex Schera
+  Schera SBreak, Aero Storm
+  Clock Ex Schera, Olivier SBreak
   
 Heal up after the fights, 100CP on Schera enough
 
@@ -315,17 +314,19 @@ Done Chapter 1!! No more grinding!
 Estelle: Break2 -> Act2
 Joshua: Cut2 -> Mind2
 
-Krone Trail - right for chest UMat and ground Time
+FT Market, buy all books
+FT Krone Trail - right ground Time and chest UMat
 
 **Dog Fight**
 Open Sylphen Wing, Agate Meatball self
 Let dogs group up fully, Agate SBreak
-Aero Storm clean up
+Aero Storm clean up/Clock Up Ex for more SBreak
 
 Walk to ocean, two chests on left
 
 **Manoria Visit**
-Enter Inn, scene
+Enter Inn, rest if Estelle needs CP, scene
+  Buy Morning Tea x5 while here for EP healing
 Leave, scene x2
 
 [PAGE]
@@ -335,36 +336,37 @@ Joshua in lead
 Clock Ex Estelle, Sylphen Wing
 Aero spam, two casts for both
 Estelle SBreak after second cast
-Joshua SBreak if needed, probably kill the shark cause almost dead
+Joshua SBreak if needed, grab XP mult if easy
 
 FT Inn, rest x2
 
-Want level 20 or really close, 1 usually enough
+Want level 19, 1 pom fight seems enough
 
 [PAGE]
 
 Seaside Way
 Left chest for magic drops, cutscene
 Stick right for ground mass, cutscene
-Get Kloe, chest ahead for UMats
+Get Kloe, back and left, chest ahead for UMats
 Two chests after beach, Zeram and Sepith
 
 
 Save as bad turn order is Kloe dead
 
 **Monsters Hunt 1**
-Sylphen Wing, start Aero Storm adds
+Sylphen Wing, Aero spam to kill flowers ASAP
+Aero Storm to clean up, Flower is ok for ATS and healing
+  Healing Joshua with Flower most useful as he protects
 Swap to Aqua for single target
 
 [PAGE]
 
 Ruan **Shopping** - Arms/Orbal
-Arms: Weapons for both, Vest for both, Spikes Joshua,
-  Cool x1, Skull x6
+Turn in **rewards** for UMats
+Arms: Weapons for both, Cool x1, Skull x6
 Hotel for FT point
-Quartz: Cast2, EPCut2 (if only have 1)
-Upgrade: Armor, Shoes, Skull x3, Cool x1
-Item: News 3 and 4
+Quartz: Cast2, EPCut2 (if only have 1 which is common)
+Upgrade: Skull x3, Cool x1
 
 **Setup**
 Estelle/Joshua: Skull+
@@ -372,7 +374,7 @@ Estelle/Joshua: Skull+
 [PAGE]
 
 **Ruan Runaround**
-Run to Bracer, Bridge, Warehouse
+Run to Bracer, Bridge, Warehouse scenes
 FT South, cutscene, FT Bracer
 Pick up ground drop, FT Hotel
 Hotel upstairs, then downstairs
@@ -389,7 +391,7 @@ Continue Aero Storm spam, Estelle SBreak to clean up
 
 [PAGE]
 **Setup**
-Kloe: Act1, Cast2, EP2 in non Blue
+Kloe: Off, **Speed**, Ruby -> Cast2
 Equip: Kloe Skull+/Colorful
 
 FT Bracer, FT out
@@ -405,7 +407,7 @@ FT out, Headmaster, Cafeteria
 
 **Shopping** at Festival
 Right stall: Royal Crepe x41
-Cafeteria: Jenis lunch x24
+Cafeteria: Jenis lunch x16
 
 Professor x2, downstairs
 Old schoolhouse, upstairs on right
@@ -418,9 +420,10 @@ CP heal Joshua to 100CP if not already there
 Joshua SBreak ASAP, Kloe Clock Ex him
 Sylphen Wing, Royal buffs to all
 Aero Storm till adds down
-Refresh Sylphen Wing around adds down
-Spam water arts to clean up
+Refresh Sylphen Wing around adds down (watch EP)
+Spam water arts to clean up, SBreak if needed
 
+Potential cooking if didn't get Seeds earlier
 Run to Manoria, Inn upstairs
 
 **Setup**
@@ -428,16 +431,17 @@ Agate: Hit2 -> Break2
 Equip: Agate Skull/Colorful
 
 Lighthouse walk, ground UMat by tree on right
-Lighthouse FT point then FT Inn, rest x2
+Heal up to 100CP if needed w/ Jenis
 
 [PAGE]
 **Lighthouse Gauntlet**
 Royal up everyone but Kloe
 Aero Spam for adds, Agate SBreak (aim for leader)
+Joshua/Estelle SBreak after Aero and leader broken
 Kloe Clock Ex Agate, Wild into more SBreak
 Swap to Shadow Spear for single target
 
-Heal up after each fight, full CP
+Heal up after each fight, 4 Jenis
 
 Same thing for fights 2/3
 Setup needed for Special Ops
@@ -450,16 +454,19 @@ Full heal CP/EP
 
 **Special Ops 1**
 Clock Ex Kloe, Aura for evade/HP regen (counters)
+  Still Sylphen Wing, 5 turns of ATS up
 Royal buffs on all but Kloe, Agate SBreak
 Kloe Clock Ex Agate, if low feed Steak (HP/CP)
 Kloe aura again then SBreak around rage
-Clock EX anyone who SBreaks
+Clock Ex anyone who SBreaks
 Spam Aero Storm, Agate SBreak till dead
 
 
 [PAGE]
 FT Inn, rest x2
 FT Ruan x2 (until Bracer), FT South
+
+**Cooking**, might have got more monster seeds
 
 **Setup**
 Estelle: Wind to Water (Blue Impact)
@@ -474,8 +481,9 @@ Royal Buff for full ATS
 Cluster around them once in corner
 Spam Blue Impact, Clock Up Ex helps connect once grouped
 
-Long fight, will need to reapply Sylphen Wing, maybe twice
-Kloe aura also useful for Foresight, low delay
+Long fight, will need to reapply Sylphen Wing
+  Multiple attacks remove Foresight, reapply ASAP
+  Kloe aura also useful for Foresight, low delay
 Kloe SBreak if Joshua low, especially during Rage
 Clock Ex if Kloe SBreaks
 
@@ -486,7 +494,7 @@ Swap to Shadow Spear/fire for Joshua on single target
 
 ## Chapter 3
 
-FT Item shop: News 5/6
+Walk to Item shop: News 5/6, book
 **Setup**
 Equip: Joshua Colorful
 
@@ -498,6 +506,7 @@ Left branch, ground UMat and chest UMat
 
 Tutorial fight: Wing then Deathblow fish, Joshua craft/Estelle Shadow
 **Rewards** for Cast3? Clock Up Ex spam in fight to hit that/get close
+  You'll have Cast3 if you died and retried any fight (retry keeps count)
 
 Right chest EPCharge before healing orb
 Tita fight: Tita SBreak mainly finishes, one other AoE
@@ -507,16 +516,15 @@ Leave cave
 
 **Zeiss Runaround**
 Leave Factory, Bracer Guild
-**Shopping** Arms: Weapons, Craft shoes
+**Shopping** Arms: Weapons, Craft shoes for Joshua
 Hotel, rest x2
 FT Factory, lobby, 2F, FT out, Tita house
 FT Bracer, FT Factory, 3F, 5F, Basement
 FT City, Airport - ground UMat, FT Factory
 
-**Rewards** - Cast3 now or after next fight
 **Shopping** Orbal at factory
-Quartz: Break3, Mind3 x2, Atk3, Hit3
-Upgrade: Act3 (J), Skull, Craft shoes
+Quartz: Break3, Mind3 x2 (one ok), Atk3, Hit3
+Upgrade: Act3 (E), Skull, Craft shoes
 
 **Setup**
 Estelle: Wind on left, Cut2 mid, Mind3 right, Cast3 top
@@ -535,7 +543,7 @@ Aero spam, Joshua SBreak again
 
 FT town, shed, FT inn
 **Shopping** Inn: Monster Fish x5
-hot springs
+Hot springs
 FT Zeiss, FT Zeiss, run into factory
 3F, 5F, FT Factory, leave
 
@@ -550,22 +558,23 @@ Left for chest UMats
 Stay left for chest EPCharge3
 
 **Dogs again**
-Sylphen Wing, Royal buff Joshua
-SBreak Joshua, Clock Ex him
-Aero spam, Royal buff Agate SBreak once
+Sylphen Wing open
+Royal Joshua, SBreak for delay
+Royal Agate, SBreak for damage
+Clock Up Ex Agate, more SBreaks
 Aero clean up
-
-FT Hotel, rest x2
-
-**Tower climb**
-Tower 3F chest, UMats
-Tower 4F chest, Zeram
-Tower 5F right chest, Mind3
 
 **Setup**
 Joshua: Evade2 -> HP2
 Equip: Joshua Skull+
 Rewards, Estelle magic drops
+
+FT Inn, rest (hot springs 200CP)
+
+**Tower climb**
+Tower 3F chest, UMats
+Tower 4F chest, Zeram
+Tower 5F right chest, Mind3
 
 [PAGE]
 **Special Ops 2**
@@ -574,8 +583,7 @@ Royal buff Agate and Estelle
 Joshua Clock Ex Agate, healing otherwise
 Agate Wild Rage, then item (HP/EP) someone, SBreak
 If triple rage: defend/quick Joshua/stay alive
-SBreak away if can kill the two sword guys
-
+SBreak away if can kill the two melee guys
 
 [PAGE]
 
@@ -583,8 +591,7 @@ FT Crimson, walk back
 FT Zeiss, church, FT Bracer
 
 **Setup**
-Estelle: Act2->3
-Joshua: ADef2, Evade2, Act2
+Joshua: ADef2, Evade2 (left slots)
 Tita: Def2->EP2 (Clock Ex)
 Zin: HP2->Sweet, Auto Up Atk3
 Equip: Joshua Colorful, Tita Skull+, Colorful
@@ -600,12 +607,14 @@ Left branches for 2 chests, Sepith/Zeram
 
 [PAGE]
 **Pengus**
-Another messy fight, work on this a bit more
-Sylphen Wing, Taunt, Royal buff open
-Aero Spam, Zin Monster fish for extend str?
+Sylphen Wing, Royal buff open
+Aero Spam, Zin heal or hit boss
 Need to not let boss do ultimate
-SBreak everyone with Str buffs at right time. Can we line up break nicely?
-40k when broken looks doable, maybe keep someone to Zeram Zin if low
+Morale w/ Estelle to keep Str up
+
+Goal is to break boss w/ str up on everyone
+Should be able to do 50k w/ SBreaks to end
+
 
 [PAGE]
 FT Zeiss, church, FT Factory, 4F
@@ -620,9 +629,9 @@ Get gate FT point, ground UMat in corner
 
 FT back to fort road, stay left chest Zeram
 Hit scenes at Fortress
-FT Hotel, rest x2
+FT Inn, rest (200CP from Hot Springs)
 
-Run Tita house, FT Bracer, run airport
+FT Hotel, Run Tita house, FT Bracer, run airport
 Airship top floor, outside, in box
 Run right to target
 
@@ -632,31 +641,37 @@ Run right to target
 Sylphen Wing, Royal buffs as usual
 Aero spam, Agate SBreak
 Tita Clock Ex herself (speed)
-Tita Clock Ex Agate or heal cannon as needed
-SBreak spam to close out good
+Tita Clock Ex Agate
+
+Can kill fairly fast if they stay grouped
+  Break both at same time and use turns while broken
+  Then all SBreak just before unbreak
+Otherwise aim to quickly kill one for safety (double rage bad)
+
 
 [PAGE]
 
 Run inside, scene
 Run to other building, avoid battle!
+  Seriously, avoid battles. Can't run from them.
 Downstairs, front door, back room
 Boat to end
 
 [PAGE]
 
 ## Chapter 4
-Walk to airport, scenes, walk out
+Walk to shop, buy **books**
+FT out, walk to airport, scenes, walk out
 FT to gate, scenes
 Rest x2 at gate
 Right past city for ground UMat
 
 **Grancel Runaround 1**
 Food stand: Royal Crepe x21
-Arms: Weapons, one Shield coat Estelle
+Arms: Weapons
 Grab west FT point
-Orbal: Cast3, Upgrade weapons, Shield coat
 Bracer, East block FT, Castle
-Market: Blue Sphere, News 7/8
+Market: Sell drops/weapons, Blue Sphere, News 8
 Arena, watch fights, waiting room
 Tavern, Calvard
 
@@ -666,26 +681,31 @@ Tavern, Calvard
 FT to gate, chest by cave, cave loot
 Run past Zin find, ground UMat
 Fight 1: Aero or Estelle SBreak
-Fight 2: Joshua SBreak ASAP, clean up
+Fight 2: Joshua/Zin SBreak ASAP, Aero clean up
 
 Go to sleep, get full party
-Olivier: EP3, Cast3, Sweet, Heal, Ruby
-Turn in rewards
+
 
 **Grancel Shopping**
 Arms: Weapons for guests
+Quartz: Cast3
 Slot: Olivier
-Upgrade: UMat+, Cast2->3 (UMat+), Blue Sphere, Olivier gun
+Olivier: EP3, Cast3, Sweet, Heal, Ruby
+Turn in rewards (Fury!)
+
+Upgrade: UMat+ (12), Cast2->3, Blue Sphere+
+  Estelle/Joshua/Zin weapons
 
 [PAGE]
 
-**Setup** - big one
-Joshua: EP2->Cut2 / Mind2
+**Setup**
+Joshua: EP2->Cut2 / Mind2 (or Mind3 if bought 2 in Chap3)
 Zin: Auto upgrade, HP2->Sweet
-Olivier: Cut2, Evade2, Mind3, Fury
+Olivier: Off, **Magic**, Evade2, Cut2 on last two
 
-Equip: Joshua Metal+, Zin Skull+/Colorful
-  Olivier Skull+/Blue+
+Equip: Estelle/Joshua Metal/Craft as needed
+  Zin Skull+/Colorful
+    Olivier Skull+/Blue+
 
 Rest x2
 
@@ -708,11 +728,13 @@ FT Hotel rest x2
 FT East, arena, waiting room
 
 **Tournament 2** - Bracers
-Sylphen Wing, Zin Taunt, Royal buffs
+Sylphen Wing, Royal buffs
 Anti Sept All after enemy buffs
 Olivier corner, Aero spam
-Clock Ex Olivier at least once, he strong
+Need Olivier to eat some counters, no SBreak till <50% HP
 As enemies start to break spam SCrafts, one Zeram fine
+  Olivier hits hard, consider Clock Ex after his SBreak
+Kurt must die! He revives for 30k HP
 
 [PAGE]
 West -> News, Bracer, go to room
@@ -722,9 +744,10 @@ At hotel, rest x2
 FT East, arena, crowd talks
 
 **Tournament 3** - Special Ops
-Sylphen Wing, Zin Taunt, Royal buffs
+Sylphen Wing, Royal buffs
 Olivier corner, Aero spam
-Clock Ex Olivier at least once, he strong
+Need Olivier to eat some counters, no SBreak till <50% HP
+  Olivier hits hard, consider Clock Ex after his SBreak
 As enemies start to break spam SCrafts, one Zeram fine
 
 [PAGE]
@@ -738,17 +761,20 @@ Finish up scenes
 **Grancel Super Runaround**
 Sunny, quest and Mixed Cocktail x99
 FT Arms quest
-FT out food stall -> Royal x21, Gorgeous x5
-Market quest
+FT out food stall -> Royal x11, Gorgeous x5
+Market sell weapons/quartz (Def3, HP2, Atk2, EP2)
+  Get all books then finish Market quest
 Hotel Rest x2, quest upstairs
-News for quest, coffee shop -> Artisan Rice max
+News for quest, coffee shop
+  Talk for weapons, buy Artisan Rice x20+
 Church, Bracer x2
 
 [PAGE]
 
 **Setup**
-Estelle: Fury and Blue+
-Life drops Estelle
+Estelle: Weapon/Blue+, Fury
+_Joshua: Weapon
+Use drops on Estelle
 Eat food for CP/EP between fights
   
 **Villa Storm**
@@ -766,48 +792,50 @@ Save princess
 [PAGE]
 
 **Team split** - guys
+Maybe **buy** more Royals if low
 FT East for sewers
 Left, right door, right T
   next left, next right
-At FT midpoint, FT rest x2
 Chest after big toad, Sepith
 
 **Team split** - girls
-Sepith exchange trick - for first 4
+Sepith exchange trick - for Earth/Water/Wind
 Slots: Kloe
-Quartz: Cast3 /  Strike3, Mind3, ADef3 as able
+Quartz: ADef3 x2, Cast3
 Shop: EPCharge3 x11, Thelas Balm x11, Curia x11
 
-Kloe: Mind3, Cast3, Cut2, Heal, Act2, ADef3 
-_Schera: Evade3, Cut2, ADef3, Cast2 / Act2 
+Kloe: Off, **Speed**, Atk3 -> Cut2
+_Schera: Off, **Magic**, Mind3 -> Cut2 / Act2
 ___Olivier: ADef2
 Equip: Zin/Olivier Skull, Colorful
   Kloe/Schera: Skull+, Colorful  
 
 [PAGE]
 
-Olivier La Tear before fight
+Heal up HP/CP
 **Special Ops** - Guys fight
 Sylphen, Zin give out food
-Aero Storm spam, Zin eat food to tank
-Zin SBreak as Rage, Zeram him is fine
+Aero Storm spam, Zin heals self/others
+Zin SBreak as Rage, Zeram him is fine to win
 
 **Kanone Fight** - messy
 Sylphen Wing, Royal buff as usual
 Aero Storm spam, break the adds
-  Try to kill adds during break, SBreaks ok
-Kloe SBreak when Kanone rages
-Refresh Sylphen Wing after first Rage
+  Want Estelle to eat some counters here for Fury
+  Want to keep Estelle low, try to avoid Kloe SBreak
+Long fight, refresh Wing around first Rage
 Mixed Cocktails good for EP/ATS buff
+Comet good for single target spell, walk out of bigger spell
 
 [PAGE]
 
-Heal up between fights with food, CP/EP full
+Heal up between fights with food
+  100 CP for SBreaks, full EP (use EP3s)
 
 **Fight 2/3/4**
-Sylphen, food buffs
+Sylphen, food or another Sylphen
 Aero Storm spam
-Kloe SBreak as needed, when rage is good time
+Kloe can SBreak if needed
 
 [PAGE]
 
@@ -816,17 +844,23 @@ lol, just die
 
 [PAGE]
 **Final Dungeon!!**
-Schera and Olivier, team drinking?
+Schera and Zin
+
+Turn in **rewards** for more UMat+
 
 **Shopping**
-Sepith Exchange trick last three
-Quartz: Death Blade, Mute Blade x2, Impede3, Chaos Blade
+Sepith Exchange trick remaining types
+Quartz: Strike3, Death Blade, Mute Blade x2, Chaos Blade x2
+Equip: Armor x2, Shoes x2 (EJ), 
+    Flame Zippo x4 (EZ), Red Sphere x2 (J)
+Upgrade: Armor, Zippos
 
 **Setup**
-Quartz: Unequip Zin, Tita, Agate
-Joshua: Unequip, auto phys, Cast3 -> Act3
+Equip: Zin crit armor
+Quartz: Unequip Tita, Agate, **Estelle**
+Joshua: Unequip, auto phys, Cast3-> Act3, Chaos -> Cut3
 _Estelle: Unequip, auto phys, Fury -> Strike2
-__Olivier: Unequip, auto magic, Impede3, Atk3 -> Strike3
+__Zin: Unequip, auto phys, Fury -> Strike3
 ___Schera: Unequip, auto phys (take whatever)
 
 [PAGE]
@@ -845,22 +879,18 @@ Heal up CP/EP
 Did you **heal**? CP/EP
 
 **Kanone Revenge**
-Morale (Str and CP), Royal buff Olivier
+Morale (Str and CP) ASAP
 Haven Whip to get ready
 
-Estelle Morale or Mixed to Olivier 
-Joshua Mixed to Schera, sometimes Zeram
-Olivier Clock Ex Schera
+Estelle Morale or Mixed to Joshua
+Zin Mixed to Schera, sometimes Zeram
+Joshua Clock Ex Schera
 Launch SBreaks, Heaven Whip, Repeat
 
 [PAGE]
-Turn in **Rewards**, bottom for UMat+
-**Shopping** for accessories
-Buy: Armor x2, Shoes x2, Blue Sphere, Flame Zippo x3
-Upgrade: Armor, shoes, Blue, Flame Zippo as much as able
-
-Equip: Crit armor/shoes for all but Schera,
-  Estelle Zippo/Skull, Joshua Zippo x2, Olivier Blue x2  
+Turn in **Rewards**, might have more UMat+
+**Shopping** for more upgrading
+Upgrade: Red Sphere, shoes if left over
 
 Floor 3: Right after corner, 
   left before door, right ASAP
@@ -875,38 +905,33 @@ Heal up CP/EP
 [PAGE]
 
 **Richard and Mechs**
-Let Richard take a turn - Groups up/Olivier damage
-  Defend if all 3 enemies taking a turn
-  Olivier dying is fine
-
-Buff round, Estelle Morale and Royals (watch Olivier HP)
-Olivier Clock Ex if need to bring Schera up
-Then into loop as before
+Same idea as before
+Get Morale up ASAP for CP regen
+We have low HP so Schera whip ASAP
   
-Estelle Morale or Mixed to Olivier 
-Joshua Mixed to Schera, sometimes 
-Olivier Clock Ex Schera
+Estelle Morale or Mixed to Joshua
+Zin Mixed to Schera, sometimes Zeram (90CP)
+Joshua Clock Ex Schera
 Launch SBreaks, Heaven Whip, Repeat
 
 [PAGE]
 
-Reverie 1 - don't worry about Olivier HP, shorter fight
-Reverie 2 - one attack isn't very scary, let it happen
+Reverie 1 - doesn't recover from break, can spam attacks near end
+Reverie 2 - one attack isn't very scary, can let it happen
 
 **Reverie** - both battles, same thing
-Buff round,  Estelle Morale and Royals (watch Olivier HP)
-Ok for enemy to take a turn, might hurt Olivier
-Then into loop as before
+As before, Morale ASAP and start the rotation
   
-Estelle Morale or Mixed to Olivier 
-Joshua Mixed to Schera, sometimes 
-Olivier Clock Ex Schera
+Estelle Morale or Mixed to Joshua
+Zin Mixed to Schera, sometimes Zeram
+Joshua Clock Ex Schera
 Launch SBreaks, Heaven Whip, Repeat
 
 Watch delay, sometimes have time to feed out extra items
+  mixed or Zeram to line up SBreaks is good
 
 [PAGE]
-FT East, walk to scene
+Walk to park area in east
 Out of room, left and up stairs
 Tight left, straight ahead
 Try not to cry
@@ -916,126 +941,14 @@ DONE!!
 
 [PAGE]
 
-
-
-TODO: Not Agate for final fight?
-Tita gives group CP restore, so Joshua and Estelle do most of the damage instead. Better? Also less pressure on Schera's CP which is good if not enough Zeram
-  If Tita is close to Agate in speed and really saves Zerams then might be worth to allow Zeram spam in Chap3/4 (Aero storm dropping off)
-  Could potentially get ultimate weapons for Estelle/Joshua too since they are now DPS, again helps with Chap3/4 spam
-  Need 2 Cut3s for this but easy enough to get that
-  Every few rounds need to Mixed Cocktail Estelle/Joshua for EP but that also gives CP so not too painful
-Olivier can use Fury to deal lots of damage if we can keep at low HP, probably doable with drinking Cocktails
-  Dreamy Shell is good revive item for low HP, bad one gives 10HP
-  Olivier also Craft boosts as support, free (random) damage
+Most likely thing to cut from this route is the cooking
+It isn't needed but the extra stats can help and we are in a lot of fights for a long time
+My opinion is don't cut the evade cooking, they are pretty easy to get and 4 extra evade% when you have 80% is a lot
+  You go from getting hit in 1/5 attacks to 1/6 attacks, 20% better. Something something non linear returns.
+The speed recipes are more questionable (drill meatball and fish one), especially because they take extra fights to get ingredients
+But reasons to still get:
+  The extra speed does matter, just 2 speed saves a bit of delay on everything we do. Adds up over a long fight to maybe an extra turn
+  We sometimes eat all of our drill meatballs, cooking an extra can matter
+  The food item from the fish recipe gives HP regen, that is very helpful for the Crimson Tower fight vs Special Ops
+    Agate can eat the HP Regen food to offset some of the Wild Rage damage and counter damage
   
-Ultimate Weapons?
-Can buy Carn 8-11 after tournament. 8k,9k,10k,15k
-Carn 6-7 before leaving Zeiss, 6k, 7k
-Carn 5 in Ruan, 5k
-Carn 1-4 in Bose Market, 1-4k
-
-
-Rough timings on Richard
-
-Agate standard - easy start
-Start - 0.47
-First SBreak - 1.07
-End - 6.19
-Time Taken: 5.32 / 5.12
-Powers/Mixed left: 1/9
-
-
-Tita - with bad split on Richard
-Start - 24.02
-First SBreak - 24.32
-End - 31.14
-Time Taken: 7.12 / 6.42
-Powers/Mixed left: 4/21
-Second attempt which was cleaner was 6.26 w/ 2 Zerams used (better start, bad luck on turn order stuff)
-
-
-Olivier - great start, no one died and low HP. Olivier did get a heal at some point :(
-Start - 31.48
-First SBreak - 32.31
-End - 36.51
-Time Taken: 5.03 / 4.2
-Powers/Mixed left: 1/5
-
-
-
-
-	Slot	Quartz		
-Earth	2480	900		3380
-Water	2480	1050		3530
-Fire	2480	600		3080
-Wind	2480	1500		3980
-Time	2720	300	180	3200
-Space	2480	360	300	3140
-Mirage	2480	600	150	3230
-				
-Skip				
-Evade2				
-Act2 x2				
-Cut2				
-
-Get 780 time in second parts
-
-NEW PLAN???
-Skip one Cut2, we'll get it later have Cut1
-3550 Time for Act1, Act2, ADef2 and upgrade Act2
-
-
-Cooking THINKING
-
-
-Trails Sky 1 Recipes
-
-Speed
-Drill Meatballs, Prologue, 2 - quest, tender
-Cheese Risotto, Chap1, 2 - Kirsche, Seed, Tail
-Fried Samona, Chap1, 2 - Fishing Inn, special, Seed, Samona
-Artisan Rice Curry, Chap4, 2 - Coffee house, Tail 2, Tender 2
-
-
-HP
-Maple Cookie, Prologue, 20 - free!
-Crepe, Chap1, 60 - quest, no monster parts, make for CP
-Morning-Picked Herbal Tea, Chap2, 120 - White Magnolia, seed, powder
-Orange Ice Cream, Chap2, 140 - School festival, Passion Orange?, gelatin
-Fresh-Squeezed Juice, Chap2, 80 - School festival, horn, gelatin
-Black Pepper Soup, Chap3, 160 - Forgel, seed, tail, meat
-Seasonal Tart, Chap3, 180 - Forgel, Seed, Powder, Gelatin
-Concentrated Espresso, Chap4, 200 - Coffee house, Seed 2, Powder 2
-
-Ats
-Red Tail Soup, Chap1, 4 - Kirsche, Tail
-Samona Meuniere, Chap1, 5 - Finishing Inn, a fish? Can force catch in minigame?
-Salt-Crusted Small Fish, Chap3, 6 - Air Letten, shell, powder
-Special Eggnog, Chap3, 8 - Maple Leaf Inn, horn, bird egg 2
-Mixed Cocktail, Chap4, 10 - Sunnybell, Seed, Eye x3
-
-Evade
-Potato Salad Sandwich, Chap1, 2 - Haken Salad Sandwich special, Fang
-Beast Steak, Chap1, 2 - chest north of Ravennue, Meat
-
-
-
-Looks like we have
-Horn, Fang, Shell, Bone, Powder, Tail, Meat - lots
-Eye - 6
-Gelatin - 1
-
-If we got Seed and Tender could have free 6 speed, 1 tender and 3 seeds
-  -- extra seeds gets us 120 HP in Chap2 (herbal tea) and 160 in Chap3 (Black Pepper)
-4 evade from picking up two extra recipes - chest and Haken gate, should have monster ingredients from grind
-
-Extra ingedients doesn't seem too hard
-One way to Mistwald kill plants for Seeds, they are easy by this point. 2 min, 3 gets 5 ATS as well
-
-Extra stops:
-  Kirsche for Cheese Risotto and Red Tail Soup
-  Haken Gate for Salad Sandwich
-  Ravennue north area chest
-  Fishing Inn for Samona
-  White Magnolia for Herbal Tea
-  Forgel for Black Pepper Soup
