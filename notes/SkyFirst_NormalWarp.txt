@@ -1,0 +1,452 @@
+# My Sky First Chapter Normal Warp
+
+Step 1: Try not to fail the long warps
+Step 2: Fail the long warps
+
+
+[PAGE]
+
+## Bracer Exam
+
+Home - life drop
+Town - ground mira
+Arms - weapons for Estelle and Joshua
+
+Bracer to start quest
+**Shopping**
+Quartz: Mind1, Act1, Hit1
+Slot: Joshua
+
+Make **save** in sewers for coordinates
+
+Sewers tutorial - tutorial fights easy
+Boss - Joshua kill front rats (they tank)
+  Always get side/back bonus on boss from crafts
+  Don't heal, just spam crafts. Reset if you die.
+
+[PAGE]
+## Day1/2 - Tower/Poms
+Shop for story
+
+Path to tower - ground mind, ground mass
+
+Tower - make **save** next to left wall
+Tower - 2nd option for 3 cats
+Cat rescue:  Morale, Joshua heal item, Flicker, 
+  Morale, Hurricane, Estelle SBreak, Flicker into clean up
+  
+Cut grass on way home for reward - CP for both
+
+FT Bracer, grab quests, do kid quest
+  
+Highway - Right for ground spirit, sepith chest
+Pom grind - Estelle SBreak, 1 rest between
+Get 270 earth/220 time and shop
+
+[PAGE]
+**Shopping** Orbal then Arms
+Exchange trick for mira
+Quartz: Def, Break, Atk, Cast, Hit
+Slot: Estelle x2, Joshua x1
+Arms: Armor, shoes, 4 black bangles (10k-ish)
+
+**Setup**
+Estelle: Def1, AutoPhys
+_Joshua: AutoPhys
+  
+Fishing grind up to 6, Estelle just Pummel ASAP
+
+Stick left to farm, ground/chest drops
+Turn in **rewards** and use life drops
+
+**Crop Muncher**
+Meatball each ASAP for Str
+Morale to keep str up, otherwise spam crafts
+Overdrive to clear blind, heal items as get low
+Estelle SBreak on summons once grouped
+Spam crafts to end
+
+[PAGE]
+## Day 3 - Mine/Tower/Detective
+
+**Setup**
+Estelle: Hit1->Cast1
+
+Bracer, next quest mayor
+**Rest** at Inn, once enough
+Leave for mine, sepith chest on second left plateau
+Mine fights: Estelle earth spell, Joshua Flicker
+  Watch cast times for aiming!
+  Might need heals between fights, use orb
+
+Town: Mayor, Bracer, Hotel, Restaurant, Orbal
+
+Tower
+Floor 2 - Save for coordinates as enter
+Floor 4 - straight ahead chest for sepith
+
+FT Bracer to start Detective Estelle!
+Vault, balcony, attic, two people, front door, report
+All 1st (don't want BP)
+FT Hotel (rest x1), Airport, run to Orbal
+Orbal: 250, Exchange **not time**, Estelle 3
+
+[PAGE]
+**Setup**
+Schera: EP2->Hit1
+_Estelle: EP2 on
+Equip: Schera Black x1 (from Joshua)
+
+**Rhino**
+Spread out some but stay in Earth Guard range
+Firebolt spam, use Morale for str
+Break, triple SBreak w/ some str up
+
+**Monster Cave**
+Grab Zeram and out
+
+Still need tender? Fight more birds
+  
+[PAGE]
+**Setup**
+Hotel for full CP
+**Reward** turn in, need consumables
+FT Mistwald
+  
+**Josette**
+Need 3 adds to stay grouped for Schera SBreak
+If Schera first, meatball self 
+Schera SBreak ASAP, need to hit 3 adds
+Earth Guard, Zeram Schera, SBreak her again
+Zeram Schera 2nd time for CP
+Spam delay crafts, keep up Earth Guard and Morale
+Triangle formation around Josette to avoid AoE after adds
+
+[PAGE]
+
+## Chapter 1
+Restaurant for quest, FT farm
+  Chicken x2, Greenhouse, Cow
+
+FT Verte, get book
+Run to Bose, ground mass on right, scene
+
+Warp to West Bose, sepith chest and Zeram
+
+**Bose** quests/shopping
+Bracer, ground mass, mansion
+Market: Shoes x4, Scarves x2
+  Sell: non life/magic drops
+Also Market: 11 Flower Jelly, 5 EP1, News???
+FT out, arms then Orbal for FT
+Arms: Weapons, armor
+Orbal: Upgrade armor/shoes
+  
+Church, FT Market, leave town 
+
+**Haken Gate**
+Walk there, ground UMat on right
+Solider, inside recipe, Olivier x2
+
+[PAGE]
+
+**Setup**
+Equip Olivier with shoes/scarves
+Quarts: Unequip Schera, AutoPhys Olivier
+
+FT to Gate, warp through it
+Fight Poms to 30, Olivier is best w/ Arts craft
+
+FT Orbal: Attack2, Cast2
+FT Mistwald, head into cave for 3 clears
+
+**Rewards** check, quick and Pom Zerams
+
+Head to gate, Sewer warp through
+
+[PAGE]
+
+**Grancel**
+Act2 on left side, head to right sewer
+Grab sepith chest and Oli weapons, FT out
+Run towards gate, ground Impede2, leave
+
+**Zeiss**
+Run to town getting loot and FT
+  UMat, Sepith, Time, Drops
+Into Tunnel, under lamp to warp with sewer (save wall)
+  Run for Zeram items
+FT to road for Zeram, FT to Air to leave
+
+**Ruan**
+Cave to town for loot
+  Zeram, Golden, Sepith
+FT at town, head to Scent
+  UMat, Sepith, Scent chest (setup first!)
+
+[PAGE]
+
+**Setup**
+Equip Oliver **weapon**
+Oliver: EP2, AutoMagic, Wind last 2
+Estelle: AutoSpeed, Cut1 on left
+
+**Chest**: Wing or Aero ASAP, Delay spam
+
+***Setup**
+Estelle off
+EP2, Cast2, Imp2, Act2, Sweet
+Act2->Atk2, Imp2->Golden
+Atk2->Mind2->ADef2
+
+**Rewards** -> FURY!
+
+**Setup**
+Oliver: AutoMagic, Golden->Evade2
+__Estelle: AutoSpeed, left Cut1, Right EP1
+_Schera: AutoPhys
+
+
+[PAGE]
+FT Gate, 30fps through door
+Run to monster cave
+  UMat and EP3 on way
+
+
+**Grind**
+Penguins only
+Oli build CP/drop HP, swap to Estelle
+  SBreak, Accel, Aero, SBreak
+Grind till 5500 Time
+
+[PAGE]
+
+Rebuild **CP** on everyone
+  Heal EP as needed
+
+**Chest fights**
+Sylphen ASAP, Delay spam
+  Oliver SBreak, accel, Aero
+  SBreak as needed
+  
+  
+Need **save** on Estelle's chest
+Equip both **weapons**
+  
+FT to gate, back to Grancel
+FT back to Rolent, Orbal
+
+[PAGE]
+**Shopping**
+Exchange trick!
+
+Slots for all but Schera
+Totals for quartz:
+Break2 x5, Mind2/HP2 x5
+  Atk2/Strike2 x4, ADef2/Evade2 x5
+Cast1 x2, Cast2 x4, 
+  Hit2 x2, Cut2 x5, EP2 x5
+
+**Setup**
+All unequip quartz
+Oliver: AutoMagic, Golden -> Evade2
+_Schera: Balanced, Golden -> Cast2
+__Joshua: Balanced, ADef2, Evade2, EP2 / Cut2
+___Estelle: Magic, Mind2, Golden -> Wind 
+              / Atk2 -> Mind2
+
+[PAGE]
+
+**Shopping** at General shop
+EP Charge2 x21, Relax/Insulate x5ish
+  Proxy M x21
+Eggs, Milk, Sugar, Flour x500
+
+**Setup**
+Turn in **rewards**, drops/zeram
+Life on Estelle, Magic on Olivier
+Estelle/Joshua: Bangle/Proxy (or T-Anklet)
+_Schera/Olivier: Colorful/Proxy
+
+**Cook** Crepes x99
+
+FT Hotel, rest x2
+
+[PAGE]
+
+FT Gate, Sewer warp through
+FT other Gate, run to monster Cave
+
+**Grind** part 2 - shark room
+Olivier build CP, swap to Estelle
+  SBreak, accel, Aero
+  Joshua SBreak (first if no Zero Arts)
+  Aero clean up
+Looking for 36/37ish, level 5 support, 800 sepith
+
+[PAGE]
+
+Heap up **CP/EP** as needed
+
+Warp to Villa use Zeiss chest point
+  Head South for Villa
+
+Grab Zeram, hit flags
+
+**Armored Spec Ops**
+Wing, Jelly Olivier
+Aero Storm spam till broken
+Olivier SBreak, Schera turn -> SBreak rest
+Heaven Whip -> Aero clean up
+
+**Unequip**
+Unequip Schera, she'll steal your quartz
+**Unequip**
+
+[PAGE]
+
+FT into sewers, run through
+  Grab sepith chest in North block
+  
+**Shopping**
+Shoes x5, 
+Cast1->2, Kloe Slot
+
+**Setup**
+Re Proxy!
+Kloe: Balanced, ADef2, Evade on right
+_Schera: Balanced, Golden->Cast2 / Cut2
+
+Heal **CP** as needed
+
+[PAGE]
+
+Heal **CP** as needed (guys team)
+
+**Special Ops** the Olivier show
+Clock Up Ex and Wing ASAP
+Flower Jelly buff
+Aero Storm till break, Oliver SBreak
+Accel, Aero Storm clean up
+
+[PAGE]
+
+**Kanone**
+Clock Up Ex Chain, Kloe Aura
+Wing x2, Aero spam
+Keep Wing up, long fight
+Kloe Ult if proxy pops
+Swap to Shadow Spear in second part
+
+**Setup**
+Re Proxy up
+Kloe: Sweet Fury
+Heal **CP** and rest
+
+[PAGE]
+
+**Castle Raid**
+Re Proxy and heal up between fights
+
+Fights: Clock up Ex, Wing open
+Aero Storm spam, focus on Kloe turns
+
+Get to locked door, warp with Jade Tower **2nd floor**
+
+Remove Proxies!!
+
+**Lorence**
+Still just die
+
+[PAGE]
+Take Schera and Agate
+
+**Rewards** for UMats/Zeram
+
+**Shopping**
+Shoes x1, Flame Zippo x4
+Upgrade Flame Zippos (12 UMats)
+Agate slots
+
+**Setup**
+Re Proxy
+Unequip Tita, Estelle, Joshua, Schera
+Agate: AutoPhys
+__Joshua: AutoPhys, Hit2->EP2
+___Estelle: AutoPhys, Golden->Strike2 / Cut2, EP2
+_Schera: AutoPhys
+
+[PAGE]
+
+Heal up **CP** and cook again
+
+Warp Jade tower coordinates, Agate chest
+
+Fight: Accel Schera, Whip
+Morale, SBreak spam w/ Schera Accel
+
+Run through 2nd floor, Umat and final chest
+
+Run to bridge, use Jade Tower **1st floor**
+
+**4th floor**
+Heal up **CP** again
+Left for EP4 and Joshua chest, FT back
+Right for Estelle chest
+
+Fight: Run if bad turns/seal
+Morale, Schera turn -> Agate/Josh SBreak
+
+Run through 4th, Capsule chest, get final FT
+
+[PAGE]
+
+FT back to 1st, upgrade weapons
+You did **equip** the weapons right?
+
+FT to 3rd floor
+Heal **CP** again
+
+**Kanone**'s revenge
+Schera loop stuff. Burn 1-2 Powder here
+
+[PAGE]
+
+FT to bottom floor
+Heal **CP** again and cook last time
+Heal **EP** at rest if needed
+
+**Richard** and friends
+Whip up some turns ASAP
+Keep Morale up
+Watch EP and CP, don't drop infinite turns
+Should be broken in phase 3, attacks do about 5k
+
+
+[PAGE]
+
+Same idea through two Reverie phases
+
+**Reverie**
+Get levels into this? If not, watch EP
+Keep Morale up
+Watch EP and CP, don't drop infinite turns
+
+In second battle in third phase check Zeram
+  Spam rest of items, last fight
+
+[PAGE]
+Walk to park area in east
+Out of room, left and up stairs
+Tight left, straight ahead
+Try not to cry
+
+[PAGE]
+DONE!!
+
+[PAGE]
+
+TODOs
+
+We could probably skip the Rhino fight in Prologue on way to Mistwald. FT to farm and OoBs into Mistwald
+Worth going OoB into Bose when doing Verte Bridge grind? We get Chapter 1 weapons and can use the FT point later

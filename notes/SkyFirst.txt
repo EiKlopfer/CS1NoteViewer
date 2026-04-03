@@ -941,7 +941,13 @@ DONE!!
 
 [PAGE]
 
-Most likely thing to cut from this route is the cooking
+TODOs
+
+FURY! We can get the Fury quartz in Chapter 2 with opening Kloe's final slot, buying Sapphire Shield and picking up Golden Shield.
+  Still need to look into if this saves enough time, 3ish big fights with it, and how much the extra sepith use hurts use
+  Ruan Monster Cave with Joshua's SBreaking it can get more sepith
+  
+Next most likely thing to cut from this route is the cooking
 It isn't needed but the extra stats can help and we are in a lot of fights for a long time
 My opinion is don't cut the evade cooking, they are pretty easy to get and 4 extra evade% when you have 80% is a lot
   You go from getting hit in 1/5 attacks to 1/6 attacks, 20% better. Something something non linear returns.
