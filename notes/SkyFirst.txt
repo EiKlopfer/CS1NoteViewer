@@ -3,10 +3,6 @@
 Step 1: Try not to die a lot
 Step 2: Die a lot
 
-TODO: Cave vs Poms in Prologue? More walking and miss out on Zerams... probably bad
-  Yeah, seemed a bit slower even with good luck. With bad luck much slower I'm sure
-  Maybe go fishing for Sepith up turn on first kill though
-
 [PAGE]
 
 ## Bracer Exam
