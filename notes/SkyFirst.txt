@@ -3,6 +3,10 @@
 Step 1: Try not to die a lot
 Step 2: Die a lot
 
+TODO: Cave vs Poms in Prologue? More walking and miss out on Zerams... probably bad
+  Yeah, seemed a bit slower even with good luck. With bad luck much slower I'm sure
+  Maybe go fishing for Sepith up turn on first kill though
+
 [PAGE]
 
 ## Bracer Exam
@@ -83,6 +87,7 @@ Town: Mayor, Bracer, Hotel, Restaurant, Orbal
 Tower
 Floor 3 - middle chest for recipes
 Floor 4 - straight ahead chest for sepith
+Floor 5 - straight ahead chest for Curia
 
 FT Bracer to start Detective Estelle!
 Vault, balcony, attic, two people, front door, report
@@ -107,14 +112,14 @@ Break, triple SBreak w/ some str up
 Grab Zeram and out
 
 Still need tender? Fight more birds
+Mistwald point, eat Dreamy, FT hotel
   
 [PAGE]
 **Setup**
+Cook Meatball and then Dreamy (can miss dreamy)
 Hotel for full CP
 **Reward** turn in, need consumables
-Eat Dreamy, FT Mistwald (autosaves)
-Cook Meatball and then Dreamy (can miss dreamy)
-Save before fight, reload likely
+FT Mistwald, save before fight
   
 **Josette**
 Need 3 adds to stay grouped for Schera SBreak
@@ -200,7 +205,6 @@ __Schera: Upgrade, Cast1 in empty (we stole Cast2)
 Clothes: Scarves x4 on Estelle/Joshua
 Food: Flower Jelly x15
 Books: all
-Item: EPCharge2 x5
 Cooking: Egg, Milk, Sugar, Flour x100, + 10 Flour
   Cheese, Salt, Black Pepper x11, Oil x2, Tri Rice x1
 Fruit: Onion, Fresh Herb, Royal Leaf x11
@@ -210,7 +214,10 @@ FT Ravennue (autosave, about to cook)
 
 [PAGE]
 Cooking: Beast, Salad, max Sunshine w/ Joshua
+**Rewards** and drops on Estelle
+
 Inn, rest x2
+  **Shopping** upstairs for Fresh x11
 Outside to cemetery, key get
 FT Abandoned Mine, run left
 
@@ -326,7 +333,6 @@ Walk to ocean, two chests on left
 
 **Manoria Visit**
 Enter Inn, rest if Estelle needs CP, scene
-  Buy Morning Tea x5 while here for EP healing
 Leave, scene x2
 
 [PAGE]
@@ -365,7 +371,7 @@ Ruan **Shopping** - Arms/Orbal
 Turn in **rewards** for UMats
 Arms: Weapons for both, Cool x1, Skull x6
 Hotel for FT point
-Quartz: Cast2, EPCut2 (if only have 1 which is common)
+Quartz: Sapphire Shield, Cast2, EPCut2 (if only have 1 which is common)
 Upgrade: Skull x3, Cool x1
 
 **Setup**
@@ -391,16 +397,33 @@ Continue Aero Storm spam, Estelle SBreak to clean up
 
 [PAGE]
 **Setup**
-Kloe: Off, **Speed**, Ruby -> Cast2
+Kloe: Off, **Balanced**, Ruby -> Cast2
 Equip: Kloe Skull+/Colorful
 
-FT Bracer, FT out
+FT Bracer, FT south
+Path for Sepith, Golden, Cave
+Kloe lead, Joshua SBreak for Sepith
+  1ish battles for 200 Sepith and ground Zeram
 
-**School Visit**
+Air-Letten point, FT Orbal
+**Orbal** shopping: Kloe slot
+FT out, head to school
+
+**School Walk**
 Left for ground Umat, then right for chest UMats
 Stay right for Sepith chest and then monster chest!
 Monster chest: JE spam Aero, Kloe Clock Ex
 
+[PAGE]
+
+**Setup** for Fury
+Kloe: First/Lase: Sapphire, Sweet
+  Cut2->Golden, Cast2->Evade2
+  Auto Speed, HP2, Gold->Cast2, Cut2->Cut1
+**Rewards** for fury and drops
+  Life/Magic drops for Estelle
+Estelle: ADef2 -> Fury
+  
 **School Runaround**
 Headmaster, Student Council
 FT out, Headmaster, Cafeteria
@@ -469,10 +492,10 @@ FT Ruan x2 (until Bracer), FT South
 **Cooking**, might have got more monster seeds
 
 **Setup**
-Estelle: Wind to Water (Blue Impact)
 Kloe: Auto up (Act2 from Agate)
 Joshua: ADef2 -> Sweet Aroma (evade tank)
 Equip: Joshua Colorful -> Cool
+  Estelle Skull off/on (half HP)
 
 **Mayor's Dogs**
 Sylphen Wing (only Joshua so Clock if needed)
@@ -495,39 +518,41 @@ Swap to Shadow Spear/fire for Joshua on single target
 ## Chapter 3
 
 Walk to Item shop: News 5/6, book
+  Proxy small x2
 **Setup**
 Equip: Joshua Colorful
 
-Air-Letten, stay right for chest sepith
-Monster Cave for Zeram
+FT Air-Letten
 
 **Kaldia Tunnel**
 Left branch, ground UMat and chest UMat
 
 Tutorial fight: Wing then Deathblow fish, Joshua craft/Estelle Shadow
-**Rewards** for Cast3? Clock Up Ex spam in fight to hit that/get close
-  You'll have Cast3 if you died and retried any fight (retry keeps count)
+
+**Check progress** sepith 1000 water/fire, Rewards for Cast3
+  Right check if under 1000
+  Spam fight with Clock Up Ex to work towards Cast3
 
 Right chest EPCharge before healing orb
-Tita fight: Tita SBreak mainly finishes, one other AoE
+Tita fight: Tita craft then SBreak
 
 [PAGE]
 Leave cave
 
 **Zeiss Runaround**
 Leave Factory, Bracer Guild
-**Shopping** Arms: Weapons, Craft shoes for Joshua
-Hotel, rest x2
+**Shopping** Arms: Weapons
+Hotel, rest x1
 FT Factory, lobby, 2F, FT out, Tita house
 FT Bracer, FT Factory, 3F, 5F, Basement
 FT City, Airport - ground UMat, FT Factory
 
 **Shopping** Orbal at factory
-Quartz: Break3, Mind3 x2 (one ok), Atk3, Hit3
-Upgrade: Act3 (E), Skull, Craft shoes
+Quartz: Mind3 x1, Atk3
+Upgrade: Act3 (E), Skull
 
 **Setup**
-Estelle: Wind on left, Cut2 mid, Mind3 right, Cast3 top
+Estelle: Cut2 mid, Cast3 / Mind3
 
 [PAGE]
 **Zeiss Questing**
@@ -548,7 +573,7 @@ FT Zeiss, FT Zeiss, run into factory
 3F, 5F, FT Factory, leave
 
 [PAGE]
-Agate: Auto up, HP2 -> Break3
+Agate: Auto up, EP2/Cut2 left
 Equip: Agate Skull+, Colorful
 FT Town, FT Bracer,
 FT Arms: Agate Weapon
@@ -565,9 +590,9 @@ Clock Up Ex Agate, more SBreaks
 Aero clean up
 
 **Setup**
-Joshua: Evade2 -> HP2
-Equip: Joshua Skull+
-Rewards, Estelle magic drops
+Estelle: Evade2 -> Sweet, **Cast3** (if late)
+_Joshua: Wind -> Earth
+Equip: Estelle Proxy x2
 
 FT Inn, rest (hot springs 200CP)
 
@@ -578,12 +603,13 @@ Tower 5F right chest, Mind3
 
 [PAGE]
 **Special Ops 2**
-Sylphen Wing open, Royal Estelle and Agate
-Royal buff Agate and Estelle
-Joshua Clock Ex Agate, healing otherwise
-Agate Wild Rage, then item (HP/EP) someone, SBreak
-If triple rage: defend/quick Joshua/stay alive
-SBreak away if can kill the two melee guys
+Sylphen Wing open, Royal/Flower Estelle
+Joshua/Agate Clock Ex Estelle mainly
+Estelle Aero, Wing or Saint to keep buffs up
+After Estelle low, Joshua keep Earth Wall up for counters
+
+Will need to heal EP a lot here, keep eye on that
+Agate SBreak to clean up, Str up for 7k damage
 
 [PAGE]
 
@@ -591,11 +617,13 @@ FT Crimson, walk back
 FT Zeiss, church, FT Bracer
 
 **Setup**
-Joshua: ADef2, Evade2 (left slots)
-Tita: Def2->EP2 (Clock Ex)
-Zin: HP2->Sweet, Auto Up Atk3
-Equip: Joshua Colorful, Tita Skull+, Colorful
-  Zin Skull+, Cool, Agate Skull
+Estelle: Sweet -> Evade2
+_Joshua: ADef2, Evade2 (left slots)
+__Tita: Def2->EP2 (Clock Ex)
+___Zin: Break2->Sweet, Def->Break, Auto Up Atk3
+Equip: Estelle Skull+, Colorful
+  Tita Skull+, Colorful
+  Zin Skull+, **Cool**
 
 FT Hotel, rest x2
 FT tunnel, walk in
@@ -624,14 +652,17 @@ FT Bracer, walk out new path
 Star far left to avoid Monster Hunt
 On right before gate, chest UMat
 Get FT point, back out
-Ground drop behind rock, time sepith
+Ground drop and chest for sepith
 Get gate FT point, ground UMat in corner
 
 FT back to fort road, stay left chest Zeram
 Hit scenes at Fortress
-FT Inn, rest (200CP from Hot Springs)
 
-FT Hotel, Run Tita house, FT Bracer, run airport
+**Setup**
+Equip: Agate Skull+
+
+FT Inn, rest (200CP from Hot Springs)
+FT Zeiss, Run Tita house, FT Bracer, run airport
 Airship top floor, outside, in box
 Run right to target
 
@@ -663,15 +694,19 @@ Boat to end
 Walk to shop, buy **books**
 FT out, walk to airport, scenes, walk out
 FT to gate, scenes
-Rest x2 at gate
+Rest x1 at gate
 Right past city for ground UMat
 
+**Rewards** for UMats/Shields
+
 **Grancel Runaround 1**
-Food stand: Royal Crepe x21
+Food stand: Royal Crepe x21, Gorgeous x5
+  Sell: Sapp shields, Gold shield
 Arms: Weapons
 Grab west FT point
 Bracer, East block FT, Castle
 Market: Sell drops/weapons, Blue Sphere, News 8
+
 Arena, watch fights, waiting room
 Tavern, Calvard
 
@@ -679,6 +714,9 @@ Tavern, Calvard
 
 **Zin search**
 FT to gate, chest by cave, cave loot
+Sepith needs: Earth 2200, Time 1700
+Monster Cave: Estelle lead, Joshua Sbreak sepith
+
 Run past Zin find, ground UMat
 Fight 1: Aero or Estelle SBreak
 Fight 2: Joshua/Zin SBreak ASAP, Aero clean up
@@ -688,19 +726,18 @@ Go to sleep, get full party
 
 **Grancel Shopping**
 Arms: Weapons for guests
-Quartz: Cast3
-Slot: Olivier
-Olivier: EP3, Cast3, Sweet, Heal, Ruby
-Turn in rewards (Fury!)
 
+Quartz: Break3, Cast3
+Slot: Olivier
 Upgrade: UMat+ (12), Cast2->3, Blue Sphere+
   Estelle/Joshua/Zin weapons
 
 [PAGE]
 
 **Setup**
-Joshua: EP2->Cut2 / Mind2 (or Mind3 if bought 2 in Chap3)
-Zin: Auto upgrade, HP2->Sweet
+Estelle: Fury->ADef2
+Joshua: EP2->Cut2 / Mind2
+Zin: Auto upgrade, Break3->Sweet, Def3->Break3
 Olivier: Off, **Magic**, Evade2, Cut2 on last two
 
 Equip: Estelle/Joshua Metal/Craft as needed
@@ -759,9 +796,8 @@ More scenes, maid quarters
 Finish up scenes
 
 **Grancel Super Runaround**
-Sunny, quest and Mixed Cocktail x99
+Sunny, quest and Mixed Cocktail x79
 FT Arms quest
-FT out food stall -> Royal x11, Gorgeous x5
 Market sell weapons/quartz (Def3, HP2, Atk2, EP2)
   Get all books then finish Market quest
 Hotel Rest x2, quest upstairs
@@ -774,7 +810,7 @@ Church, Bracer x2
 **Setup**
 Estelle: Weapon/Blue+, Fury
 _Joshua: Weapon
-Use drops on Estelle
+**Rewards**, use drops on Estelle
 Eat food for CP/EP between fights
   
 **Villa Storm**
@@ -800,7 +836,6 @@ Chest after big toad, Sepith
 
 **Team split** - girls
 Sepith exchange trick - for Earth/Water/Wind
-Slots: Kloe
 Quartz: ADef3 x2, Cast3
 Shop: EPCharge3 x11, Thelas Balm x11, Curia x11
 
@@ -850,10 +885,10 @@ Turn in **rewards** for more UMat+
 
 **Shopping**
 Sepith Exchange trick remaining types
-Quartz: Strike3, Death Blade, Mute Blade x2, Chaos Blade x2
+Quartz: Strike3, Death Blade, Mute Blade x2, Chaos Blade x1/2
 Equip: Armor x2, Shoes x2 (EJ), 
     Flame Zippo x4 (EZ), Red Sphere x2 (J)
-Upgrade: Armor, Zippos
+Upgrade: Armor, Zippos (Zin if low UMat)
 
 **Setup**
 Equip: Zin crit armor
@@ -941,12 +976,15 @@ DONE!!
 
 [PAGE]
 
-TODOs
+Things to still look into
 
-FURY! We can get the Fury quartz in Chapter 2 with opening Kloe's final slot, buying Sapphire Shield and picking up Golden Shield.
-  Still need to look into if this saves enough time, 3ish big fights with it, and how much the extra sepith use hurts use
-  Ruan Monster Cave with Joshua's SBreaking it can get more sepith
   
+Move some of the grind to Ruan cave? Quick timings show it giving 700ish sepith/minute vs Bose 400ish a minutes
+  Need to hit level 21 though
+  And would leave Joshua weaker through Chapter 1 as we'd skip opening his final two slots. But Chap1 certainly still doable.
+
+Below are original thoughts on food but I'm quite liking doing cooking now since we often get monster ingredients by rolling through bushes
+
 Next most likely thing to cut from this route is the cooking
 It isn't needed but the extra stats can help and we are in a lot of fights for a long time
 My opinion is don't cut the evade cooking, they are pretty easy to get and 4 extra evade% when you have 80% is a lot
